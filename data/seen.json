@@ -349,6 +349,94 @@
    "key": "responsable assurance qualite fournisseurs|nutribio",
    "at": "2026-10-23T15:55:06+00:00",
    "reason": "Poste de responsable assurance qualité fournisseurs agroalimentaire (nutrition infantile) sans lien avec les missions de la candidate en analyses des eaux, avec 7 ans d'expérience exigés et management d'équipe, alors que la candidate a environ 1 an d'expérience."
+  },
+  "4483102662": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur R&D en Modélisation Atmosphérique H/F",
+   "company": "TotalEnergies",
+   "key": "stage ingenieur r d en modelisation atmospherique h f|totalenergies",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4482899747": {
+   "status": "title_excluded",
+   "title": "STAGE - Innovation Officer Clinical Development (H/F)",
+   "company": "Servier France",
+   "key": "stage innovation officer clinical development h f|servier",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4464536054": {
+   "status": "title_excluded",
+   "title": "Technicien mesures VLEP/aération/ventilation/QAI H/F",
+   "company": "SOCOTEC",
+   "key": "technicien mesures vlep aeration ventilation qai h f|socotec",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4482081607": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur (Etude du Process de découpe à la forme de verres ophtalmiques) (H/F)",
+   "company": "EssilorLuxottica",
+   "key": "stage ingenieur etude du process de decoupe a la forme de verres ophtalmiques h f|essilorluxottica",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4483101718": {
+   "status": "title_excluded",
+   "title": "Technicien Réseau d’Eau (H/F)",
+   "company": "Veolia",
+   "key": "technicien reseau d eau h f|veolia",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4474333122": {
+   "status": "title_excluded",
+   "title": "Directeur de Projet UVE (H/F)",
+   "company": "WSP en France",
+   "key": "directeur de projet uve h f|wsp",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4481912590": {
+   "status": "title_excluded",
+   "title": "Directeur Services Techniques et Ingénierie H/F",
+   "company": "LFB",
+   "key": "directeur services techniques et ingenierie h f|lfb",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4483110504": {
+   "status": "title_excluded",
+   "title": "Stagiaire Hygiène Sécurité Environnement (H/F)",
+   "company": "Servier France",
+   "key": "stagiaire hygiene securite environnement h f|servier",
+   "at": "2026-10-23T17:15:29+00:00"
+  },
+  "4253246673": {
+   "status": "screened_out",
+   "title": "Responsable qualité",
+   "company": "Cipal",
+   "key": "responsable qualite|cipal",
+   "at": "2026-10-23T17:15:29+00:00",
+   "reason": "Poste de responsable qualité développement produits en agro-alimentaire (audits fournisseurs, cahiers des charges, appels d'offres) sans lien avec le traitement des eaux ni la chimie analytique, et en CDD, contrairement aux préférences de la candidate."
+  },
+  "4483116558": {
+   "status": "screened_out",
+   "title": "Chef de Projet Dermocosmétique (H/F)",
+   "company": "TILLERMAN IM - Management de Transition",
+   "key": "chef de projet dermocosmetique h f|tillerman",
+   "at": "2026-10-23T17:15:29+00:00",
+   "reason": "Mission de chef de projet dermocosmétique en management de transition (contrat de mission de 6 mois, non CDI) demandant une expertise confirmée sans durée précise, hors des domaines eau/chimie analytique de la candidate."
+  },
+  "4473339694": {
+   "status": "screened_out",
+   "title": "Responsable d’Activité SHM (Structural Health Monitoring) H/F",
+   "company": "SOCOTEC",
+   "key": "responsable d activite shm structural health monitoring h f|socotec",
+   "at": "2026-10-23T17:15:29+00:00",
+   "reason": "Poste de management commercial et technique en Structural Health Monitoring du génie civil, sans lien avec les missions de traitement des eaux ou de laboratoire de la candidate, avec 5 à 10 ans d'expérience exigés, et situé à Palaiseau (Essonne, hors liste Île-de-France retenue, bien que la région soit proche : Essonne n'est pas dans la liste 75-95 fournie)."
+  },
+  "4481924028": {
+   "status": "screened_out",
+   "title": "Animateur QSE – Sécurité et Stockage Alimentaire H/F",
+   "company": "JD.COM",
+   "key": "animateur qse securite et stockage alimentaire h f|jd",
+   "at": "2026-10-23T17:15:29+00:00",
+   "reason": "Le poste est un animateur QSE axé sécurité sanitaire en entrepôt alimentaire, sans lien avec la chimie, les analyses d'eau ou les procédés, et le statut d'animateur confirmé ne correspond pas à un poste d'ingénieure ou de cadre chimiste."
   }
  }
 }
