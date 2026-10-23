@@ -14,13 +14,13 @@ searches:
   - <<: *zone
     keywords: '"ingénieur chimiste" OR "ingénieure chimiste" OR "ingénieur chimie" OR chimiste OR "ingénieur R&D" OR "ingénieur formulation"'
   - <<: *zone
-    keywords: '"ingénieur laboratoire" OR "ingénieur de laboratoire" OR "ingénieur analyse" OR "chimie analytique" OR "ingénieur métrologie"'
+    keywords: '"ingénieur laboratoire" OR "ingénieur de laboratoire" OR "ingénieur analyse" OR "chimie analytique" OR "ingénieur analyses physico-chimiques" OR "chimiste analyticien"'
   - <<: *zone
     keywords: '"traitement des eaux" OR "traitement de l''eau" OR "ingénieur eau" OR "eau potable" OR "eaux usées" OR assainissement OR épuration OR "water treatment"'
   - <<: *zone
-    keywords: '"ingénieur procédés" OR "ingénieur d''études" OR "chargé d''études" OR "process engineer"'
+    keywords: '"ingénieur procédés eau" OR "ingénieur procédés traitement" OR "ingénieur procédés chimie" OR "ingénieur d''études eau" OR "chargé d''études eau" OR "ingénieur d''études traitement"'
   - <<: *zone
-    keywords: '"ingénieur environnement" OR "qualité de l''eau" OR "ingénieur qualité" OR métrologie OR "ingénieur hydraulique" OR "chargé de mission eau"'
+    keywords: '"ingénieur environnement" OR "qualité de l''eau" OR "ingénieur qualité laboratoire" OR "métrologie laboratoire" OR "chargé de mission eau" OR "ingénieur eau et assainissement"'
 
 # Âge maximum des offres demandées à LinkedIn (minutes). Un passage toutes les
 # 15 minutes : une heure laisse une marge en cas de retard de GitHub.
