@@ -1,1 +1,243 @@
-{"jobs": {}}
+{
+ "jobs": {
+  "4465097342": {
+   "status": "title_excluded",
+   "title": "Senior Development Engineer - Fragrance & Beauty - S&T Delivery Systems",
+   "company": "Givaudan",
+   "key": "senior development engineer fragrance beauty s t delivery systems|givaudan",
+   "at": "2026-10-23T15:37:46+00:00"
+  },
+  "4473962169": {
+   "status": "title_excluded",
+   "title": "Stage Matériaux : Développement et caractérisation de barrières environnementales F/H",
+   "company": "MBDA",
+   "key": "stage materiaux developpement et caracterisation de barrieres environnementales f h|mbda",
+   "at": "2026-10-23T15:37:46+00:00"
+  },
+  "4472592243": {
+   "status": "title_excluded",
+   "title": "Chargé Qualification / Validation - CDD - H/F",
+   "company": "LFB",
+   "key": "charge qualification validation cdd h f|lfb",
+   "at": "2026-10-23T15:37:46+00:00"
+  },
+  "4481625200": {
+   "status": "title_excluded",
+   "title": "Senior Optical Systems Engineer",
+   "company": "Quandela",
+   "key": "senior optical systems engineer|quandela",
+   "at": "2026-10-23T15:37:46+00:00"
+  },
+  "4482875736": {
+   "status": "title_excluded",
+   "title": "TECHNICIEN(NE) DE LABORATOIRE CHIMIE (H/F) - CDI",
+   "company": "Eurofins",
+   "key": "technicien de laboratoire chimie h f cdi|eurofins",
+   "at": "2026-10-23T15:37:46+00:00"
+  },
+  "4437029493": {
+   "status": "screened_out",
+   "title": "Un Ingénieur R&D Procédés / Hydrogène H/F",
+   "company": "Vulcain Engineering Group",
+   "key": "un ingenieur r d procedes hydrogene h f|vulcain",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Le poste est un ingénieur R&D procédés axé hydrogène, gaz verts et modélisation (Aspen Hysys), proche du génie des procédés mais éloigné du traitement des eaux ; il demande un ingénieur confirmé sans durée précisée, ce qui est exclu par le critère d'expérience junior."
+  },
+  "4482887327": {
+   "status": "screened_out",
+   "title": "Customer Technical Development Engineer (F/M/X)",
+   "company": "Syensqo",
+   "key": "customer technical development engineer f m x|syensqo",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'ingénieur technico-commercial en développement d'applications polymères (injection/extrusion, automobile) sans lien avec le traitement des eaux ni l'analyse physico-chimique, avec 5+ ans d'expérience exigés alors que la candidate a environ 1 an."
+  },
+  "4480050786": {
+   "status": "screened_out",
+   "title": "Ingénieur Support Procédés Epitaxie H/F",
+   "company": "LYNRED",
+   "key": "ingenieur support procedes epitaxie h f|lynred",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'ingénieur support procédés en épitaxie MBE sur semi-conducteurs III-V, sans lien avec le traitement des eaux ou la chimie analytique de la candidate, et exigeant 2 à 5 ans d'expérience sur ce type de procédé."
+  },
+  "4482883776": {
+   "status": "screened_out",
+   "title": "Aromaticien F/H/X",
+   "company": "Symrise AG",
+   "key": "aromaticien f h x|symrise",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste de création d'arômes alimentaires (flavorist) sans lien avec le traitement des eaux, l'analyse physico-chimique ou le laboratoire d'eau, et demandant 5 ans d'expérience minimum alors que la candidate en a environ 1."
+  },
+  "4482830676": {
+   "status": "screened_out",
+   "title": "Post-doctorat : Self-assembly and Dynamics of Nanoparticles in Liquid Crystal Blue Phase Matrix (H/F)",
+   "company": "ICMN",
+   "key": "post doctorat self assembly and dynamics of nanoparticles in liquid crystal blue phase matrix h f|icmn",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Post-doctorat en physique des cristaux liquides et nanoparticules, sans lien avec le traitement des eaux ni la chimie analytique appliquée, avec un contrat CDD de 24 mois et un profil de chercheur docteur, donc hors préférences (CDI, poste d'ingénieure)."
+  },
+  "4444111559": {
+   "status": "screened_out",
+   "title": "Coordinateur technique matériaux (H/F) - CDI PALAISEAU",
+   "company": "Cemex",
+   "key": "coordinateur technique materiaux h f cdi palaiseau|cemex",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste de coordination de techniciens en produits de construction (béton prêt à l'emploi) orienté formulation et conformité, sans lien avec le traitement des eaux ; le niveau de management d'équipe et l'absence de missions eau/chimie analytique le rendent peu pertinent."
+  },
+  "4481393016": {
+   "status": "screened_out",
+   "title": "Ingénieur Développement & Réglementation Packaging H/F",
+   "company": "Interparfums",
+   "key": "ingenieur developpement reglementation packaging h f|interparfums",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Le poste porte sur le packaging, la réglementation emballages et l'éco-conception, sans lien avec le traitement des eaux ou la chimie analytique, et exige plus de 10 ans d'expérience alors que la candidate a environ 1 an."
+  },
+  "4473937096": {
+   "status": "screened_out",
+   "title": "Ingénieur de recherche expert en sciences des matériaux (H/F)",
+   "company": "Thales",
+   "key": "ingenieur de recherche expert en sciences des materiaux h f|thales",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste de recherche en sciences des matériaux et couches minces pour micro/nano composants, sans lien avec le traitement des eaux ou la chimie analytique de la candidate, et exigeant 7 ans d'expérience et un doctorat."
+  },
+  "4482866563": {
+   "status": "screened_out",
+   "title": "Post-doctorat : Self-assembly and Dynamics of Nanoparticles in Liquid Crystal Blue Phase Matrix (H/F)",
+   "company": "Centre Lasers Intenses et Applications",
+   "key": "post doctorat self assembly and dynamics of nanoparticles in liquid crystal blue phase matrix h f|centre",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Post-doctorat en physique de la matière molle (phases bleues cristal liquide, nanoparticules) sans lien avec le traitement des eaux ou la chimie analytique, en CDD de 24 mois, donc hors préférences (CDI uniquement) ; localisation Paris 05 correcte."
+  },
+  "4480081182": {
+   "status": "screened_out",
+   "title": "Assistant Engineer (F/M) (F/H)",
+   "company": "Université PSL",
+   "key": "assistant engineer f m f h|universite",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste de biologie cellulaire (culture de cellules, tests de cytotoxicité, RT-qPCR) sans lien avec la chimie des eaux, de niveau assistant ingénieur en CDD, donc hors préférences de la candidate."
+  },
+  "4456184774": {
+   "status": "screened_out",
+   "title": "Ingénieur projet R&D",
+   "company": "TotalEnergies",
+   "key": "ingenieur projet r d|totalenergies",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Les missions portent sur la conception de solutions d'étanchéité, le calcul par éléments finis, les bancs d'essais et la gestion de projets industriels, sans lien avec la chimie analytique, le traitement des eaux ou le laboratoire; le contrat n'est pas précisé et le lieu est en Île-de-France."
+  },
+  "4482813592": {
+   "status": "screened_out",
+   "title": "Ingénieur Matériaux & Procédés",
+   "company": "TerX",
+   "key": "ingenieur materiaux procedes|terx",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste orienté matériaux métalliques/céramiques, brasure, soudure et traitement thermique, sans lien avec la chimie analytique ou le traitement des eaux, et demandant 4 à 6 ans d'expérience alors que la candidate a environ 1 an."
+  },
+  "4445751003": {
+   "status": "screened_out",
+   "title": "Chef de Projet Analytique H/F",
+   "company": "LFB",
+   "key": "chef de projet analytique h f|lfb",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Le poste de chef de projet analytique en pharmaceutique relève partiellement du contrôle qualité, mais il exige 7 à 8 ans d'expérience de chef de projet dans le pharma, alors que la candidate a environ 1 an, sans lien avec le traitement des eaux."
+  },
+  "4480630458": {
+   "status": "screened_out",
+   "title": "INGENIEUR METROLOGIE SECTEUR DEFENSE H/F",
+   "company": "Groupe Emitech",
+   "key": "ingenieur metrologie secteur defense h f|groupe",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste de métrologie dimensionnelle, électrique, mécanique et thermique pour bancs d'essais en environnement, sans lien avec la chimie ni le traitement des eaux ; de plus l'expérience « expérimenté » sans durée est exigée, et le contrat n'est pas précisé."
+  },
+  "4482768390": {
+   "status": "screened_out",
+   "title": "Chargé(e) d'essais CEM (F/H)",
+   "company": "MBDA",
+   "key": "charge d essais cem f h|mbda",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'essais CEM (compatibilité électromagnétique) en électronique et mesures RF, sans lien avec les missions chimie, traitement des eaux ou analyses physico-chimiques de la candidate; le niveau Bac+2/Bac+3 et le statut de chargé d'essais ne correspondent pas à un poste d'ingénieure chimiste."
+  },
+  "4480063362": {
+   "status": "screened_out",
+   "title": "INGENIEUR MESURES PHYSIQUES H/F",
+   "company": "AVANTIS",
+   "key": "ingenieur mesures physiques h f|avantis",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'ingénieur en mesures physiques dans le sport automobile (dynamique des structures, machines tournantes, traitement de signal moteur) sans lien avec la chimie ni le traitement des eaux, exigeant 5 ans d'expérience minimum alors que la candidate a environ 1 an."
+  },
+  "4482872168": {
+   "status": "screened_out",
+   "title": "Expert-e en développement d’instrument de spectroscopie laser (H/F)",
+   "company": "Centre Lasers Intenses et Applications",
+   "key": "expert e en developpement d instrument de spectroscopie laser h f|centre",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'expert en instrumentation laser (spectroscopie optique, conception électronique, mécanique et logiciels) sans lien avec le traitement des eaux ni la chimie analytique, exigeant 5 à 10 ans d'expérience, en CDD de 24 mois, bien qu'il soit basé à Saint-Aubin (Essonne)."
+  },
+  "4428869392": {
+   "status": "screened_out",
+   "title": "Responsable Ingénierie et Essais électromagnétiques (F/H)",
+   "company": "MBDA",
+   "key": "responsable ingenierie et essais electromagnetiques f h|mbda",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'ingénierie en compatibilité électromagnétique pour la défense, sans lien avec le traitement des eaux ou la chimie analytique, et exigeant 10 ans d'expérience alors que la candidate a environ 1 an."
+  },
+  "4479820071": {
+   "status": "screened_out",
+   "title": "Architecte instruments H/F",
+   "company": "HORIBA France",
+   "key": "architecte instruments h f|horiba",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Poste d'architecte instruments en optique/physique et ellipsométrie, orienté conception d'instruments de spectroscopie, sans lien avec le traitement des eaux, la chimie analytique ou le laboratoire de la candidate, malgré un niveau ingénieur, un CDI et une localisation à Palaiseau (Essonne, hors Paris/IDF 75-95 ? Palaiseau est en Essonne, 91, donc en Île-de-France)."
+  },
+  "4480638346": {
+   "status": "screened_out",
+   "title": "Spécialiste spécification et analyse d&apos;essais mécaniques et climatiques F/H",
+   "company": "L'Usine Nouvelle",
+   "key": "specialiste specification et analyse d apos essais mecaniques et climatiques f h|l",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Le poste porte sur la spécification des environnements mécaniques et climatiques de systèmes d'armes et missiles (essais d'environnement, ingénierie de qualification), sans lien avec la chimie, le traitement des eaux ou les laboratoires d'analyse physico-chimique ; le lieu (Le Plessis-Robinson, Hauts-de-Seine) est en Île-de-France et le niveau est cadre, mais aucune mention de contrat ou d'expérience exploitable n'est indiquée."
+  },
+  "4455790090": {
+   "status": "screened_out",
+   "title": "Ingénieur Optronique (F/H)",
+   "company": "Valeo",
+   "key": "ingenieur optronique f h|valeo",
+   "at": "2026-10-23T15:37:46+00:00",
+   "reason": "Le poste d'ingénieur optronique (conception de caméras automobiles, optique, MTF/SNR, simulation SPEOS) ne relève d'aucun domaine chimie, eau, laboratoire analytique ou procédés visé par la candidate, malgré un niveau ingénieur, un lieu à Créteil (94) et une expérience junior acceptable."
+  },
+  "4482892785": {
+   "status": "sent",
+   "title": "Ingénieur procédés",
+   "company": "agap2",
+   "key": "ingenieur procedes|agap2",
+   "at": "2026-10-23T15:37:46+00:00",
+   "fit_score": 62,
+   "reason": "Poste d'ingénieur procédés en CDI en Île-de-France, avec missions de génie des procédés et forte composante traitement de l'eau, en adéquation avec le profil junior (environ 1 an d'expérience, Master traitement des eaux), mais les livrables de conception (PFD, P&ID, simulation Aspen, HAZOP) sont éloignés de son expérience en laboratoire d'analyse."
+  },
+  "4370182502": {
+   "status": "sent",
+   "title": "Ingénieur amélioration des procédés H/F",
+   "company": "SEQENS",
+   "key": "ingenieur amelioration des procedes h f|seqens",
+   "at": "2026-10-23T15:37:46+00:00",
+   "fit_score": 45,
+   "reason": "Poste d'ingénieur procédés en industrie pharmaceutique (API) à Limay (78) en CDI, avec 3 ans d'expérience demandés, mais orienté chimie organique de synthèse, alors que le profil de la candidate est en traitement des eaux et analyse physico-chimique des eaux, sans lien avec la fabrication d'API."
+  },
+  "4471853670": {
+   "status": "sent",
+   "title": "Ingénieur Pharmaceutique junior",
+   "company": "VIQI Group",
+   "key": "ingenieur pharmaceutique junior|viqi",
+   "at": "2026-10-23T15:37:46+00:00",
+   "fit_score": 45,
+   "reason": "Poste d'ingénieur junior en pharmaceutique et dispositifs médicaux en CDI à Paris, sans expérience exigée ; les missions de consulting (R&D, industrialisation, assurance qualité, génie des procédés) recoupent partiellement le profil, mais le secteur pharmaceutique est éloigné du traitement des eaux."
+  },
+  "4482748285": {
+   "status": "sent",
+   "title": "Ingénieur de recherche matériaux, mécanique et traitements de surface (H/F)",
+   "company": "Thales",
+   "key": "ingenieur de recherche materiaux mecanique et traitements de surface h f|thales",
+   "at": "2026-10-23T15:37:46+00:00",
+   "fit_score": 45,
+   "reason": "Poste d'ingénieur de recherche à Palaiseau (Île-de-France) avec des missions de caractérisation mécanique, analyse de revêtements et qualité Cofrac partiellement proches du profil de laboratoire, mais centré sur les matériaux électroniques et la mécanique/traitement de surface, hors traitement des eaux."
+  }
+ }
+}
