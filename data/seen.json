@@ -589,6 +589,74 @@
    "key": "experte expert cvcd|artelia",
    "at": "2026-10-23T18:32:05+00:00",
    "reason": "Poste d'expert CVCD en bureau d'études bâtiment (génie climatique), sans lien avec le traitement des eaux ou la chimie analytique, exigeant plus de 10 ans d'expérience et supposant un profil de management d'experts ; hors des préférences de la candidate."
+  },
+  "4481945152": {
+   "status": "title_excluded",
+   "title": "Senior Computational Chemist",
+   "company": "AQEMIA",
+   "key": "senior computational chemist|aqemia",
+   "at": "2026-10-23T19:56:45+00:00"
+  },
+  "4483123929": {
+   "status": "title_excluded",
+   "title": "Technicien Chimie Métiers Eau Environnement - H/F",
+   "company": "NEO2",
+   "key": "technicien chimie metiers eau environnement h f|neo2",
+   "at": "2026-10-23T19:56:45+00:00"
+  },
+  "4483143253": {
+   "status": "title_excluded",
+   "title": "Technicien Chimie Analytique Gaz Renouvelables- H/F",
+   "company": "NEO2",
+   "key": "technicien chimie analytique gaz renouvelables h f|neo2",
+   "at": "2026-10-23T19:56:45+00:00"
+  },
+  "4481944432": {
+   "status": "title_excluded",
+   "title": "Ingénieur chercheur en physique, instrumentation et systèmes embarqués - CDD - Saclay (91) H/F",
+   "company": "CEA",
+   "key": "ingenieur chercheur en physique instrumentation et systemes embarques cdd saclay 91 h f|cea",
+   "at": "2026-10-23T19:56:45+00:00"
+  },
+  "4483132703": {
+   "status": "screened_out",
+   "title": "Expert-e en développement d’instrument de spectroscopie laser (H/F)",
+   "company": "ICMN",
+   "key": "expert e en developpement d instrument de spectroscopie laser h f|icmn",
+   "at": "2026-10-23T19:56:45+00:00",
+   "reason": "Poste de conception d'instrument laser (optique, électronique, mécanique) sans lien avec le traitement des eaux ou la chimie analytique, demandant 5 à 10 ans d'expérience en CDD, hors préférences de la candidate."
+  },
+  "4481937744": {
+   "status": "screened_out",
+   "title": "INFRASTRUCTURES - Ingénieur d'études en Déconstruction, Désamiantage et Déplombage à Antony (92) - F/H - ANT170",
+   "company": "IRH INGENIEUR CONSEIL",
+   "key": "infrastructures ingenieur d etudes en deconstruction desamiantage et deplombage a antony 92 f h ant170|irh",
+   "at": "2026-10-23T19:56:45+00:00",
+   "reason": "Le poste porte sur le désamiantage, le déplombage et la maîtrise d'œuvre de déconstruction, sans lien avec la chimie analytique, le traitement des eaux ni le laboratoire, malgré un titre d'ingénieur d'études en CDI à Antony (92)."
+  },
+  "4481926977": {
+   "status": "screened_out",
+   "title": "INFRASTRUCTURES - Chef de projets déconstruction, désamiantage, déplombage (F/H) à Antony (92) - ANT205",
+   "company": "IRH INGENIEUR CONSEIL",
+   "key": "infrastructures chef de projets deconstruction desamiantage deplombage f h a antony 92 ant205|irh",
+   "at": "2026-10-23T19:56:45+00:00",
+   "reason": "Poste de chef de projets en déconstruction, désamiantage et plomb (bâtiment, maîtrise d'œuvre, marchés publics) sans lien avec le traitement des eaux ou la chimie analytique, avec 5 à 10 ans d'expérience demandés alors que la candidate a environ 1 an."
+  },
+  "4481934781": {
+   "status": "screened_out",
+   "title": "Chef de projets Performances Energétiques à Lyon, Nantes ou Paris - (F/H) ANT210",
+   "company": "IRH INGENIEUR CONSEIL",
+   "key": "chef de projets performances energetiques a lyon nantes ou paris f h ant210|irh",
+   "at": "2026-10-23T19:56:45+00:00",
+   "reason": "Chef de projets en performance énergétique (audits énergétiques, ISO 50001, CEE) sans lien avec le traitement des eaux ou la chimie analytique, demandant 10 ans d'expérience, et basé à Lyon, Nantes ou Antony avec une flexibilité sur d'autres implantations en France métropolitaine."
+  },
+  "4481961070": {
+   "status": "screened_out",
+   "title": "Chargé de mission QHSE en interne – Secteur Numérique (H/F)",
+   "company": "Extia",
+   "key": "charge de mission qhse en interne secteur numerique h f|extia",
+   "at": "2026-10-23T19:56:45+00:00",
+   "reason": "Poste de chargé de mission QHSE pour un système de management intégré en entreprise de conseil IT, sans lien avec la chimie, le traitement des eaux ou le laboratoire, malgré un niveau de chargé de mission et un lieu à Paris."
   }
  }
 }
