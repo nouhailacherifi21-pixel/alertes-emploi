@@ -816,12 +816,71 @@
   },
   "4483156053": {
    "status": "screened_out",
-   "title": "Candidature spontanée - Freyssinet France F/H",
-   "company": "VINCI",
-   "url": "https://www.linkedin.com/jobs/view/4483156053/",
-   "key": "candidature spontanee freyssinet france f h|vinci",
-   "at": "2026-10-23T21:03:56+00:00",
-   "reason": "Candidature spontanée généraliste en génie civil (travaux, commerce, études structures) sans aucune mission liée à l'eau, et sans niveau ou poste précis défini ; Rueil-Malmaison est en Île-de-France mais le poste n'est pas pertinent."
+   "title": "Ingénieur.e d’étude en démolition & désamiantage H/F",
+   "company": "WSP en France",
+   "url": "https://www.linkedin.com/jobs/view/4474704915/",
+   "key": "ingenieur d etude en demolition desamiantage h f|wsp",
+   "at": "2026-10-23T20:56:57+00:00",
+   "reason": "Le poste porte sur la démolition et le désamiantage de bâtiments et de sites industriels, sans lien avec la qualité ou le traitement de l'eau ; de plus l'expérience demandée dépasse 3 ans."
+  },
+  "4472192422": {
+   "status": "screened_out",
+   "title": "Un Chef ou une Cheffe de projet programmation technique de travaux",
+   "company": "Région Île-de-France",
+   "url": "https://www.linkedin.com/jobs/view/4472192422/",
+   "key": "un chef ou une chef de projet programmation technique de travaux|region",
+   "at": "2026-10-23T20:56:57+00:00",
+   "reason": "Poste de programmation technique de bâtiments (lycées, gros œuvre, fluides, réglementation construction) sans lien avec la qualité ou le traitement des eaux, et exigeant une expérience confirmée sans durée."
+  },
+  "4437044005": {
+   "status": "screened_out",
+   "title": "Chargé(e) de contrôle qualité des matières premières (H/F)",
+   "company": "Vulcain Engineering Group",
+   "url": "https://www.linkedin.com/jobs/view/4437044005/",
+   "key": "charge de controle qualite des matieres premieres h f|vulcain",
+   "at": "2026-10-23T20:56:57+00:00",
+   "reason": "Poste de contrôle qualité des matières premières pharmaceutiques (BPF, GMP, Part 11) sans lien avec l'eau comme mission principale, avec une expérience demandée de 3 à 5 ans qui dépasse le profil junior."
+  },
+  "4465061096": {
+   "status": "sent",
+   "title": "Ingénieur MOE Hydraulique Urbaine",
+   "company": "TOROW",
+   "url": "https://www.linkedin.com/jobs/view/4465061096/",
+   "key": "ingenieur moe hydraulique urbaine|torow",
+   "at": "2026-10-23T20:56:57+00:00",
+   "fit_score": 45,
+   "reason": "Poste Bac+5 de maîtrise d'œuvre en hydraulique urbaine (réseaux, ouvrages, études de conception) à Paris, touchant à l'eau mais orienté ingénierie de travaux et marchés publics, sans lien avec l'analyse physico-chimique ni la qualité des eaux du profil ; l'expérience demandée (3 ans) est à la limite acceptable.",
+   "experience_required": "au moins 3 ans d'expérience en hydraulique urbaine",
+   "contract": ""
+  },
+  "4480635235": {
+   "status": "title_excluded",
+   "title": "TECHNICIEN METROLOGIE SECTEUR DEFENSE H/F",
+   "company": "Groupe Emitech",
+   "url": "https://www.linkedin.com/jobs/view/4480635235/",
+   "key": "technicien metrologie secteur defense h f|groupe",
+   "at": "2026-10-23T21:09:38+00:00"
+  },
+  "4480628762": {
+   "status": "screened_out",
+   "title": "Chargé(e) d&apos;essais CEM F/H",
+   "company": "L'Usine Nouvelle",
+   "url": "https://www.linkedin.com/jobs/view/4480628762/",
+   "key": "charge d apos essais cem f h|l",
+   "at": "2026-10-23T21:09:38+00:00",
+   "reason": "Poste de chargé(e) d'essais CEM (compatibilité électromagnétique) sur équipements électroniques et systèmes d'armes, sans lien avec l'eau ; niveau technicien/Bac+2-3 demandé, avec une première expérience en laboratoire CEM. Hors domaine de la candidate et sous son niveau Bac+5."
+  },
+  "4477583293": {
+   "status": "sent",
+   "title": "Ingénieur assainissement et ruissellement F/H",
+   "company": "Département de Seine-et-Marne",
+   "url": "https://www.linkedin.com/jobs/view/4477583293/",
+   "key": "ingenieur assainissement et ruissellement f h|departement",
+   "at": "2026-10-23T21:09:38+00:00",
+   "fit_score": 72,
+   "reason": "Poste d'ingénieur assainissement au SATESE du Département de Seine-et-Marne : assistance aux collectivités sur l'assainissement, traitement des eaux usées, ruissellement, DCE et qualité des eaux superficielles, niveau ingénieur Bac+5. Expérience d'un premier poste appréciée mais débutants acceptés ; contrat non précisé, lieu Dammarie-les-Lys en Seine-et-Marne (77).",
+   "experience_required": "Une première expérience dans le domaine de l'assainissement serait appréciée mais les débutants sont étudiés",
+   "contract": ""
   }
  }
 }
