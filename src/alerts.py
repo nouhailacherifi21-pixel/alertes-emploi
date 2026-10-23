@@ -64,8 +64,9 @@ d'un domaine proche :
 
 "domains" : les domaines ci-dessus effectivement couverts par les missions.
 
-"level_ok" = true pour un poste d'ingénieur(e), de cadre, de chargé(e) d'études ou de mission,
-de chimiste ; false pour un poste de technicien(ne), laborantin(e), agent, opérateur ou assistant.
+"level_ok" = true pour un poste de niveau Bac+5 : ingénieur(e), cadre, chargé(e) d'études ou de
+mission, chimiste ; false pour un poste de technicien(ne), laborantin(e), agent, opérateur ou
+assistant, ou qui demande un diplôme inférieur au Bac+5.
 
 Expérience : "experience_required" recopie ce que l'offre demande ("" si rien n'est dit).
 "experience_ok" = true seulement si TOUTE l'expérience demandée reste à 3 ans ou moins :
@@ -75,8 +76,9 @@ une fourchette qui dépasse 3 ans (« 3 à 5 ans », « 2 à 4 ans ») → false
 sans durée, ou management d'équipe → false ; rien de précisé → true.
 
 Contrat : "contract" recopie le type de contrat indiqué ("" si absent).
-"contract_ok" = true pour un CDI ou si non précisé ; false pour un CDD, intérim, stage,
-alternance, freelance ou temps partiel.
+"contract_ok" = true pour un CDI, un CDD de 12 mois ou plus, un CDD dont la durée n'est pas
+précisée, ou si le contrat n'est pas indiqué ; false pour un CDD de moins de 12 mois, de
+l'intérim, un stage, une alternance, du freelance ou un temps partiel.
 
 "location_ok" = true si le poste est basé à Paris ou en Île-de-France (75, 77, 78, 91, 92,
 93, 94, 95) ; false pour toute autre ville ou région, ou un autre pays.

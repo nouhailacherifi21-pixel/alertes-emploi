@@ -7,20 +7,20 @@
 _zone: &zone
   location: "Paris, Île-de-France, France"
   geo_id: 104246759
-  job_type: [full_time]   # temps plein (CDI ; les CDD sont écartés plus bas)
+  job_type: [full_time, temporary]   # temps plein ; CDD courts écartés par le tri
 
 # Recherches LinkedIn (titre ET description des offres), toutes lancées à chaque passage.
 searches:
   - <<: *zone
-    keywords: '"ingénieur chimiste" OR "ingénieure chimiste" OR "ingénieur chimie" OR chimiste OR "ingénieur R&D" OR "ingénieur formulation"'
+    keywords: '"qualité des eaux" OR "qualité de l''eau" OR "chimie des eaux" OR "analyse des eaux" OR "analyses physico-chimiques" OR "laboratoire eau"'
   - <<: *zone
-    keywords: '"ingénieur laboratoire" OR "ingénieur de laboratoire" OR "ingénieur analyse" OR "chimie analytique" OR "ingénieur analyses physico-chimiques" OR "chimiste analyticien"'
+    keywords: '"traitement des eaux" OR "traitement de l''eau" OR "eau potable" OR "eaux usées" OR assainissement OR épuration OR "water treatment"'
   - <<: *zone
-    keywords: '"traitement des eaux" OR "traitement de l''eau" OR "ingénieur eau" OR "eau potable" OR "eaux usées" OR assainissement OR épuration OR "water treatment"'
+    keywords: '"ressources en eau" OR "gestion de l''eau" OR "milieux aquatiques" OR hydrobiologie OR hydrologie OR "gestion des milieux aquatiques"'
   - <<: *zone
-    keywords: '"ingénieur procédés eau" OR "ingénieur procédés traitement" OR "ingénieur procédés chimie" OR "ingénieur d''études eau" OR "chargé d''études eau" OR "ingénieur d''études traitement"'
+    keywords: '"ingénieur eau" OR "ingénieur procédés eau" OR "ingénieur d''études eau" OR "chargé d''études eau" OR "chargé de mission eau" OR "ingénieur eau et assainissement"'
   - <<: *zone
-    keywords: '"ingénieur environnement" OR "qualité de l''eau" OR "ingénieur qualité laboratoire" OR "métrologie laboratoire" OR "chargé de mission eau" OR "ingénieur eau et assainissement"'
+    keywords: '"ingénieur laboratoire" OR "ingénieur chimiste" OR "chimiste analyticien" OR "métrologie laboratoire" OR "ingénieur métrologie" OR "ingénieur environnement"'
 
 # Âge maximum des offres demandées à LinkedIn (minutes). Un passage toutes les
 # 15 minutes : une heure laisse une marge en cas de retard de GitHub.
@@ -44,7 +44,6 @@ title_excluded:
   - "alternance"
   - "alternant"
   - "apprenti*"
-  - "cdd"
   - "interim"
   - "interimaire"
   - "senior"
@@ -63,29 +62,36 @@ screen_workers: 6
 # Une offre est retenue si ses MISSIONS relèvent d'au moins un de ces domaines,
 # quel que soit son intitulé.
 domains:
-  - "Chimie / ingénierie chimiste"
-  - "Laboratoire / analyses physico-chimiques, chimie analytique (chromatographie, spectroscopie)"
-  - "Traitement des eaux : eau potable, eaux usées, eaux industrielles, assainissement, épuration"
-  - "R&D / formulation / expérimentation"
-  - "Procédés / génie des procédés / optimisation de traitement"
-  - "Contrôle qualité et métrologie en laboratoire"
-  - "Environnement / qualité de l'eau"
+  - "Qualité des eaux / qualité de l'eau"
+  - "Laboratoire d'analyses physico-chimiques des eaux"
+  - "Ressources en eau / gestion de l'eau"
+  - "Milieux aquatiques (hydrobiologie, écologie aquatique, hydrologie)"
+  - "Chimie des eaux"
+  - "Métrologie (laboratoire, mesures sur l'eau)"
+  - "Procédés de traitement des eaux (eau potable, eaux usées, eaux industrielles, assainissement)"
 
 # Profil (anonyme : le dépôt est public), utilisé pour la note d'adéquation.
 profile: |
-  Ingénieure chimiste, Master Chimie parcours Traitement des Eaux (2024).
+  Ingénieure chimiste, Bac+5 : Master Chimie parcours Traitement des Eaux (2024).
   Environ 1 an d'expérience en laboratoires d'analyse des eaux (laboratoire accrédité
-  COFRAC / ISO 17025) : analyses physico-chimiques des eaux, validation des résultats,
-  gestion des données sous LIMS, métrologie des équipements, contrôle qualité interne
-  et cartes de contrôle, caractérisation de méthodes (NF T90-210), rédaction de rapports
-  techniques avec recommandations (corrosion, entartrage, conditionnement des eaux de circuits).
-  Projet industriel d'optimisation du traitement de l'eau (méthodes spectroscopiques et
-  chromatographiques). Outils : LIMS, QGIS, XLStat, Excel. Anglais scientifique et technique.
+  COFRAC / ISO 17025) : analyses physico-chimiques des eaux, chimie des eaux, validation
+  des résultats, gestion des données sous LIMS, métrologie des équipements, contrôle
+  qualité interne et cartes de contrôle, caractérisation de méthodes (NF T90-210),
+  rédaction de rapports techniques avec recommandations (corrosion, entartrage,
+  conditionnement des eaux de circuits). Connaissances approfondies des procédés de
+  traitement des eaux (eaux urbaines et industrielles, essais Jar Test, optimisation) et
+  des milieux aquatiques. Projet industriel d'optimisation du traitement de l'eau
+  (méthodes spectroscopiques et chromatographiques). Esprit analytique et esprit de
+  synthèse. Outils : LIMS, QGIS, XLStat, Excel. Anglais scientifique et technique.
 
 # Préférences transmises à Claude.
 preferences: |
-  CDI uniquement, à Paris ou en Île-de-France.
-  Postes d'ingénieure ou de cadre (ingénieur chimiste, ingénieur laboratoire, ingénieur en
-  traitement des eaux, chargé de traitement des eaux, ingénieur d'études, ingénieur R&D) :
-  pas de poste de technicien(ne), laborantin(e) ou d'agent.
+  Le poste doit porter sur l'EAU : qualité des eaux, analyses physico-chimiques des eaux,
+  chimie des eaux, ressources en eau, milieux aquatiques, métrologie ou procédés de
+  traitement des eaux. Un poste de chimie, de laboratoire ou de R&D sans lien avec l'eau
+  (pharmacie, cosmétique, matériaux, agroalimentaire…) n'est pas pertinent.
+  Contrat : CDI, ou CDD longue durée (12 mois ou plus). À Paris ou en Île-de-France.
+  Niveau : poste Bac+5 (ingénieure, chargée d'études ou de mission, cadre), idéalement
+  en qualité et traitement des eaux, gestion de l'eau ou chimie des eaux ; pas de poste
+  de technicien(ne), laborantin(e) ou d'agent.
   Profil junior : 3 ans d'expérience maximum demandés, fourchette comprise.
