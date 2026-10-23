@@ -41,7 +41,10 @@ def _obj(**props) -> dict:
     return {"type": "object", "properties": props, "required": list(props), "additionalProperties": False}
 
 
+# « reason » en premier : Claude écrit son analyse AVANT de cocher les critères, pour que
+# ses décisions suivent son raisonnement (et non l'inverse).
 SCREEN_SCHEMA = _obj(
+    reason=_STR,
     relevant={"type": "boolean"},
     domains={"type": "array", "items": _STR},
     level_ok={"type": "boolean"},
@@ -51,7 +54,6 @@ SCREEN_SCHEMA = _obj(
     contract_ok={"type": "boolean"},
     location_ok={"type": "boolean"},
     fit_score={"type": "integer"},
-    reason=_STR,
 )
 
 SCREEN_SYSTEM = """Tu tries des offres d'emploi pour une candidate. Juge l'offre sur ses MISSIONS,
@@ -87,7 +89,8 @@ l'intérim, un stage, une alternance, du freelance ou un temps partiel.
 missions, compétences, secteur, niveau. 80+ = excellente, 60-79 = bonne, moins de 60 =
 moyenne. Sois exigeant et différencie bien les offres.
 
-"reason" : une phrase qui justifie la décision."""
+Commence par "reason" : une à deux phrases qui analysent l'offre (missions, niveau, expérience,
+contrat). Les critères qui suivent doivent être cohérents avec cette analyse."""
 
 
 def screen(client: anthropic.Anthropic, job: linkedin.Job, cfg: dict) -> dict:
@@ -111,7 +114,8 @@ def screen(client: anthropic.Anthropic, job: linkedin.Job, cfg: dict) -> dict:
 
 
 def accepted(verdict: dict) -> bool:
-    return all(verdict[k] for k in ("relevant", "level_ok", "experience_ok", "contract_ok", "location_ok"))
+    # Le lieu est garanti par les recherches (Île-de-France) : location_ok reste indicatif.
+    return all(verdict[k] for k in ("relevant", "level_ok", "experience_ok", "contract_ok"))
 
 
 # ── Filtres simples ───────────────────────────────────────────
