@@ -1,0 +1,62 @@
+name: Alertes emploi LinkedIn
+
+on:
+  schedule:
+    # Toutes les 15 minutes, de 6h à 20h UTC (≈ 8h-22h à Paris en été, 7h-21h en hiver).
+    # Dépôt public : les minutes GitHub Actions sont illimitées.
+    - cron: "*/15 6-20 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # pour mémoriser les offres déjà envoyées (data/seen.json)
+
+concurrency:
+  group: alertes
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Vérifier la configuration
+        id: ready
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: |
+          if [ -n "$GMAIL_APP_PASSWORD" ] && [ -n "$NOTIFY_EMAIL" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Secrets manquants : GMAIL_ADDRESS, GMAIL_APP_PASSWORD et NOTIFY_EMAIL"
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v6
+        if: steps.ready.outputs.ok == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Détecter et envoyer les nouvelles offres
+        if: steps.ready.outputs.ok == 'true'
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: |
+          pip install -q -r requirements.txt
+          python -u -m src.alerts
+
+      - name: Mémoriser les offres envoyées
+        if: always() && steps.ready.outputs.ok == 'true'
+        run: |
+          git config user.name "alertes-emploi"
+          git config user.email "alertes-emploi@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Offres vues [skip ci]"
+          for i in 1 2 3; do git pull --rebase -X theirs origin main && git push && exit 0; sleep 5; done
+          exit 1
