@@ -459,6 +459,136 @@
    "key": "ingenieur support clients field service ligne electro optical testing h f|hgh",
    "at": "2026-10-23T17:57:34+00:00",
    "reason": "Poste de support client technique en optronique et tests électro-optiques (interventions chez les clients, formation, ticketing), sans lien avec le traitement des eaux, la chimie ou le laboratoire ; de plus le niveau d'expérience n'est pas précisé et le poste exige une mobilité importante et l'anglais courant."
+  },
+  "4480117379": {
+   "status": "title_excluded",
+   "title": "INTERNSHIP - Fermentation Process Development  - January - (H/F)",
+   "company": "Danone",
+   "key": "internship fermentation process development january h f|danone",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4480102784": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur Procédés Fermentaires - Février / Mars - (H/F)",
+   "company": "Danone",
+   "key": "stage ingenieur procedes fermentaires fevrier mars h f|danone",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4483138119": {
+   "status": "title_excluded",
+   "title": "STAGE – Ingénieur Laser Brillouin sur puce pour horloge optique et atomique (H/F) – 6 mois",
+   "company": "Thales",
+   "key": "stage ingenieur laser brillouin sur puce pour horloge optique et atomique h f 6 mois|thales",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4483119894": {
+   "status": "title_excluded",
+   "title": "STAGE - Conception Innovante d’Antennes Patch par Chemins Géométriques Non Conventionnels - F/H",
+   "company": "Thales",
+   "key": "stage conception innovante d antennes patch par chemins geometriques non conventionnels f h|thales",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4474311784": {
+   "status": "title_excluded",
+   "title": "Stage Électronique : Etude de mécanismes de contre-mesures pour module cryptographique sur FPGA F/H",
+   "company": "MBDA",
+   "key": "stage electronique etude de mecanismes de contre mesures pour module cryptographique sur fpga f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4483115951": {
+   "status": "title_excluded",
+   "title": "STAGE - Traitement du signal radar pour autodirecteur - F/H",
+   "company": "Thales",
+   "key": "stage traitement du signal radar pour autodirecteur f h|thales",
+   "at": "2026-10-23T18:32:05+00:00"
+  },
+  "4438238631": {
+   "status": "screened_out",
+   "title": "Chef de Projet / Cheffe de Projet Ingénierie Industrielle",
+   "company": "Artelia",
+   "key": "chef de projet chef de projet ingenierie industrielle|artelia",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Chef de projet ingénierie industrielle en avant-projet, pétrochimie/raffinage, sans lien avec le traitement des eaux ou l'analyse en laboratoire, et demande 5 ans d'expérience minimum."
+  },
+  "4428880184": {
+   "status": "screened_out",
+   "title": "Concepteur Moyens d'essais - Electronique F/H",
+   "company": "MBDA",
+   "key": "concepteur moyens d essais electronique f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de conception de moyens d'essais en électronique analogique et numérique, sans rapport avec la chimie, le traitement des eaux ni le laboratoire ; le profil de la candidate ne correspond pas aux missions demandées."
+  },
+  "4446301704": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) Traitement du Signal & Algorithmes GNSS F/H",
+   "company": "MBDA",
+   "key": "ingenieur traitement du signal algorithmes gnss f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de traitement du signal et algorithmes GNSS pour la défense, sans lien avec la chimie, l'analyse des eaux ni les procédés, malgré un niveau ingénieur, un lieu en Île-de-France et un niveau d'expérience junior."
+  },
+  "4456752089": {
+   "status": "screened_out",
+   "title": "Responsable d'Essais - Systèmes Terrestres F/H",
+   "company": "MBDA",
+   "key": "responsable d essais systemes terrestres f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de responsable d'essais sur systèmes d'armes terrestres (électronique, systèmes embarqués, vérification fonctionnelle), sans lien avec la chimie ni le traitement des eaux, et exigeant 10 ans d'expérience minimum avec management d'équipe."
+  },
+  "4456752090": {
+   "status": "screened_out",
+   "title": "Responsable du service Essais Drones et Artillerie F/H",
+   "company": "MBDA",
+   "key": "responsable du service essais drones et artillerie f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de responsable de service en essais drones et artillerie (systèmes d'armes, électronique, aéronautique) sans lien avec la chimie, le traitement des eaux ni le laboratoire, avec 6 ans d'expérience minimum demandés et un management d'équipe."
+  },
+  "4428857850": {
+   "status": "screened_out",
+   "title": "Responsable IVVQ F/H",
+   "company": "MBDA",
+   "key": "responsable ivvq f h|mbda",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste d'IVVQ en électronique/intégration matérielle et logicielle sans rapport avec la chimie ou le traitement des eaux, demandant 6 ans d'expérience minimum et basé au Plessis-Robinson (Hauts-de-Seine, 92, donc en Île-de-France, mais les autres critères ne sont pas remplis)."
+  },
+  "4483114901": {
+   "status": "screened_out",
+   "title": "Project Engineer - IDF/ Issenheim M/F",
+   "company": "Danone",
+   "key": "project engineer idf issenheim m f|danone",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de chef de projet d'investissement en agroalimentaire laitier (PMO, utilités, appels d'offres, 5 ans d'expérience demandés), sans lien avec la chimie analytique ni le traitement des eaux."
+  },
+  "4480680717": {
+   "status": "screened_out",
+   "title": "Ingénieur Conception CVC / Plomberie F/H",
+   "company": "Eiffage Construction",
+   "key": "ingenieur conception cvc plomberie f h|eiffage",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste d'ingénierie CVC, désenfumage et plomberie sans lien avec la chimie, le traitement des eaux ou le laboratoire, et exigeant 10 ans d'expérience alors que la candidate a environ 1 an."
+  },
+  "4481932487": {
+   "status": "screened_out",
+   "title": "Responsable d'affaires en lots Fluides",
+   "company": "Pouget Consultants",
+   "key": "responsable d affaires en lots fluides|pouget",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de responsable d'affaires en génie climatique et fluides (CVC, plomberie) sans lien avec la chimie, le traitement des eaux ou le laboratoire, avec 6 ans d'expérience exigés et une fonction de management d'équipe."
+  },
+  "4483134011": {
+   "status": "screened_out",
+   "title": "Chef de projets Performances Energétiques à Lyon, Nantes ou Paris - (F/H) ANT210",
+   "company": "Antea Group - France",
+   "key": "chef de projets performances energetiques a lyon nantes ou paris f h ant210|antea",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste de chef de projets en performance énergétique (audits énergétiques, ISO 50001, RE2020), sans lien avec la chimie analytique ni le traitement des eaux, et exigeant au moins 10 ans d'expérience alors que la candidate a environ 1 an."
+  },
+  "4456719139": {
+   "status": "screened_out",
+   "title": "Experte / Expert CVCD",
+   "company": "Artelia",
+   "key": "experte expert cvcd|artelia",
+   "at": "2026-10-23T18:32:05+00:00",
+   "reason": "Poste d'expert CVCD en bureau d'études bâtiment (génie climatique), sans lien avec le traitement des eaux ou la chimie analytique, exigeant plus de 10 ans d'expérience et supposant un profil de management d'experts ; hors des préférences de la candidate."
   }
  }
 }
