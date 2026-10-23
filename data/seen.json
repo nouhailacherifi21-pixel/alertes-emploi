@@ -238,6 +238,117 @@
    "at": "2026-10-23T15:37:46+00:00",
    "fit_score": 45,
    "reason": "Poste d'ingénieur de recherche à Palaiseau (Île-de-France) avec des missions de caractérisation mécanique, analyse de revêtements et qualité Cofrac partiellement proches du profil de laboratoire, mais centré sur les matériaux électroniques et la mécanique/traitement de surface, hors traitement des eaux."
+  },
+  "4482888964": {
+   "status": "title_excluded",
+   "title": "ALTERNANCE – Assistant(e) Chef de Projet RSE & Développement Produit",
+   "company": "MÊME",
+   "key": "alternance assistant chef de projet rse developpement produit|meme",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4482886720": {
+   "status": "title_excluded",
+   "title": "Technicien Matériaux Céramiques & Fabrication Additive (H/F)",
+   "company": "SEGULA Technologies",
+   "key": "technicien materiaux ceramiques fabrication additive h f|segula",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4483106131": {
+   "status": "title_excluded",
+   "title": "Ingénieur Biomédical - Stage (H/F)",
+   "company": "Air Liquide Healthcare",
+   "key": "ingenieur biomedical stage h f|air",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4474311786": {
+   "status": "title_excluded",
+   "title": "Stage Electronique : Développement de méthodes de compensation pour capteurs embarqués F/H",
+   "company": "MBDA",
+   "key": "stage electronique developpement de methodes de compensation pour capteurs embarques f h|mbda",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4481210154": {
+   "status": "title_excluded",
+   "title": "Stage M2 - Cartographier l’infiltration de l’eau en 3D au cours du temps et ses impacts sur la structure du sol",
+   "company": "INRAE",
+   "key": "stage m2 cartographier l infiltration de l eau en 3d au cours du temps et ses impacts sur la structure du sol|inrae",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4473125848": {
+   "status": "title_excluded",
+   "title": "Chef de projet Senior MOEX TCE H/F",
+   "company": "Talents Construction",
+   "key": "chef de projet senior moex tce h f|talents",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4474591996": {
+   "status": "title_excluded",
+   "title": "STAGE de fin d'études – Economie Circulaire et projets d’aménagement et d’infrastructures linéaires",
+   "company": "Artelia",
+   "key": "stage de fin d etudes economie circulaire et projets d amenagement et d infrastructures lineaires|artelia",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4447004092": {
+   "status": "title_excluded",
+   "title": "Stagiaire Ingénieur(e) de Projets junior Solaire // photovoltaïque et batteries de stockage F/H",
+   "company": "VINCI Concessions",
+   "key": "stagiaire ingenieur de projets junior solaire photovoltaique et batteries de stockage f h|vinci",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4482088418": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur(e) HSE (H/F)",
+   "company": "EssilorLuxottica",
+   "key": "stage ingenieur hse h f|essilorluxottica",
+   "at": "2026-10-23T15:55:06+00:00"
+  },
+  "4474378034": {
+   "status": "screened_out",
+   "title": "EXPERT PHARMACIEN AFFAIRES PHARMACEUTIQUES & QUALITE DE LA CHAINE D'APPROVISIONNEMENT - PRI",
+   "company": "Fresenius Medical Care",
+   "key": "expert pharmacien affaires pharmaceutiques qualite de la chaine d approvisionnement pri|fresenius",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Poste de pharmacien expert réglementaire et pharmacovigilance (docteur en pharmacie requis, Pharmacien Responsable Intérimaire), sans rapport avec le traitement des eaux ni la chimie analytique de la candidate ; le diplôme et le domaine ne correspondent pas."
+  },
+  "4483114023": {
+   "status": "screened_out",
+   "title": "Ingénierie de surface pour capteurs biométriques de nouvelle génération",
+   "company": "IDEMIA Public Security",
+   "key": "ingenierie de surface pour capteurs biometriques de nouvelle generation|idemia",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Stage en ingénierie de surface pour capteurs biométriques (optique, matériaux, physique), sans lien avec la chimie des eaux ni le laboratoire d'analyse ; il s'agit d'un stage, contrat refusé par la candidate."
+  },
+  "4481905491": {
+   "status": "screened_out",
+   "title": "CS27 BAC+5 - Validation de Smart Switches pour le Software Defined Vehicle (SDV) (H/F)",
+   "company": "Renault Group",
+   "key": "cs27 bac 5 validation de smart switches pour le software defined vehicle sdv h f|renault",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Stage en électronique embarquée automobile (validation de smart switches 12V), sans lien avec le traitement des eaux ou la chimie, et de niveau étudiant en stage, non CDI."
+  },
+  "4476639638": {
+   "status": "screened_out",
+   "title": "Ingénieur Essais Vibratoires (H/F)",
+   "company": "AWAKE Group x INNOVATEAM",
+   "key": "ingenieur essais vibratoires h f|awake",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Poste d'essais vibratoires et de validation en aéronautique, sans lien avec la chimie, le traitement des eaux ni le laboratoire d'analyse, et demandant au moins 5 ans d'expérience alors que la candidate en a environ 1."
+  },
+  "4425623183": {
+   "status": "screened_out",
+   "title": "Projeteur CVC / PLB / BIM",
+   "company": "KAIRDAN",
+   "key": "projeteur cvc plb bim|kairdan",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Poste de projeteur CVC/plomberie axé sur la modélisation Revit et les plans d'exécution, sans rapport avec la chimie, le traitement des eaux ou le laboratoire, et de niveau projeteur (technique) plutôt qu'ingénieur."
+  },
+  "4315137422": {
+   "status": "screened_out",
+   "title": "Responsable Assurance Qualité Fournisseurs",
+   "company": "Nutribio (Coopérative Sodiaal)",
+   "key": "responsable assurance qualite fournisseurs|nutribio",
+   "at": "2026-10-23T15:55:06+00:00",
+   "reason": "Poste de responsable assurance qualité fournisseurs agroalimentaire (nutrition infantile) sans lien avec les missions de la candidate en analyses des eaux, avec 7 ans d'expérience exigés et management d'équipe, alors que la candidate a environ 1 an d'expérience."
   }
  }
 }
