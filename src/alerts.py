@@ -137,7 +137,7 @@ def offer_key(job: linkedin.Job) -> str:
 # ── Email ─────────────────────────────────────────────────────
 
 def send_offer(job: linkedin.Job, verdict: dict) -> None:
-    sender, to = os.environ["GMAIL_ADDRESS"], os.environ["NOTIFY_EMAIL"]
+    sender, to = os.environ["GMAIL_ADDRESS"].strip(), os.environ["NOTIFY_EMAIL"].strip()
     excerpt = job.description[:700].rsplit(" ", 1)[0] + "…" if len(job.description) > 700 else job.description
     published = (f"il y a {round(job.age_days * 1440)} min" if job.age_days is not None and job.age_days < 1 / 24
                  else "dans la dernière heure")
@@ -174,9 +174,35 @@ Postuler : {job.url}
 <p><a href="{e(job.url)}" style="display:inline-block;background:#0b6e69;color:#fff;padding:10px 18px;
 border-radius:6px;text-decoration:none;font-weight:bold">Voir l'offre et postuler →</a></p>
 <p style="color:#52606d;white-space:pre-line">{e(excerpt)}</p></div>""", subtype="html")
+    _send(msg)
+
+
+def mask(address: str) -> str:
+    """« najlaaee29@gmail.com » → « naj…29@gmail.com (20 car.) » : vérifiable sans être exposée."""
+    local, _, domain = address.strip().partition("@")
+    return f"{local[:3]}…{local[-2:]}@{domain} ({len(address)} car.{' ⚠️ espaces' if address != address.strip() else ''})"
+
+
+def _send(msg: EmailMessage) -> None:
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as smtp:
-        smtp.login(sender, os.environ["GMAIL_APP_PASSWORD"])
-        smtp.send_message(msg)
+        smtp.login(os.environ["GMAIL_ADDRESS"].strip(), os.environ["GMAIL_APP_PASSWORD"])
+        refused = smtp.send_message(msg)
+    print(f"   ✉️  envoyé à {mask(msg['To'])}" + (f" — REFUSÉ : {refused}" if refused else " — accepté par Gmail"))
+
+
+def send_test_email() -> None:
+    """Email de test à la destinataire, avec copie à l'expéditrice."""
+    sender, to = os.environ["GMAIL_ADDRESS"].strip(), os.environ["NOTIFY_EMAIL"].strip()
+    print(f"Expéditrice : {mask(sender)}\nDestinataire : {mask(os.environ['NOTIFY_EMAIL'])}")
+    for dest, note in ((to, ""), (sender, "\n\n(Copie de contrôle envoyée à l'expéditrice.)")):
+        msg = EmailMessage()
+        msg["From"] = formataddr(("Alertes emploi", sender))
+        msg["To"] = dest
+        msg["Subject"] = "✅ Test — Alertes emploi"
+        msg["Message-ID"] = make_msgid()
+        msg.set_content("Ceci est un email de test : les alertes emploi LinkedIn arriveront à cette adresse "
+                        f"({to}).{note}")
+        _send(msg)
 
 
 # ── Passage ───────────────────────────────────────────────────
@@ -274,4 +300,6 @@ def run(dry_run: bool = False) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true", help="n'envoie aucun email")
-    run(parser.parse_args().dry_run)
+    parser.add_argument("--test-email", action="store_true", help="envoie seulement un email de test")
+    args = parser.parse_args()
+    send_test_email() if args.test_email else run(args.dry_run)

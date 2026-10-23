@@ -10,6 +10,9 @@ on:
       max_age_minutes:
         description: "Âge max des offres en minutes, pour un test (vide = config.yaml ; 1440 = 24 h)"
         required: false
+      test_email:
+        description: "Envoyer seulement un email de test (oui / vide)"
+        required: false
 
 permissions:
   contents: write   # pour mémoriser les offres déjà envoyées (data/seen.json)
@@ -61,7 +64,11 @@ jobs:
         run: |
           set -o pipefail
           pip install -q -r requirements.txt
-          python -u -m src.alerts 2>&1 | tee data/last_run.log
+          if [ -n "${{ inputs.test_email }}" ]; then
+            python -u -m src.alerts --test-email 2>&1 | tee data/last_run.log
+          else
+            python -u -m src.alerts 2>&1 | tee data/last_run.log
+          fi
 
       - name: Mémoriser les offres envoyées
         if: always() && steps.ready.outputs.ok == 'true'
