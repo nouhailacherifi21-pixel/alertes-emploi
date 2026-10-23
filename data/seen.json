@@ -657,6 +657,58 @@
    "key": "charge de mission qhse en interne secteur numerique h f|extia",
    "at": "2026-10-23T19:56:45+00:00",
    "reason": "Poste de chargé de mission QHSE pour un système de management intégré en entreprise de conseil IT, sans lien avec la chimie, le traitement des eaux ou le laboratoire, malgré un niveau de chargé de mission et un lieu à Paris."
+  },
+  "4483157047": {
+   "status": "title_excluded",
+   "title": "Stage PFE - Quelles techniques d'avenir pour la dépose et la pose de canalisation d'eau potable ? F/H",
+   "company": "VINCI",
+   "key": "stage pfe quelles techniques d avenir pour la depose et la pose de canalisation d eau potable f h|vinci",
+   "at": "2026-10-23T20:25:34+00:00"
+  },
+  "4483155060": {
+   "status": "title_excluded",
+   "title": "Stage PFE - Conduite de travaux GC Hydrauliques & analyse du marché STEP en IDF",
+   "company": "VINCI",
+   "key": "stage pfe conduite de travaux gc hydrauliques analyse du marche step en idf|vinci",
+   "at": "2026-10-23T20:25:34+00:00"
+  },
+  "4483153157": {
+   "status": "title_excluded",
+   "title": "STAGE PFE - Echangeur thermique et réseaux basse température F/H",
+   "company": "VINCI",
+   "key": "stage pfe echangeur thermique et reseaux basse temperature f h|vinci",
+   "at": "2026-10-23T20:25:34+00:00"
+  },
+  "4483140795": {
+   "status": "title_excluded",
+   "title": "STAGE PFE - Modélisation 3D et digitalisation des procédés de réhabilitation sans tranchée F/H",
+   "company": "VINCI",
+   "key": "stage pfe modelisation 3d et digitalisation des procedes de rehabilitation sans tranchee f h|vinci",
+   "at": "2026-10-23T20:25:34+00:00"
+  },
+  "4483157048": {
+   "status": "screened_out",
+   "title": "Cheffe/Chef de Chantier Eau Potable F/H",
+   "company": "VINCI",
+   "key": "chef chef de chantier eau potable f h|vinci",
+   "at": "2026-10-23T20:25:34+00:00",
+   "reason": "Poste de chef de chantier en travaux publics axé sur la conduite de chantiers, la gestion d'équipe et la sécurité, sans lien avec les missions d'analyse, de laboratoire ou de traitement des eaux de la candidate ; le management d'équipe et les 3 ans d'expérience exigés sont également hors profil junior."
+  },
+  "4483140797": {
+   "status": "screened_out",
+   "title": "VIE - Ingénieur Projet F/H",
+   "company": "Entrepose Group",
+   "key": "vie ingenieur projet f h|entrepose",
+   "at": "2026-10-23T20:25:34+00:00",
+   "reason": "Poste de coordination d'ingénierie et de gestion de projet pour infrastructures (pipelines, génie civil), sans lien avec la chimie, le traitement des eaux ou le laboratoire ; contrat V.I.E., non compatible avec la préférence CDI."
+  },
+  "4483149180": {
+   "status": "screened_out",
+   "title": "Chef de chantier travaux dépollution F/H",
+   "company": "VINCI",
+   "key": "chef de chantier travaux depollution f h|vinci",
+   "at": "2026-10-23T20:25:34+00:00",
+   "reason": "Poste de chef de chantier opérationnel en dépollution de sols et nappes, centré sur l'encadrement d'équipes terrain et la coordination de sous-traitants, sans mission d'ingénierie chimique, d'analyse en laboratoire ou de traitement des eaux conceptualisé ; le niveau de chef de chantier n'est pas un poste d'ingénieur ou de cadre chimiste au sens des préférences."
   }
  }
 }
