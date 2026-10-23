@@ -19,47 +19,19 @@ searches:
     keywords: '"traitement des eaux" OR "traitement de l''eau" OR "ingénieur eau" OR "eau potable" OR "eaux usées" OR assainissement OR épuration OR "water treatment"'
   - <<: *zone
     keywords: '"ingénieur procédés" OR "ingénieur d''études" OR "chargé d''études" OR "process engineer"'
+  - <<: *zone
+    keywords: '"ingénieur environnement" OR "qualité de l''eau" OR "ingénieur qualité" OR métrologie OR "ingénieur hydraulique" OR "chargé de mission eau"'
 
 # Âge maximum des offres demandées à LinkedIn (minutes). Un passage toutes les
 # 15 minutes : une heure laisse une marge en cas de retard de GitHub.
 search_max_age_minutes: 60
 max_pages: 2
 
-# ── Filtre sur l'intitulé ────────────────────────────────────
-# Une offre est retenue si son titre contient au moins un mot de CHAQUE liste.
-# Genre, accents et « (e) » sont gérés ; « * » = début de mot (chimi* → chimie, chimiste…).
-title_roles:
-  - "ingenieur*"
-  - "engineer*"
-  - "charge"
-  - "chimiste"
-  - "chemist"
-  - "scientist"
-title_domains:
-  - "chimi*"
-  - "chemi*"
-  - "laborato*"
-  - "labo"
-  - "eau"
-  - "eaux"
-  - "water"
-  - "traitement"
-  - "r d"
-  - "recherche"
-  - "formulation"
-  - "procede*"
-  - "process"
-  - "analys*"
-  - "analyti*"
-  - "physico*"
-  - "metrolog*"
-  - "assainissement"
-  - "epuration"
-  - "hydro*"
-  - "environnement*"
-  - "potabil*"
+# Fraîcheur : offres ignorées si publiées il y a plus de N minutes (page de l'offre).
+max_post_age_minutes: 60
 
-# Offres écartées si leur titre contient l'un de ces mots.
+# ── Exclusions immédiates sur l'intitulé (sans lire l'offre) ─
+# Genre, accents et « (e) » sont gérés ; « * » = début de mot (technicien* → technicienne…).
 title_excluded:
   - "stage"
   - "stagiaire"
@@ -73,17 +45,43 @@ title_excluded:
   - "interimaire"
   - "senior"
   - "sr"
-  - "lead"
   - "directeur"
   - "directrice"
   - "director"
   - "head of"
   - "technicien*"
-  - "commercial*"
   - "vendeur"
 
-# ── Filtre sur l'annonce (lue seulement pour les offres retenues par le titre) ──
-# Écartée si l'annonce parle d'un CDD ou d'intérim sans mentionner de CDI.
-exclude_temporary_contracts: true
-# Écartée si l'expérience minimale demandée dépasse ce nombre d'années.
-max_years_experience: 3
+# ── Tri par Claude (lecture de chaque annonce) ───────────────
+screen_model: "claude-haiku-5-5"
+screen_workers: 6
+
+# Une offre est retenue si ses MISSIONS relèvent d'au moins un de ces domaines,
+# quel que soit son intitulé.
+domains:
+  - "Chimie / ingénierie chimiste"
+  - "Laboratoire / analyses physico-chimiques, chimie analytique (chromatographie, spectroscopie)"
+  - "Traitement des eaux : eau potable, eaux usées, eaux industrielles, assainissement, épuration"
+  - "R&D / formulation / expérimentation"
+  - "Procédés / génie des procédés / optimisation de traitement"
+  - "Contrôle qualité et métrologie en laboratoire"
+  - "Environnement / qualité de l'eau"
+
+# Profil (anonyme : le dépôt est public), utilisé pour la note d'adéquation.
+profile: |
+  Ingénieure chimiste, Master Chimie parcours Traitement des Eaux (2024).
+  Environ 1 an d'expérience en laboratoires d'analyse des eaux (laboratoire accrédité
+  COFRAC / ISO 17025) : analyses physico-chimiques des eaux, validation des résultats,
+  gestion des données sous LIMS, métrologie des équipements, contrôle qualité interne
+  et cartes de contrôle, caractérisation de méthodes (NF T90-210), rédaction de rapports
+  techniques avec recommandations (corrosion, entartrage, conditionnement des eaux de circuits).
+  Projet industriel d'optimisation du traitement de l'eau (méthodes spectroscopiques et
+  chromatographiques). Outils : LIMS, QGIS, XLStat, Excel. Anglais scientifique et technique.
+
+# Préférences transmises à Claude.
+preferences: |
+  CDI uniquement, à Paris ou en Île-de-France.
+  Postes d'ingénieure ou de cadre (ingénieur chimiste, ingénieur laboratoire, ingénieur en
+  traitement des eaux, chargé de traitement des eaux, ingénieur d'études, ingénieur R&D) :
+  pas de poste de technicien(ne), laborantin(e) ou d'agent.
+  Profil junior : 3 ans d'expérience maximum demandés, fourchette comprise.

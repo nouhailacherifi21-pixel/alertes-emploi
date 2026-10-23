@@ -26,11 +26,12 @@ jobs:
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          if [ -n "$GMAIL_APP_PASSWORD" ] && [ -n "$NOTIFY_EMAIL" ]; then
+          if [ -n "$GMAIL_APP_PASSWORD" ] && [ -n "$NOTIFY_EMAIL" ] && [ -n "$ANTHROPIC_API_KEY" ]; then
             echo "ok=true" >> "$GITHUB_OUTPUT"
           else
-            echo "::warning::Secrets manquants : GMAIL_ADDRESS, GMAIL_APP_PASSWORD et NOTIFY_EMAIL"
+            echo "::warning::Secrets manquants : GMAIL_ADDRESS, GMAIL_APP_PASSWORD, NOTIFY_EMAIL et ANTHROPIC_API_KEY"
             echo "ok=false" >> "$GITHUB_OUTPUT"
           fi
 
@@ -46,6 +47,7 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           pip install -q -r requirements.txt
           python -u -m src.alerts
