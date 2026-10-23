@@ -27,6 +27,10 @@ searches:
 search_max_age_minutes: 60
 max_pages: 2
 
+# Annonces lues (et triées par Claude) au plus par passage ; les suivantes attendent
+# le passage d'après.
+max_fetch_per_run: 25
+
 # Fraîcheur : offres ignorées si publiées il y a plus de N minutes (page de l'offre).
 max_post_age_minutes: 60
 

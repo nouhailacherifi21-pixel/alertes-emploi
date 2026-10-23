@@ -212,6 +212,7 @@ def run(dry_run: bool = False) -> None:
     # 2. Lecture des annonces (une par une, pour ménager LinkedIn) et filtres simples.
     known_keys = {v.get("key") for v in seen["jobs"].values()}
     to_screen: list[linkedin.Job] = []
+    fetched = 0
     for job in candidates.values():
         if linkedin.rate_limited:
             print("⏸️  LinkedIn limite les requêtes : la suite au prochain passage.")
@@ -219,6 +220,10 @@ def run(dry_run: bool = False) -> None:
         if title_excluded(job.title, cfg):
             mark(job, "title_excluded")
             continue
+        if fetched >= cfg.get("max_fetch_per_run", 25):
+            print("⏸️  Limite d'annonces lues par passage atteinte : la suite au prochain passage.")
+            break
+        fetched += 1
         job = linkedin.fetch_details(job)
         if not job.description:
             continue  # page illisible (limite passagère) : nouvel essai au prochain passage
