@@ -190,6 +190,8 @@ def load_seen() -> dict:
 
 def run(dry_run: bool = False) -> None:
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text())
+    if os.environ.get("MAX_AGE_MINUTES", "").strip():  # test ponctuel depuis « Run workflow »
+        cfg["search_max_age_minutes"] = cfg["max_post_age_minutes"] = int(os.environ["MAX_AGE_MINUTES"])
     seen = load_seen()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 

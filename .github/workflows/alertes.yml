@@ -5,7 +5,11 @@ on:
     # Toutes les 15 minutes, de 6h à 20h UTC (≈ 8h-22h à Paris en été, 7h-21h en hiver).
     # Dépôt public : les minutes GitHub Actions sont illimitées.
     - cron: "*/15 6-20 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      max_age_minutes:
+        description: "Âge max des offres en minutes, pour un test (vide = config.yaml ; 1440 = 24 h)"
+        required: false
 
 permissions:
   contents: write   # pour mémoriser les offres déjà envoyées (data/seen.json)
@@ -53,9 +57,11 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_AGE_MINUTES: ${{ inputs.max_age_minutes }}
         run: |
+          set -o pipefail
           pip install -q -r requirements.txt
-          python -u -m src.alerts
+          python -u -m src.alerts 2>&1 | tee data/last_run.log
 
       - name: Mémoriser les offres envoyées
         if: always() && steps.ready.outputs.ok == 'true'
