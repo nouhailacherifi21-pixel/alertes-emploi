@@ -13,6 +13,9 @@ on:
       test_email:
         description: "Envoyer seulement un email de test (oui / vide)"
         required: false
+      resend:
+        description: "Renvoyer les offres envoyées ces 48 dernières heures (oui / vide)"
+        required: false
 
 permissions:
   contents: write   # pour mémoriser les offres déjà envoyées (data/seen.json)
@@ -66,6 +69,8 @@ jobs:
           pip install -q -r requirements.txt
           if [ -n "${{ inputs.test_email }}" ]; then
             python -u -m src.alerts --test-email 2>&1 | tee data/last_run.log
+          elif [ -n "${{ inputs.resend }}" ]; then
+            python -u -m src.alerts --resend 2>&1 | tee data/last_run.log
           else
             python -u -m src.alerts 2>&1 | tee data/last_run.log
           fi

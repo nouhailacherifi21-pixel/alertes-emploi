@@ -137,43 +137,36 @@ def offer_key(job: linkedin.Job) -> str:
 # ── Email ─────────────────────────────────────────────────────
 
 def send_offer(job: linkedin.Job, verdict: dict) -> None:
+    """Email volontairement sobre (objet sans émoji, un seul lien) pour éviter le dossier spam."""
     sender, to = os.environ["GMAIL_ADDRESS"].strip(), os.environ["NOTIFY_EMAIL"].strip()
-    excerpt = job.description[:700].rsplit(" ", 1)[0] + "…" if len(job.description) > 700 else job.description
-    published = (f"il y a {round(job.age_days * 1440)} min" if job.age_days is not None and job.age_days < 1 / 24
-                 else "dans la dernière heure")
-    fit = verdict.get("fit_score", 0)
+    excerpt = job.description[:600].rsplit(" ", 1)[0] + "…" if len(job.description) > 600 else job.description
+    fit = verdict.get("fit_score")
     experience = verdict.get("experience_required") or "non précisée"
     contract = verdict.get("contract") or "non précisé"
+    lines = [
+        f"{job.title}",
+        f"{job.company} - {job.location}",
+        "",
+        *( [f"Adéquation avec ton profil : {fit}/100"] if fit is not None else [] ),
+        *( [f"Avis : {verdict['reason']}"] if verdict.get("reason") else [] ),
+        f"Expérience demandée : {experience}",
+        f"Contrat : {contract}",
+        "",
+        f"Voir l'offre : {job.url}",
+        "",
+        excerpt,
+    ]
     e = html.escape
     msg = EmailMessage()
     msg["From"] = formataddr(("Alertes emploi", sender))
     msg["To"] = to
-    msg["Subject"] = f"🧪 {job.title} — {job.company} ({fit}/100)"
+    msg["Subject"] = f"Alerte emploi : {job.title} - {job.company}"
     msg["Message-ID"] = make_msgid()
-    msg.set_content(f"""Nouvelle offre : {job.title}
-Entreprise : {job.company}
-Lieu : {job.location}
-Publiée : {published}
-
-Adéquation avec ton profil : {fit}/100
-Avis : {verdict.get('reason', '')}
-Expérience demandée : {experience}
-Contrat : {contract}
-
-Postuler : {job.url}
-
-{excerpt}
-""")
-    color = "#2f855a" if fit >= 75 else "#b7791f" if fit >= 60 else "#c53030"
-    msg.add_alternative(f"""<div style="font-family:Arial,sans-serif;font-size:14px;color:#1f2933;max-width:620px">
-<h2 style="margin:0 0 4px;color:#0b6e69">{e(job.title)}</h2>
-<div style="color:#52606d">{e(job.company)} · {e(job.location)} · publiée {e(published)}</div>
-<p style="font-size:20px;margin:12px 0"><b style="color:{color}">{fit}/100</b> d'adéquation avec ton profil</p>
-<p>{e(verdict.get('reason', ''))}</p>
-<p><b>Expérience demandée :</b> {e(experience)}<br><b>Contrat :</b> {e(contract)}</p>
-<p><a href="{e(job.url)}" style="display:inline-block;background:#0b6e69;color:#fff;padding:10px 18px;
-border-radius:6px;text-decoration:none;font-weight:bold">Voir l'offre et postuler →</a></p>
-<p style="color:#52606d;white-space:pre-line">{e(excerpt)}</p></div>""", subtype="html")
+    msg.set_content("\n".join(lines))
+    body = "".join(f"<p style=\"margin:0 0 6px\">{e(l)}</p>" if l else "<br>" for l in lines[:-3])
+    msg.add_alternative(f"""<div style="font-family:Arial,sans-serif;font-size:14px;color:#222">{body}
+<p><a href="{e(job.url)}">Voir l'offre sur LinkedIn</a></p>
+<p style="color:#555">{e(excerpt)}</p></div>""", subtype="html")
     _send(msg)
 
 
@@ -205,6 +198,18 @@ def send_test_email() -> None:
         _send(msg)
 
 
+def resend_sent(hours: int = 48) -> None:
+    """Renvoie les offres déjà envoyées ces dernières heures (relues sur LinkedIn)."""
+    seen = load_seen()
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
+    for job_id, v in seen["jobs"].items():
+        if v["status"] == "sent" and v.get("at", "") >= cutoff:
+            job = linkedin.fetch_details(linkedin.new_job(job_id, v.get("title", "")))
+            job.company = job.company or v.get("company", "")
+            print(f"↻ {job.title} — {job.company}")
+            send_offer(job, v)
+
+
 # ── Passage ───────────────────────────────────────────────────
 
 def load_seen() -> dict:
@@ -223,7 +228,7 @@ def run(dry_run: bool = False) -> None:
 
     def mark(job: linkedin.Job, status: str, **extra) -> None:
         seen["jobs"][job.id] = {"status": status, "title": job.title, "company": job.company,
-                                "key": offer_key(job), "at": now, **extra}
+                                "url": job.url, "key": offer_key(job), "at": now, **extra}
 
     # 1. Recherche des offres récentes.
     candidates: dict[str, linkedin.Job] = {}
@@ -290,7 +295,8 @@ def run(dry_run: bool = False) -> None:
     for job, verdict in sorted(keep, key=lambda kv: kv[1].get("fit_score", 0), reverse=True):
         if not dry_run:
             send_offer(job, verdict)
-        mark(job, "sent", fit_score=verdict.get("fit_score"), reason=verdict["reason"])
+        mark(job, "sent", fit_score=verdict.get("fit_score"), reason=verdict["reason"],
+             experience_required=verdict.get("experience_required", ""), contract=verdict.get("contract", ""))
         sent += 1
     print(f"📧 {sent} offre(s) envoyée(s)")
     if not dry_run:
@@ -301,5 +307,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true", help="n'envoie aucun email")
     parser.add_argument("--test-email", action="store_true", help="envoie seulement un email de test")
+    parser.add_argument("--resend", action="store_true", help="renvoie les offres envoyées ces 48 dernières heures")
     args = parser.parse_args()
-    send_test_email() if args.test_email else run(args.dry_run)
+    if args.test_email:
+        send_test_email()
+    elif args.resend:
+        resend_sent()
+    else:
+        run(args.dry_run)
