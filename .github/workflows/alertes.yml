@@ -24,15 +24,20 @@ jobs:
       - name: Vérifier la configuration
         id: ready
         env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          if [ -n "$GMAIL_APP_PASSWORD" ] && [ -n "$NOTIFY_EMAIL" ] && [ -n "$ANTHROPIC_API_KEY" ]; then
-            echo "ok=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "::warning::Secrets manquants : GMAIL_ADDRESS, GMAIL_APP_PASSWORD, NOTIFY_EMAIL et ANTHROPIC_API_KEY"
+          missing=""
+          for name in GMAIL_ADDRESS GMAIL_APP_PASSWORD NOTIFY_EMAIL ANTHROPIC_API_KEY; do
+            [ -n "${!name}" ] || missing="$missing $name"
+          done
+          if [ -n "$missing" ]; then
+            echo "::warning::Secret(s) manquant(s) :$missing"
             echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
           fi
 
       - uses: actions/setup-python@v6
