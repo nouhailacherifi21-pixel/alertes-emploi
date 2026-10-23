@@ -158,7 +158,7 @@ def send_offer(job: linkedin.Job, verdict: dict) -> None:
     ]
     e = html.escape
     msg = EmailMessage()
-    msg["From"] = formataddr(("Alertes emploi", sender))
+    msg["From"] = formataddr(("Nouvelle Offre", sender))
     msg["To"] = to
     msg["Subject"] = f"Nouvelle offre : {job.title} - {job.company}"
     msg["Message-ID"] = make_msgid()
@@ -189,7 +189,7 @@ def send_test_email() -> None:
     print(f"Expéditrice : {mask(sender)}\nDestinataire : {mask(os.environ['NOTIFY_EMAIL'])}")
     for dest, note in ((to, ""), (sender, "\n\n(Copie de contrôle envoyée à l'expéditrice.)")):
         msg = EmailMessage()
-        msg["From"] = formataddr(("Alertes emploi", sender))
+        msg["From"] = formataddr(("Nouvelle Offre", sender))
         msg["To"] = dest
         msg["Subject"] = "✅ Test — Alertes emploi"
         msg["Message-ID"] = make_msgid()
