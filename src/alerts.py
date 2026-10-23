@@ -160,7 +160,7 @@ def send_offer(job: linkedin.Job, verdict: dict) -> None:
     msg = EmailMessage()
     msg["From"] = formataddr(("Alertes emploi", sender))
     msg["To"] = to
-    msg["Subject"] = f"Alerte emploi : {job.title} - {job.company}"
+    msg["Subject"] = f"Nouvelle offre : {job.title} - {job.company}"
     msg["Message-ID"] = make_msgid()
     msg.set_content("\n".join(lines))
     body = "".join(f"<p style=\"margin:0 0 6px\">{e(l)}</p>" if l else "<br>" for l in lines[:-3])
