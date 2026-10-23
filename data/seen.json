@@ -437,6 +437,28 @@
    "key": "animateur qse securite et stockage alimentaire h f|jd",
    "at": "2026-10-23T17:15:29+00:00",
    "reason": "Le poste est un animateur QSE axé sécurité sanitaire en entrepôt alimentaire, sans lien avec la chimie, les analyses d'eau ou les procédés, et le statut d'animateur confirmé ne correspond pas à un poste d'ingénieure ou de cadre chimiste."
+  },
+  "4474714467": {
+   "status": "title_excluded",
+   "title": "Stage Matériaux : Modélisation mécanique de matériaux céramiques F/H",
+   "company": "MBDA",
+   "key": "stage materiaux modelisation mecanique de materiaux ceramiques f h|mbda",
+   "at": "2026-10-23T17:57:34+00:00"
+  },
+  "4472570718": {
+   "status": "title_excluded",
+   "title": "Packaging Development Intern",
+   "company": "Laboratoires Filorga",
+   "key": "packaging development intern|laboratoires",
+   "at": "2026-10-23T17:57:34+00:00"
+  },
+  "4483131072": {
+   "status": "screened_out",
+   "title": "Ingénieur Support Clients (Field Service) - Ligne Electro-Optical Testing (H/F)",
+   "company": "HGH Infrared Systems",
+   "key": "ingenieur support clients field service ligne electro optical testing h f|hgh",
+   "at": "2026-10-23T17:57:34+00:00",
+   "reason": "Poste de support client technique en optronique et tests électro-optiques (interventions chez les clients, formation, ticketing), sans lien avec le traitement des eaux, la chimie ou le laboratoire ; de plus le niveau d'expérience n'est pas précisé et le poste exige une mobilité importante et l'anglais courant."
   }
  }
 }
