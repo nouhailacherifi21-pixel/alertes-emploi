@@ -1689,6 +1689,79 @@
    "key": "cdd evaluateur junior parfums beaute h f x|chanel",
    "at": "2026-10-24T16:23:27+00:00",
    "reason": "Poste d'évaluateur junior en évaluation olfactive et stabilité de produits parfums et cosmétiques chez Chanel, sans lien avec l'eau ni les missions d'analyse des eaux. Niveau technicien-assistance plutôt que Bac+5, CDD de 6 mois, à Neuilly-sur-Seine ; expérience non précisée."
+  },
+  "4473177081": {
+   "status": "title_excluded",
+   "title": "Technicien(e) Application H/F",
+   "company": "dsm-firmenich",
+   "url": "https://www.linkedin.com/jobs/view/4473177081/",
+   "key": "technicien application h f|dsm",
+   "at": "2026-10-24T16:57:20+00:00"
+  },
+  "4473165382": {
+   "status": "title_excluded",
+   "title": "Stage : Archetype Propulsion",
+   "company": "Stellantis",
+   "url": "https://www.linkedin.com/jobs/view/4473165382/",
+   "key": "stage archetype propulsion|stellantis",
+   "at": "2026-10-24T16:57:20+00:00"
+  },
+  "4464897014": {
+   "status": "screened_out",
+   "title": "Ingénieur Instrumentation Génie Civil (h/f)",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4464897014/",
+   "key": "ingenieur instrumentation genie civil h f|socotec",
+   "at": "2026-10-24T16:57:20+00:00",
+   "reason": "L'offre porte sur l'instrumentation et le monitoring structurel (SHM) d'ouvrages de génie civil (ponts, barrages, bâtiments), sans lien avec la qualité ou le traitement de l'eau ni avec la chimie des eaux. Poste Bac+5 ingénieur à Palaiseau (91), sans durée d'expérience précisée et contrat non indiqué."
+  },
+  "4482660240": {
+   "status": "screened_out",
+   "title": "Public Tender Admin - France",
+   "company": "Rayner",
+   "url": "https://www.linkedin.com/jobs/view/4482660240/",
+   "key": "public tender admin france|rayner",
+   "at": "2026-10-24T16:57:20+00:00",
+   "reason": "L'offre concerne la gestion des appels d'offres hospitaliers et publics pour un fabricant de dispositifs médicaux (administratif et commercial), sans aucun lien avec l'eau, la chimie des eaux ou la qualité de l'eau. Le poste est de niveau administratif/manager des appels d'offres, sans niveau Bac+5 scientifique explicitement requis, et aucune durée d'expérience n'est chiffrée."
+  },
+  "4474794965": {
+   "status": "screened_out",
+   "title": "Responsable qualité H/F - 78",
+   "company": "Adéquat Interim & Recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4474794965/",
+   "key": "responsable qualite h f 78|adequat",
+   "at": "2026-10-24T16:57:20+00:00",
+   "reason": "Poste de responsable qualité d'un site industriel (politique qualité, SMQ, audits, non-conformités), sans lien avec l'eau ni avec la chimie des eaux : missions purement système qualité générique. Niveau cadre, expérience significative demandée sans durée précise mais 'confirmé' et 'leadership', CDI, Versailles (78)."
+  },
+  "4475008466": {
+   "status": "screened_out",
+   "title": "Responsable qualité H/F",
+   "company": "Adéquat Interim & Recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4475008466/",
+   "key": "responsable qualite h f|adequat",
+   "at": "2026-10-24T16:57:20+00:00",
+   "reason": "Poste de responsable qualité industrielle générique (politique qualité, système de management, audits, non-conformités) sans lien avec l'eau ni la chimie des eaux, malgré le titre qualité proche du domaine. Niveau cadre Bac+5 implicite, mais expérience 'significative' et 'confirmé' demandées sans durée, et management/leadership attendu."
+  },
+  "4447147291": {
+   "status": "screened_out",
+   "title": "Ingénieur chargé d’affaire en diagnostic des ouvrages existants H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4447147291/",
+   "key": "ingenieur charge d affaire en diagnostic des ouvrages existants h f|socotec",
+   "at": "2026-10-24T16:57:20+00:00",
+   "reason": "Poste d'ingénieur chargé d'affaires en diagnostic structurel d'ouvrages existants (génie civil, pathologies matériaux, calculs de structure), sans lien avec l'eau ni la qualité des eaux. Niveau Bac+5 mais domaine hors sujet ; l'expérience demandée n'est pas chiffrée."
+  },
+  "4473392136": {
+   "status": "sent",
+   "title": "Chargé d'Affaires Evaluation des Risques Sanitaires et Environnementaux H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4473392136/",
+   "key": "charge d affaires evaluation des risques sanitaires et environnementaux h f|socotec",
+   "at": "2026-10-24T16:57:20+00:00",
+   "fit_score": 35,
+   "reason": "Chargé d'affaires en évaluation des risques sanitaires et environnementaux (ERS, IEM, modélisation des transferts, sols, eaux souterraines, air) pour une agence santé-environnement de SOCOTEC; la mission porte surtout sur les sols, l'air et les expositions, avec seulement une part d'analyse de données sur les eaux souterraines, et exige 3 ans d'expérience en bureau d'études. Poste Bac+5 à Paris en CDI non précisé.",
+   "experience_required": "3 ans d'expérience professionnelle minimum",
+   "contract": ""
   }
  }
 }
