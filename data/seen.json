@@ -1807,6 +1807,58 @@
    "key": "charge d affaire etudes techniques f h|eiffage",
    "at": "2026-10-24T17:23:45+00:00",
    "reason": "Poste de chargé d'affaires en études techniques dans le BTP (structures, fluides, CVC, électricité) pour des ouvrages de construction, sans lien avec l'eau ni la qualité des eaux. Niveau ingénieur, exigeant 5 ans minimum d'expérience en bureau d'études, CDI à Saint-Ouen (93)."
+  },
+  "4438221747": {
+   "status": "duplicate",
+   "title": "Chef de Projet / Cheffe de Projet Ingénierie Industrielle",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4438221747/",
+   "key": "chef de projet chef de projet ingenierie industrielle|artelia",
+   "at": "2026-10-24T18:20:52+00:00"
+  },
+  "4475031354": {
+   "status": "title_excluded",
+   "title": "Stage Traitement du Signal  : Technique d'analyse de brouilleurs GNSS F/H",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4475031354/",
+   "key": "stage traitement du signal technique d analyse de brouilleurs gnss f h|mbda",
+   "at": "2026-10-24T18:20:52+00:00"
+  },
+  "4435689521": {
+   "status": "screened_out",
+   "title": "Ingénieur – Pompes et Turbines Auxiliaires – Core Service Engineering H/F",
+   "company": "Arabelle Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4435689521/",
+   "key": "ingenieur pompes et turbines auxiliaires core service engineering h f|arabelle",
+   "at": "2026-10-24T18:20:52+00:00",
+   "reason": "Poste d'ingénieur maintenance de pompes et turbines auxiliaires pour le nucléaire (mécanique, hydraulique, thermodynamique), sans mission sur la qualité ou le traitement de l'eau ; l'eau n'apparaît qu'en exemple de secteur réglementé. Niveau ingénieur, anglais courant requis, expérience non chiffrée, CDI-type non précisé, lieu La Courneuve (93)."
+  },
+  "4364371969": {
+   "status": "screened_out",
+   "title": "Responsable du Pôle SHM & Instrumentation Géotechnique",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4364371969/",
+   "key": "responsable du pole shm instrumentation geotechnique|artelia",
+   "at": "2026-10-24T18:20:52+00:00",
+   "reason": "Poste de responsable de pôle SHM & instrumentation géotechnique en ingénierie des structures et ouvrages d'art : surveillance de structures et de sols, pas de qualité des eaux ni de traitement de l'eau. Il exige 10 ans d'expérience minimum et un encadrement d'équipe, bien au-delà du profil junior de la candidate."
+  },
+  "4466372860": {
+   "status": "screened_out",
+   "title": "Spécialiste Ingénierie et Essais électromagnétiques (F/H)",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4466372860/",
+   "key": "specialiste ingenierie et essais electromagnetiques f h|mbda",
+   "at": "2026-10-24T18:20:52+00:00",
+   "reason": "Le poste porte sur l'ingénierie et les essais de compatibilité électromagnétique (CEM) pour des systèmes de défense : spécifications CEM, simulations CST/SPICE, essais électromagnétiques, sans lien avec l'eau. Niveau Bac+5, expérience d'au moins 3 ans demandée, contrat non précisé, basé au Plessis-Robinson (Hauts-de-Seine, Île-de-France)."
+  },
+  "4361787855": {
+   "status": "screened_out",
+   "title": "Contrôleur Qualité et CND F/H",
+   "company": "Arabelle Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4361787855/",
+   "key": "controleur qualite et cnd f h|arabelle",
+   "at": "2026-10-24T18:20:52+00:00",
+   "reason": "Poste de contrôleur qualité et opérateur CND en atelier mécanique (contrôles dimensionnels, ressuage, magnétoscopie, ultrasons) pour la remise en état de matériel de production d'électricité, sans lien avec l'eau. Niveau technicien/licence technique, expérience de plus de 5 ans demandée, CDI à La Courneuve (93)."
   }
  }
 }
