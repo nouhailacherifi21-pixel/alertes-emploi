@@ -1559,6 +1559,66 @@
    "key": "charge d affaires hvac f h|vulcain",
    "at": "2026-10-24T13:57:35+00:00",
    "reason": "Le poste de chargé d'affaires HVAC porte sur la gestion de projets de climatisation, chauffage et ventilation (conception, devis, fournisseurs, suivi de travaux) dans l'environnement pharmaceutique, sans aucune mission liée à la qualité ou au traitement de l'eau. Le niveau Bac+5 et le CDI à Paris conviendraient, mais les missions ne relèvent pas du domaine de l'eau."
+  },
+  "4481042615": {
+   "status": "title_excluded",
+   "title": "STAGE- Chargé d'études en géotechnique",
+   "company": "Arcadis",
+   "url": "https://www.linkedin.com/jobs/view/4481042615/",
+   "key": "stage charge d etudes en geotechnique|arcadis",
+   "at": "2026-10-24T14:25:01+00:00"
+  },
+  "4474724233": {
+   "status": "title_excluded",
+   "title": "Apprenti Ingénieur QHSE H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4474724233/",
+   "key": "apprenti ingenieur qhse h f|nge",
+   "at": "2026-10-24T14:25:01+00:00"
+  },
+  "4475300091": {
+   "status": "title_excluded",
+   "title": "Technicien Contrôle Dimensionnel (H/F)",
+   "company": "JPB SYSTEME",
+   "url": "https://www.linkedin.com/jobs/view/4475300091/",
+   "key": "technicien controle dimensionnel h f|jpb",
+   "at": "2026-10-24T14:25:01+00:00"
+  },
+  "4299356469": {
+   "status": "screened_out",
+   "title": "Dessinateur projeteur traitement des eaux",
+   "company": "GROUPE LR TECHNOLOGIES",
+   "url": "https://www.linkedin.com/jobs/view/4299356469/",
+   "key": "dessinateur projeteur traitement des eaux|groupe",
+   "at": "2026-10-24T14:25:01+00:00",
+   "reason": "Le poste est un dessinateur projeteur (design mécanique 3D d'unités de traitement d'eaux) : technicien de bureau d'études, pas un poste d'ingénieur chimiste. Il demande 5 ans d'expérience en dessin d'installation et un BTS CPI, bien au-delà du profil junior de la candidate, et le lieu est Courbevoie (92)."
+  },
+  "4437026714": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) Commissioning & Qualification (H/F)",
+   "company": "Vulcain Engineering Group",
+   "url": "https://www.linkedin.com/jobs/view/4437026714/",
+   "key": "ingenieur commissioning qualification h f|vulcain",
+   "at": "2026-10-24T14:25:01+00:00",
+   "reason": "Le poste est un ingénieur Commissioning & Qualification en industrie pharmaceutique (vérification de documents, essais QI/QO/QP, FAT/SAT, rédaction de protocoles) : il ne porte pas sur l'eau ni sur la chimie des eaux, et relève du domaine pharma/validation. Niveau Bac+5 en CDI à Paris, mais exige 3 à 5 ans d'expérience, hors fourchette junior."
+  },
+  "4437030499": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) procédés",
+   "company": "Vulcain Engineering Group",
+   "url": "https://www.linkedin.com/jobs/view/4437030499/",
+   "key": "ingenieur procedes|vulcain",
+   "at": "2026-10-24T14:25:01+00:00",
+   "reason": "Le poste porte sur la définition et l'industrialisation de procédés de fabrication dans l'industrie pharmaceutique (BPF, change control, transferts), sans lien avec l'eau ni la qualité des eaux. Le niveau Bac+5 et le CDI en Île-de-France conviennent, mais le domaine pharmaceutique est hors des préférences de la candidate."
+  },
+  "4400798779": {
+   "status": "screened_out",
+   "title": "CDD 36 mois - Développeur et Modélisateur Thermomécanique H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4400798779/",
+   "key": "cdd 36 mois developpeur et modelisateur thermomecanique h f|cea",
+   "at": "2026-10-24T14:25:01+00:00",
+   "reason": "Le poste porte sur le développement de logiciels de calcul en thermomécanique et simulation numérique par éléments finis (MANTA, Cast3M), sans lien avec l'eau. Niveau Bac+5 demandé, expérience 1 à 2 ans, CDD de 36 mois à Saclay (Essonne, Île-de-France)."
   }
  }
 }
