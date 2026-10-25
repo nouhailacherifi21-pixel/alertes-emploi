@@ -2029,6 +2029,33 @@
    "key": "agent de maintenance en cdd bonnieres sur seine 78 h f|emeis",
    "at": "2026-10-25T14:08:44+00:00",
    "reason": "Poste d'agent de maintenance en EHPAD (Bonnières-sur-Seine) : gestion de la sécurité des bâtiments, suivi de maintenance, GMAO, espaces verts, sans lien avec l'eau ni la chimie. Niveau technicien/agent, contrat CDD. Non pertinent pour le profil d'ingénieure chimiste."
+  },
+  "4446799018": {
+   "status": "screened_out",
+   "title": "Assistant Acceptation Matière Première Plasma H/F",
+   "company": "LFB",
+   "url": "https://www.linkedin.com/jobs/view/4446799018/",
+   "key": "assistant acceptation matiere premiere plasma h f|lfb",
+   "at": "2026-10-25T15:08:51+00:00",
+   "reason": "Poste d'assistant en acceptation de matière plasmatique dans l'industrie pharmaceutique (plasma, dossiers de lot, hémovigilance), sans lien avec le traitement ou la qualité des eaux, et de niveau assistant Bac+4 en biochimie. Le contrat est un CDD sans durée précisée, sur Les Ulis."
+  },
+  "4447545084": {
+   "status": "screened_out",
+   "title": "Ingénieur Projet MOA – Lot Études - Projet Technocentre F/H",
+   "company": "EDF",
+   "url": "https://www.linkedin.com/jobs/view/4447545084/",
+   "key": "ingenieur projet moa lot etudes projet technocentre f h|edf",
+   "at": "2026-10-25T15:08:51+00:00",
+   "reason": "Poste d'ingénieur projet MOA sur un projet de recyclage de métaux issus du démantèlement nucléaire, centré sur le génie civil, les infrastructures et le pilotage contractuel, sans lien avec l'eau ni la chimie des eaux. Niveau ingénieur Bac+5 mais 5 ans d'expérience minimum exigés, CDI, lieu Paris La Défense/Courbevoie."
+  },
+  "4447189687": {
+   "status": "screened_out",
+   "title": "Ingénieur structure génie civil H/F",
+   "company": "Talents Industrie",
+   "url": "https://www.linkedin.com/jobs/view/4447189687/",
+   "key": "ingenieur structure genie civil h f|talents",
+   "at": "2026-10-25T15:08:51+00:00",
+   "reason": "Le poste est un Civil & Structural Engineering Lead (génie civil, structures métalliques, béton, géotechnique) pour un projet industriel de décarbonation, sans lien avec la qualité ou le traitement de l'eau. Il demande au moins 10 ans d'expérience et un encadrement technique, niveau Bac+5 mais hors domaine."
   }
  }
 }
