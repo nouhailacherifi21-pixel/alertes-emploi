@@ -1901,6 +1901,23 @@
    "key": "expert agronomique terrain cdd h f|groupe",
    "at": "2026-10-25T09:59:32+00:00",
    "reason": "Poste d'expert agronomique terrain dans une coopérative agricole et agroalimentaire : animation agronomique, diagnostic de cultures et accompagnement des agriculteurs, sans lien avec la qualité ou le traitement de l'eau. Le niveau n'est pas précisé Bac+5 et l'expérience demandée est de 2 à 5 ans, dépassant 3 ans ; le CDD de 6 mois est acceptable mais le lieu est Provins (hors Île-de-France au sens de Paris, Provins est en Seine-et-Marne 77, donc en IDF)."
+  },
+  "4151417536": {
+   "status": "title_excluded",
+   "title": "Stage ou alternance consultant scientifique mécanique F/H",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4151417536/",
+   "key": "stage ou alternance consultant scientifique mecanique f h|deloitte",
+   "at": "2026-10-25T10:28:19+00:00"
+  },
+  "4431126250": {
+   "status": "screened_out",
+   "title": "Mechanical Study Engineer F/H",
+   "company": "Tractebel",
+   "url": "https://www.linkedin.com/jobs/view/4431126250/",
+   "key": "mechanical study engineer f h|tractebel",
+   "at": "2026-10-25T10:28:19+00:00",
+   "reason": "Le poste porte sur l'examen et la validation de dossiers de fabrication d'équipements mécaniques du nucléaire (pompes, vannes, échangeurs), avec des normes RCC-M, ASME, CODAP, sans lien avec l'eau ni les missions de qualité des eaux de la candidate. Niveau Master ingénieur, 2+ ans d'expérience, contrat non précisé, localisation à Saint-Ouen."
   }
  }
 }
