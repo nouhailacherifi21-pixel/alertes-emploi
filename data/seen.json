@@ -1977,6 +1977,33 @@
    "key": "ingenieur validation fonctionnelle paris france h f|astek",
    "at": "2026-10-25T13:08:43+00:00",
    "reason": "L'offre concerne la validation fonctionnelle de systèmes de défense (rédaction de plans d'essais, tests en usine, bus 1553/Ethernet, VDMT/DOORS), sans aucun lien avec l'eau ni la chimie. Le niveau est Bac+5 ingénieur, mais une première expérience en validation/test système est demandée, sans durée précisée."
+  },
+  "4447136571": {
+   "status": "screened_out",
+   "title": "Ingénieur Projets en Génie Civil et Parasismique H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4447136571/",
+   "key": "ingenieur projets en genie civil et parasismique h f|cea",
+   "at": "2026-10-25T13:42:26+00:00",
+   "reason": "Poste d'ingénieur projets en génie civil et parasismique pour installations nucléaires (AMO, maîtrise d'œuvre, calculs de dimensionnement, sûreté nucléaire), sans lien avec l'eau ni la qualité des eaux. Niveau ingénieur Bac+5 et localisation en Essonne, mais expérience et domaine ne correspondent pas au profil."
+  },
+  "4409928517": {
+   "status": "screened_out",
+   "title": "CDI - Ingénieur.e chargé.e du Suivi d'études et Réalisation de Travaux H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4409928517/",
+   "key": "cdi ingenieur charge du suivi d etudes et realisation de travaux h f|cea",
+   "at": "2026-10-25T13:42:26+00:00",
+   "reason": "L'offre concerne le suivi d'études et de travaux de génie civil/mécanique pour le démantèlement et la reprise de déchets nucléaires, sans lien avec la qualité ou le traitement de l'eau. Le poste est Bac+5 d'ingénieur avec 3 à 5 ans d'expérience demandés, en CDI à Fontenay-aux-Roses (92)."
+  },
+  "4378887149": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur.e Chargé d'Affaires Travaux - Installation nucléaire",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4378887149/",
+   "key": "cdi ingenieur charge d affaires travaux installation nucleaire|cea",
+   "at": "2026-10-25T13:42:26+00:00",
+   "reason": "Poste de chargé d'affaires travaux sur une installation nucléaire du CEA : définition, gestion contractuelle et pilotage de travaux, sans lien avec l'eau ni la qualité des eaux. Niveau Bac+5 mais expérience de 5 à 6 ans demandée, hors profil junior."
   }
  }
 }
