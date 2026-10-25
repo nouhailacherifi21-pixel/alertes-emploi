@@ -1926,6 +1926,57 @@
    "url": "https://www.linkedin.com/jobs/view/4446785962/",
    "key": "stage etude de l instationnarite sur les effets de sillage|siemens",
    "at": "2026-10-25T12:26:18+00:00"
+  },
+  "4446786956": {
+   "status": "title_excluded",
+   "title": "Stage – Etude des charges d'une éolienne induites par le marché de l'électricité",
+   "company": "Siemens Gamesa",
+   "url": "https://www.linkedin.com/jobs/view/4446786956/",
+   "key": "stage etude des charges d une eolienne induites par le marche de l electricite|siemens",
+   "at": "2026-10-25T13:08:43+00:00"
+  },
+  "4437588365": {
+   "status": "title_excluded",
+   "title": "Chef(fe) de Projet Senior Qualité Packaging",
+   "company": "Cartier",
+   "url": "https://www.linkedin.com/jobs/view/4437588365/",
+   "key": "chef de projet senior qualite packaging|cartier",
+   "at": "2026-10-25T13:08:43+00:00"
+  },
+  "4439329274": {
+   "status": "title_excluded",
+   "title": "Technicien Validation Automobile – Banc HIL & Véhicule - H/F",
+   "company": "Expleo Group",
+   "url": "https://www.linkedin.com/jobs/view/4439329274/",
+   "key": "technicien validation automobile banc hil vehicule h f|expleo",
+   "at": "2026-10-25T13:08:43+00:00"
+  },
+  "4388077363": {
+   "status": "screened_out",
+   "title": "Tuyauteur (H/F) - Villeneuve le Roi",
+   "company": "Cemex",
+   "url": "https://www.linkedin.com/jobs/view/4388077363/",
+   "key": "tuyauteur h f villeneuve le roi|cemex",
+   "at": "2026-10-25T13:08:43+00:00",
+   "reason": "Le poste est un tuyauteur en construction navale (installation et soudure de tuyauteries à partir de plans), sans mission liée à la qualité ou au traitement de l'eau. Il s'agit d'un poste de niveau CAP/BEP à Bac Pro, d'exécution technique, en CDI à Villeneuve-le-Roi (94) demandant 1 à 2 ans d'expérience."
+  },
+  "4447083080": {
+   "status": "screened_out",
+   "title": "Agent.e de maintenance - Clinique du Mont-Valérien (92) H/F",
+   "company": "emeis",
+   "url": "https://www.linkedin.com/jobs/view/4447083080/",
+   "key": "agent de maintenance clinique du mont valerien 92 h f|emeis",
+   "at": "2026-10-25T13:08:43+00:00",
+   "reason": "Poste d'agent de maintenance bâtimentaire dans une clinique de soins (sécurité incendie, GMAO, espaces verts, stocks), sans lien avec l'eau ni avec la chimie. Niveau technicien, sans exigence d'expérience ; le contrat est indiqué comme CDD dans le texte mais l'offre mentionne aussi des CDI, et le lieu est Rueil-Malmaison (92)."
+  },
+  "4428283617": {
+   "status": "screened_out",
+   "title": "Ingénieur validation fonctionnelle - Paris, France  (H/F)",
+   "company": "Astek",
+   "url": "https://www.linkedin.com/jobs/view/4428283617/",
+   "key": "ingenieur validation fonctionnelle paris france h f|astek",
+   "at": "2026-10-25T13:08:43+00:00",
+   "reason": "L'offre concerne la validation fonctionnelle de systèmes de défense (rédaction de plans d'essais, tests en usine, bus 1553/Ethernet, VDMT/DOORS), sans aucun lien avec l'eau ni la chimie. Le niveau est Bac+5 ingénieur, mais une première expérience en validation/test système est demandée, sans durée précisée."
   }
  }
 }
