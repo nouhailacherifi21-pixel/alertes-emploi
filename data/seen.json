@@ -2004,6 +2004,31 @@
    "key": "cdi ingenieur charge d affaires travaux installation nucleaire|cea",
    "at": "2026-10-25T13:42:26+00:00",
    "reason": "Poste de chargé d'affaires travaux sur une installation nucléaire du CEA : définition, gestion contractuelle et pilotage de travaux, sans lien avec l'eau ni la qualité des eaux. Niveau Bac+5 mais expérience de 5 à 6 ans demandée, hors profil junior."
+  },
+  "4445556485": {
+   "status": "title_excluded",
+   "title": "#ET20A Technicien(ne) Laboratoire Matériaux (H/F)",
+   "company": "Airbus Helicopters",
+   "url": "https://www.linkedin.com/jobs/view/4445556485/",
+   "key": "et20a technicien laboratoire materiaux h f|airbus",
+   "at": "2026-10-25T14:08:44+00:00"
+  },
+  "4091948866": {
+   "status": "title_excluded",
+   "title": "[STAGE] Ingénieur / Technicien en Vulnérabilité des Bâtis H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4091948866/",
+   "key": "stage ingenieur technicien en vulnerabilite des batis h f|socotec",
+   "at": "2026-10-25T14:08:44+00:00"
+  },
+  "4438698506": {
+   "status": "screened_out",
+   "title": "Agent.e de Maintenance en CDD - Bonnières-sur-Seine (78) H/F",
+   "company": "emeis",
+   "url": "https://www.linkedin.com/jobs/view/4438698506/",
+   "key": "agent de maintenance en cdd bonnieres sur seine 78 h f|emeis",
+   "at": "2026-10-25T14:08:44+00:00",
+   "reason": "Poste d'agent de maintenance en EHPAD (Bonnières-sur-Seine) : gestion de la sécurité des bâtiments, suivi de maintenance, GMAO, espaces verts, sans lien avec l'eau ni la chimie. Niveau technicien/agent, contrat CDD. Non pertinent pour le profil d'ingénieure chimiste."
   }
  }
 }
