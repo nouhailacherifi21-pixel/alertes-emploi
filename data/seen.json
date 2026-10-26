@@ -2735,6 +2735,131 @@
    "key": "ingenieur en geosciences charge de la base de donnees des failles potentiellement actives bdfa h f|asnr",
    "at": "2026-10-26T14:07:10+00:00",
    "reason": "Le poste porte sur la mise à jour de la base de données des failles potentiellement actives pour l'aléa sismique (géosciences, tectonique, paléosismologie), sans lien avec la qualité ou le traitement des eaux. Niveau cadre Bac+5, CDD de 12 mois, à Fontenay-aux-Roses (92), sans exigence d'expérience chiffrée."
+  },
+  "4445569832": {
+   "status": "duplicate",
+   "title": "Ingénieur structure génie civil H/F",
+   "company": "Talents Executive",
+   "url": "https://www.linkedin.com/jobs/view/4445569832/",
+   "key": "ingenieur structure genie civil h f|talents",
+   "at": "2026-10-26T15:41:49+00:00"
+  },
+  "4481453912": {
+   "status": "title_excluded",
+   "title": "Stage de Fin d'Études - Ingénieur Bureau d'Études Paysage - H/F",
+   "company": "Spie batignolles",
+   "url": "https://www.linkedin.com/jobs/view/4481453912/",
+   "key": "stage de fin d etudes ingenieur bureau d etudes paysage h f|spie",
+   "at": "2026-10-26T15:41:49+00:00"
+  },
+  "4483557659": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur pour la Fiabilité des Assemblages COTS (H/F) – 6 MOIS",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4483557659/",
+   "key": "stage ingenieur pour la fiabilite des assemblages cots h f 6 mois|thales",
+   "at": "2026-10-26T15:41:49+00:00"
+  },
+  "4475575397": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieur filtrage de Kalman équivariant",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4475575397/",
+   "key": "stage ingenieur filtrage de kalman equivariant|thales",
+   "at": "2026-10-26T15:41:49+00:00"
+  },
+  "4483567694": {
+   "status": "screened_out",
+   "title": "« Diagnostic des situations d’usage des plantes de service dans les filières agricoles »",
+   "company": "INRAE Occitanie-Toulouse",
+   "url": "https://www.linkedin.com/jobs/view/4483567694/",
+   "key": "diagnostic des situations d usage des plantes de service dans les filieres agricoles|inrae",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Il s'agit d'un stage de Master/Ingénieur en agronomie portant sur le diagnostic des usages de plantes de services en agriculture (entretiens qualitatifs, sciences humaines), sans lien avec l'eau. Le poste est un stage, basé en Occitanie/Toulouse malgré l'indication Île-de-France."
+  },
+  "4482990921": {
+   "status": "screened_out",
+   "title": "Ingénieur en Calcul Mécanique Flexibilité / Tuyauterie - H/F",
+   "company": "Assystem",
+   "url": "https://www.linkedin.com/jobs/view/4482990921/",
+   "key": "ingenieur en calcul mecanique flexibilite tuyauterie h f|assystem",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Ingénieur en calcul mécanique de tuyauteries et supports pour projets nucléaires : aucune mission liée à l'eau, malgré le niveau Bac+5 et Paris/Montrouge. Il demande 5 ans minimum d'expérience en calcul mécanique, hors du profil junior de la candidate."
+  },
+  "4483567817": {
+   "status": "screened_out",
+   "title": "Ingénieur CVC",
+   "company": "ADSOM",
+   "url": "https://www.linkedin.com/jobs/view/4483567817/",
+   "key": "ingenieur cvc|adsom",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Poste d'ingénieur CVC (chauffage, ventilation, climatisation) axé sur le dimensionnement de réseaux hydrauliques, aérauliques et fluidiques, les études techniques et le chiffrage de projets de bâtiment. Ce n'est pas un poste de qualité ou traitement des eaux ni de chimie : le lien avec l'eau est seulement l'hydraulique des réseaux de fluides, ce qui ne correspond pas aux missions visées par la candidate. Le niveau ingénieur Bac+5 et Paris conviennent, l'expérience n'est pas chiffrée et le contrat n'est pas indiqué."
+  },
+  "4481450975": {
+   "status": "screened_out",
+   "title": "Chargé de portefeuille Industrie / Santé",
+   "company": "Dalkia",
+   "url": "https://www.linkedin.com/jobs/view/4481450975/",
+   "key": "charge de portefeuille industrie sante|dalkia",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Poste de chargé de portefeuille commercial Industrie/Santé centré sur la relation client, les propositions commerciales de fourniture d'utilités et l'exploitation/maintenance énergétique, sans aucune mission sur la qualité ou le traitement de l'eau. Le niveau demandé est Bac+5 (ingénieur généraliste ou école de commerce) avec 5 ans d'expérience exigés, et le poste est en CDI à Courbevoie."
+  },
+  "4482991832": {
+   "status": "screened_out",
+   "title": "Ingénieur qualité (F/H)",
+   "company": "Andra - Agence nationale pour la gestion des déchets radioactifs",
+   "url": "https://www.linkedin.com/jobs/view/4482991832/",
+   "key": "ingenieur qualite f h|andra",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Le poste d'ingénieur qualité au sein du système de management intégré (ISO 9001/14001/45001, audits fournisseurs, plans d'actions) concerne la gestion de la qualité d'un organisme de gestion de déchets radioactifs, sans lien avec l'eau. Il exige 5 ans minimum d'expérience, ce qui dépasse le profil junior de la candidate."
+  },
+  "4481449881": {
+   "status": "screened_out",
+   "title": "Ingénieur Méthodes Projets TP H/F",
+   "company": "Spie batignolles",
+   "url": "https://www.linkedin.com/jobs/view/4481449881/",
+   "key": "ingenieur methodes projets tp h f|spie",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "L'offre concerne l'élaboration de méthodes et de planning pour des chantiers de travaux publics (terrassements, VRD), sans lien avec l'eau ni avec la qualité des eaux. Le poste est d'ingénieur méthodes, niveau Bac+3 à Bac+5, demandant au moins 4 ans d'expérience, en CDI à Nanterre (Hauts-de-Seine)."
+  },
+  "4437979649": {
+   "status": "screened_out",
+   "title": "Ingénieur SMT",
+   "company": "Linxens",
+   "url": "https://www.linkedin.com/jobs/view/4437979649/",
+   "key": "ingenieur smt|linxens",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Le poste d'ingénieur SMT porte sur le procédé d'assemblage électronique (sérigraphie, pose de composants, refusion) sur circuits souples, soit de l'électronique et non de l'eau ; niveau Bac+5 ingénieur, expérience non précisée, contrat non indiqué, lieu Mantes-la-Jolie (78, Île-de-France)."
+  },
+  "4483548909": {
+   "status": "screened_out",
+   "title": "Ingénieur étude et dimensionnement optronique F/H",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4483548909/",
+   "key": "ingenieur etude et dimensionnement optronique f h|thales",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Poste d'ingénieur étude et dimensionnement optronique chez Thales à Élancourt : modélisation de chaînes optroniques, bilans radio-photométriques, dimensionnement de caméras et capteurs. Aucun lien avec l'eau ni la qualité des eaux, c'est de l'optique et de la détection. Niveau Bac+5 et Île-de-France, mais hors domaine."
+  },
+  "4483585119": {
+   "status": "screened_out",
+   "title": "Ingénieur Qualité - Design Control / V&V",
+   "company": "Excelya",
+   "url": "https://www.linkedin.com/jobs/view/4483585119/",
+   "key": "ingenieur qualite design control v v|excelya",
+   "at": "2026-10-26T15:41:49+00:00",
+   "reason": "Ingénieur Qualité Design Control / V&V pour dispositifs médicaux (ISO 13485, MDR, ISO 14971) : aucune mission liée à l'eau, le poste relève de la qualité réglementaire médicale. Niveau Bac+5 ingénieur, expérience solide demandée sans durée précise, management technique d'un ingénieur confirmé, contrat non indiqué, lieu Boulogne-Billancourt (Île-de-France)."
+  },
+  "4481460605": {
+   "status": "sent",
+   "title": "Ingénieur nucléaire F/H",
+   "company": "Gérard Perrier Industrie",
+   "url": "https://www.linkedin.com/jobs/view/4481460605/",
+   "key": "ingenieur nucleaire f h|gerard",
+   "at": "2026-10-26T15:41:49+00:00",
+   "fit_score": 45,
+   "reason": "Poste d'ingénieur généraliste dans le nucléaire (EDF), avec des missions de suivi des effluents, de capteurs, de maintenance préventive et de veille réglementaire environnementale ; le volet eau existe (appui à un ingénieur eau, traitement de l'eau cité comme compétence) mais reste secondaire face au réglementaire et au nucléaire. Niveau ingénieur Bac+5 en CDI à Paris, sans durée d'expérience précisée.",
+   "experience_required": "",
+   "contract": "CDI"
   }
  }
 }
