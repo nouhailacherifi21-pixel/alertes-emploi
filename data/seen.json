@@ -3278,6 +3278,50 @@
    "key": "ingenieur cvc ingenieur cvc|prime",
    "at": "2026-10-27T07:31:22+00:00",
    "reason": "L'offre porte sur les études CVC (chauffage, ventilation, climatisation, traitement d'air) et le génie climatique, sans lien avec l'eau ni la qualité des eaux, malgré le poste d'ingénieur Bac+5. Elle demande 3 ans d'expérience minimum, en CDI ? non précisé, en Île-de-France."
+  },
+  "4484024474": {
+   "status": "title_excluded",
+   "title": "Stage Assitant chef de projet Amélioration Continue & Robustesse Formule",
+   "company": "Groupe Rocher",
+   "url": "https://www.linkedin.com/jobs/view/4484024474/",
+   "key": "stage assitant chef de projet amelioration continue robustesse formule|groupe",
+   "at": "2026-10-27T08:23:03+00:00"
+  },
+  "4481855710": {
+   "status": "screened_out",
+   "title": "TECHINCIEN DE LABORATOIRE SECTION ADC-PRODUITS FINIS (H/F)",
+   "company": "Cenexi",
+   "url": "https://www.linkedin.com/jobs/view/4481855710/",
+   "key": "techincien de laboratoire section adc produits finis h f|cenexi",
+   "at": "2026-10-27T08:23:03+00:00",
+   "reason": "Poste de technicien de laboratoire en contrôle qualité de produits semi-finis pharmaceutiques (analyses UV, CCM, IR), sans lien avec l'eau, requérant un Bac+2/3 et une expérience qualité impérative. Niveau technicien, hors domaine et hors Bac+5."
+  },
+  "4480980326": {
+   "status": "screened_out",
+   "title": "OPC - Ingénieur travaux TCE - H/F",
+   "company": "LEAP To Success",
+   "url": "https://www.linkedin.com/jobs/view/4480980326/",
+   "key": "opc ingenieur travaux tce h f|leap",
+   "at": "2026-10-27T08:23:03+00:00",
+   "reason": "Le poste est un pilotage OPC et une conduite de travaux Tous Corps d'État dans le bâtiment et l'industrie, sans aucun lien avec l'eau, la qualité des eaux ou le traitement des eaux. Le niveau Bac+5 et le CDI en Île-de-France conviennent, mais l'expérience significative demandée sans durée précise ne correspond pas au profil junior."
+  },
+  "4431254511": {
+   "status": "screened_out",
+   "title": "Consultant confirmé en diagnostic industriel - Paris (H/F)",
+   "company": "SECAFI",
+   "url": "https://www.linkedin.com/jobs/view/4431254511/",
+   "key": "consultant confirme en diagnostic industriel paris h f|secafi",
+   "at": "2026-10-27T08:23:03+00:00",
+   "reason": "Consultant en diagnostic industriel pour CSE : missions de conseil social et organisationnel auprès d'entreprises industrielles, sans rapport avec l'eau. Niveau cadre Bac+5 mais 7 ans d'expérience exigés, profil confirmé."
+  },
+  "4484008909": {
+   "status": "screened_out",
+   "title": "Chef de projets CEE - F/H",
+   "company": "IDEX",
+   "url": "https://www.linkedin.com/jobs/view/4484008909/",
+   "key": "chef de projets cee f h|idex",
+   "at": "2026-10-27T08:23:03+00:00",
+   "reason": "Le poste de chef de projets CEE porte sur le montage de dossiers de certificats d'économies d'énergie et la rénovation énergétique, sans aucun lien avec l'eau, la qualité des eaux ou les procédés de traitement. Le niveau est Bac+5 et le contrat n'est pas indiqué, mais le domaine est hors sujet."
   }
  }
 }
