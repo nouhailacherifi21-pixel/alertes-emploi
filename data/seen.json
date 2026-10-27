@@ -3813,6 +3813,67 @@
    "key": "ingenieur industrialisation electronique defense h f|hegia",
    "at": "2026-10-27T12:57:46+00:00",
    "reason": "Poste d'ingénieur industrialisation électronique pour la défense : diagnostic de cartes électroniques, actions correctives, gammes de production et moyens de test, sans lien avec l'eau. Niveau ingénieur mais expérience de 5 ans minimum demandée et contrat CDI à Saint-Cyr-l'École (78)."
+  },
+  "4484065605": {
+   "status": "title_excluded",
+   "title": "Senior Manager QC compliance",
+   "company": "Real",
+   "url": "https://www.linkedin.com/jobs/view/4484065605/",
+   "key": "senior manager qc compliance|real",
+   "at": "2026-10-27T13:49:13+00:00"
+  },
+  "4484067685": {
+   "status": "title_excluded",
+   "title": "Technicien(ne) de laboratoire – Infectiologie (Biologie Moléculaire) – CDD",
+   "company": "Eurofins",
+   "url": "https://www.linkedin.com/jobs/view/4484067685/",
+   "key": "technicien de laboratoire infectiologie biologie moleculaire cdd|eurofins",
+   "at": "2026-10-27T13:49:13+00:00"
+  },
+  "4401450793": {
+   "status": "screened_out",
+   "title": "SAFETY ASSESSOR",
+   "company": "L'Oréal",
+   "url": "https://www.linkedin.com/jobs/view/4401450793/",
+   "key": "safety assessor|l",
+   "at": "2026-10-27T13:49:13+00:00",
+   "reason": "Poste de Safety Assessor en cosmétique (toxicologie des ingrédients, read-across, NAMs) : il ne porte pas sur l'eau et relève de la toxicologie cosmétique. Il exige un Bac+5 en toxicologie ou chimie avec 8 ans d'expérience minimum, à Clichy (Hauts-de-Seine)."
+  },
+  "4474675961": {
+   "status": "screened_out",
+   "title": "Ingénieur.e/Post-doc Biotechnologies et Biosensors H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4474675961/",
+   "key": "ingenieur post doc biotechnologies et biosensors h f|cea",
+   "at": "2026-10-27T13:49:13+00:00",
+   "reason": "Poste de biosenseurs et biotechnologies (immunoanalyse, greffage d'anticorps, microfluidique) pour la détection de biotoxines et d'antibiorésistance, sans lien avec la qualité ou le traitement de l'eau. Niveau ingénieur/post-doc Bac+5 à Saclay, sans durée d'expérience ni type de contrat précisés."
+  },
+  "4484074526": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) Travaux Neufs - Life Sciences",
+   "company": "agap2",
+   "url": "https://www.linkedin.com/jobs/view/4484074526/",
+   "key": "ingenieur travaux neufs life sciences|agap2",
+   "at": "2026-10-27T13:49:13+00:00",
+   "reason": "Poste d'ingénieur travaux neufs pour projets industriels en environnement pharmaceutique et biotechnologique (BPF/GMP, HVAC, utilités, génie civil), sans lien avec la qualité ou le traitement de l'eau. Niveau Bac+5 et expérience non précisée, contrat non indiqué, localisation Île-de-France."
+  },
+  "4484057854": {
+   "status": "screened_out",
+   "title": "Ingénieur études de prix principal H/F",
+   "company": "DEMATHIEU BARD",
+   "url": "https://www.linkedin.com/jobs/view/4484057854/",
+   "key": "ingenieur etudes de prix principal h f|demathieu",
+   "at": "2026-10-27T13:49:13+00:00",
+   "reason": "Il s'agit d'un poste d'ingénieur études de prix dans le bâtiment (chiffrage de marchés de construction d'équipements publics), sans aucun lien avec l'eau, la qualité des eaux ou les procédés de traitement. L'offre exige 5 ans minimum d'expérience et ne précise pas le type de contrat."
+  },
+  "4390743392": {
+   "status": "screened_out",
+   "title": "Chargé d'Affaires CFO F/H",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4390743392/",
+   "key": "charge d affaires cfo f h|cea",
+   "at": "2026-10-27T13:49:13+00:00",
+   "reason": "Chargé d'affaires CFO en bâtiment (courants forts basse tension, AMO/MOE sur installations nucléaires et laboratoires) : aucune mission sur l'eau, il s'agit de travaux électriques. Niveau Bac+5 et CDI en Essonne, mais le domaine n'est pas pertinent pour la candidate."
   }
  }
 }
