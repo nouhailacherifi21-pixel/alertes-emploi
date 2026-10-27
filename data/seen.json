@@ -3415,6 +3415,98 @@
    "key": "pilote siv haute tension thermique h f|segula",
    "at": "2026-10-27T09:53:39+00:00",
    "reason": "Le poste est un rôle d'intégration et de validation système sur véhicules électriques (calculateurs HEVC, BMS, réseaux CAN, gestion thermique batterie), sans lien avec l'eau ni la chimie. Niveau acceptant Bac+2/3 comme Bac+5 et expérience de 3 à 5 ans demandée, contrat non précisé."
+  },
+  "4484031230": {
+   "status": "title_excluded",
+   "title": "Ingénieur OPC - Italie - Stage",
+   "company": "setec opency",
+   "url": "https://www.linkedin.com/jobs/view/4484031230/",
+   "key": "ingenieur opc italie stage|setec",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4484047099": {
+   "status": "title_excluded",
+   "title": "Technicien de maintenance et mise en service – Instrumentation / Analyseurs (H/F)",
+   "company": "agap2",
+   "url": "https://www.linkedin.com/jobs/view/4484047099/",
+   "key": "technicien de maintenance et mise en service instrumentation analyseurs h f|agap2",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4481875402": {
+   "status": "title_excluded",
+   "title": "Technicien qualité industriel (h/f)",
+   "company": "Groupe DLSI",
+   "url": "https://www.linkedin.com/jobs/view/4481875402/",
+   "key": "technicien qualite industriel h f|groupe",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4322281008": {
+   "status": "title_excluded",
+   "title": "Alternance consultant scientifique financement de l'innovation secteurs CHIMIE - BIOLOGIE - AGRO F/H",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4322281008/",
+   "key": "alternance consultant scientifique financement de l innovation secteurs chimie biologie agro f h|deloitte",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4483616567": {
+   "status": "title_excluded",
+   "title": "STAGE Etude numérique des pertes de charge dans un réacteur compact en CFD H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4483616567/",
+   "key": "stage etude numerique des pertes de charge dans un reacteur compact en cfd h f|cea",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4417648810": {
+   "status": "title_excluded",
+   "title": "Technicien Benchmark Electronique de Puissance F/H",
+   "company": "SEGULA Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4417648810/",
+   "key": "technicien benchmark electronique de puissance f h|segula",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4483626223": {
+   "status": "title_excluded",
+   "title": "Internship AI-simulated metals: from atoms to ultrasound-Saclay-H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4483626223/",
+   "key": "internship ai simulated metals from atoms to ultrasound saclay h f|cea",
+   "at": "2026-10-27T10:31:51+00:00"
+  },
+  "4484028439": {
+   "status": "screened_out",
+   "title": "Chargé d'études Arrosage et Fontainerie (F/H)",
+   "company": "idverde FR",
+   "url": "https://www.linkedin.com/jobs/view/4484028439/",
+   "key": "charge d etudes arrosage et fontainerie f h|idverde",
+   "at": "2026-10-27T10:31:51+00:00",
+   "reason": "Le poste de chargé d'études arrosage et fontainerie porte sur le chiffrage, l'analyse de DCE, les métrés et la rédaction de mémoires techniques pour des travaux paysagers, sans lien avec la qualité ou le traitement de l'eau. Le niveau est Bac+3 à 5 et il exige 5 ans d'expérience minimum, en CDI, à Émerainville (Île-de-France)."
+  },
+  "4481860984": {
+   "status": "screened_out",
+   "title": "PROJETEUR DESSINATEUR - FLUIDES (ELECTRICITE CVC PLOMBERIE) H/F",
+   "company": "Euroelec-SmartEnergy",
+   "url": "https://www.linkedin.com/jobs/view/4481860984/",
+   "key": "projeteur dessinateur fluides electricite cvc plomberie h f|euroelec",
+   "at": "2026-10-27T10:31:51+00:00",
+   "reason": "Poste de dessinateur-projeteur fluides (électricité, CVC, plomberie) orienté conception de plans et notes de calcul pour le bâtiment, sans mission sur la qualité ou le traitement de l'eau au cœur du poste. Niveau technicien/projeteur avec 5 ans minimum en maîtrise d'œuvre, contrat non précisé, localisation Paris."
+  },
+  "4484022946": {
+   "status": "screened_out",
+   "title": "Ingénieur qualité UAP (H/F)",
+   "company": "LISI AEROSPACE",
+   "url": "https://www.linkedin.com/jobs/view/4484022946/",
+   "key": "ingenieur qualite uap h f|lisi",
+   "at": "2026-10-27T10:31:51+00:00",
+   "reason": "Poste d'ingénieur qualité en industrie aéronautique (8D, audits, non-conformités, procédés spéciaux) sans lien avec l'eau : missions qualité mécanique, pas qualité des eaux ni traitement de l'eau. Niveau Bac+4/5 ingénieur en CDI, Saint-Ouen-l'Aumône (95), expérience en qualité et analyse de causes racines demandée sans durée précise."
+  },
+  "4474612567": {
+   "status": "screened_out",
+   "title": "Responsable Qualité (h/f)",
+   "company": "LHH",
+   "url": "https://www.linkedin.com/jobs/view/4474612567/",
+   "key": "responsable qualite h f|lhh",
+   "at": "2026-10-27T10:31:51+00:00",
+   "reason": "Responsable Qualité Client dans un contexte industriel (réclamations, 8D, APQP/PPAP, normes ISO 9001 et IATF 16949, automobile), sans lien avec le traitement ou l'analyse des eaux. Poste cadre Bac+5, aucune expérience chiffrée ni contrat indiqué, localisation à Nucourt (Val-d'Oise, 95? non : Nucourt est dans le Val-d'Oise, 95, donc Île-de-France)."
   }
  }
 }
