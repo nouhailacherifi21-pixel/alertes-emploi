@@ -4196,6 +4196,67 @@
    "reason": "Poste d'ingénieur traitement des eaux en bureau d'études conseil : chiffrage des filières, dimensionnement, cahiers des charges et supervision de mise en service pour eau potable et industrielle, soit un profil Bac+5 cadre sur le thème de l'eau. Expérience demandée non chiffrée (« première expérience »), contrat non indiqué, localisation Boulogne-Billancourt (92).",
    "experience_required": "première expérience dans le traitement de l'eau ou les procédés",
    "contract": ""
+  },
+  "4265355241": {
+   "status": "title_excluded",
+   "title": "[Stage] Ingénieur en Diagnostic des Infrastructures H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4265355241/",
+   "key": "stage ingenieur en diagnostic des infrastructures h f|socotec",
+   "at": "2026-10-27T17:18:57+00:00"
+  },
+  "4482212180": {
+   "status": "duplicate",
+   "title": "Ingénieur(e) consultant(e) junior - Sites et sols pollués",
+   "company": "ERM",
+   "url": "https://www.linkedin.com/jobs/view/4482212180/",
+   "key": "ingenieur consultant junior sites et sols pollues|erm",
+   "at": "2026-10-27T17:18:57+00:00"
+  },
+  "4482217267": {
+   "status": "screened_out",
+   "title": "Chargé d'Affaires Tuyauterie H/F",
+   "company": "Ortec Group",
+   "url": "https://www.linkedin.com/jobs/view/4482217267/",
+   "key": "charge d affaires tuyauterie h f|ortec",
+   "at": "2026-10-27T17:18:57+00:00",
+   "reason": "L'offre concerne un poste de chargé d'affaires en tuyauterie, chaudronnerie et maintenance industrielle (chiffrage, appels d'offres, relation client), sans lien avec la qualité ou le traitement de l'eau ni la chimie des eaux. Le niveau est cadre Bac+5 avec 4 ans d'expérience minimum exigés, en CDI à Collégien (77)."
+  },
+  "4484087947": {
+   "status": "screened_out",
+   "title": "Evolutions de la demande en eau des cultures à vocations alimentaires et/ou énergétiques en Île-de-France",
+   "company": "INRAE",
+   "url": "https://www.linkedin.com/jobs/view/4484087947/",
+   "key": "evolutions de la demande en eau des cultures a vocations alimentaires et ou energetiques en ile de france|inrae",
+   "at": "2026-10-27T17:18:57+00:00",
+   "reason": "Stage de fin d'études (Master/Ingénieur 2e année) en agronomie portant sur la modélisation des bilans hydriques et la demande en eau des cultures, relevant de l'agronomie et de la gestion de l'eau agricole plutôt que de la qualité ou du traitement des eaux. Le profil recherché est un étudiant agronome, et la mission est un stage, non un CDI ou CDD."
+  },
+  "4481897932": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) consultant(e) junior - Sites et sols pollués",
+   "company": "ERM",
+   "url": "https://www.linkedin.com/jobs/view/4481897932/",
+   "key": "ingenieur consultant junior sites et sols pollues|erm",
+   "at": "2026-10-27T17:18:57+00:00",
+   "reason": "Poste d'ingénieur consultant junior en sites et sols pollués : investigations de terrain (sols, eaux souterraines, gaz du sol), supervision de dépollution et rédaction de rapports, avec une dimension eau souterraine mais pas de traitement ni d'analyse physico-chimique en laboratoire. Niveau master, 0-1 an d'expérience, à Paris ou Lyon, contrat non précisé."
+  },
+  "4482205427": {
+   "status": "screened_out",
+   "title": "Chef de projet - CEE H/F",
+   "company": "CENTURION SEARCH | Cabinet de recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4482205427/",
+   "key": "chef de projet cee h f|centurion",
+   "at": "2026-10-27T17:18:57+00:00",
+   "reason": "Chef de projet en efficacité énergétique sur le dispositif des CEE : missions d'analyse technico-économique, dimensionnement de travaux, conformité aux fiches standardisées, sans lien avec l'eau. Niveau ingénieur mais exige au moins 10 ans d'expérience, et le poste est basé à Saint-Denis."
+  },
+  "4482220063": {
+   "status": "screened_out",
+   "title": "ADF Ingénieur (F/H) pilote groupe d’intervention étude",
+   "company": "Orano",
+   "url": "https://www.linkedin.com/jobs/view/4482220063/",
+   "key": "adf ingenieur f h pilote groupe d intervention etude|orano",
+   "at": "2026-10-27T17:18:57+00:00",
+   "reason": "Poste d'ingénieur projet de maîtrise d'œuvre nucléaire (usine de recyclage La Hague, projet Aval du Futur) : pilotage de groupe d'étude pour préinstruire des évolutions de périmètre, gestion de projet, sans lien avec l'eau. Expérience confirmée de 5 ans minimum et encadrement demandés, poste non basé en Île-de-France pour le contrat indiqué."
   }
  }
 }
