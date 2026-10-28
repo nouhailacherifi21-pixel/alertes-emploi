@@ -4802,6 +4802,40 @@
    "key": "pilote des etudes d execution genie civil domaine nucleaire h f|egis",
    "at": "2026-10-28T06:38:33+00:00",
    "reason": "Le poste est un pilotage d'études d'exécution en génie civil structures (béton armé, charpente métallique) dans le nucléaire, sans lien avec l'eau. Niveau ingénieur Bac+5 mais expérience demandée de 8 à 12 ans, très au-delà du profil junior."
+  },
+  "4484430306": {
+   "status": "title_excluded",
+   "title": "Directeur de Travaux TCE F/H",
+   "company": "CAP INGELEC",
+   "url": "https://www.linkedin.com/jobs/view/4484430306/",
+   "key": "directeur de travaux tce f h|cap",
+   "at": "2026-10-28T07:40:38+00:00"
+  },
+  "4484429323": {
+   "status": "title_excluded",
+   "title": "Directeur de Travaux – HTB F/H",
+   "company": "CAP INGELEC",
+   "url": "https://www.linkedin.com/jobs/view/4484429323/",
+   "key": "directeur de travaux htb f h|cap",
+   "at": "2026-10-28T07:40:38+00:00"
+  },
+  "4484432279": {
+   "status": "screened_out",
+   "title": "Conducteur de Travaux VRD F/H",
+   "company": "CAP INGELEC",
+   "url": "https://www.linkedin.com/jobs/view/4484432279/",
+   "key": "conducteur de travaux vrd f h|cap",
+   "at": "2026-10-28T07:40:38+00:00",
+   "reason": "Conducteur de travaux VRD sur des chantiers de bâtiments industriels : pilotage de chantier, coordination de sous-traitants et suivi HSE, sans lien avec l'eau ni avec la chimie. Le poste demande au moins 5 ans d'expérience et une formation technique VRD, alors que la candidate est une ingénieure chimiste junior."
+  },
+  "4484434192": {
+   "status": "screened_out",
+   "title": "Chef de Projets Travaux Electricité Datacenter F/H",
+   "company": "CAP INGELEC",
+   "url": "https://www.linkedin.com/jobs/view/4484434192/",
+   "key": "chef de projets travaux electricite datacenter f h|cap",
+   "at": "2026-10-28T07:40:38+00:00",
+   "reason": "Poste de chef de projets travaux en électricité pour datacenters (études d'exécution, pilotage de chantiers, gestion client), sans lien avec l'eau ni la chimie. Niveau BTS/DUT ou ingénieur génie électrique, expérience minimum de 5 ans demandée, CDI non précisé à Paris."
   }
  }
 }
