@@ -5522,6 +5522,85 @@
    "key": "chef de secteur sanitaires h f|crit",
    "at": "2026-10-28T13:50:50+00:00",
    "reason": "Chef de secteur sanitaires publics : encadrement d'une équipe de maintenance d'environ 10 personnes, contrôle de propreté et de fonctionnement d'équipements, sans aucun lien avec la qualité ou le traitement de l'eau. Poste de niveau agent de maîtrise, Bac+2, avec management d'équipe et au moins 2 ans d'expérience."
+  },
+  "4482517746": {
+   "status": "title_excluded",
+   "title": "SB -génie civil - directeur projet H/F",
+   "company": "Spie batignolles",
+   "url": "https://www.linkedin.com/jobs/view/4482517746/",
+   "key": "sb genie civil directeur projet h f|spie",
+   "at": "2026-10-28T15:43:26+00:00"
+  },
+  "4482512941": {
+   "status": "title_excluded",
+   "title": "IRIS² Senior SIT Engineer - Labs and Tooling",
+   "company": "Eutelsat",
+   "url": "https://www.linkedin.com/jobs/view/4482512941/",
+   "key": "iris2 senior sit engineer labs and tooling|eutelsat",
+   "at": "2026-10-28T15:43:26+00:00"
+  },
+  "4448304341": {
+   "status": "screened_out",
+   "title": "Cheffe / Chef de Projets – Equipements Hydrauliques",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4448304341/",
+   "key": "chef chef de projets equipements hydrauliques|artelia",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Poste de chef de projet en maîtrise d'œuvre d'ouvrages hydrauliques (réservoirs, stations de pompage, usines de traitement d'eau) centré sur le génie civil, les équipements hydrauliques et le suivi de chantier, pas sur l'analyse ou la qualité des eaux. Niveau ingénieur mais expérience confirmée de 5 ans demandée, sans contrat précisé ni localisation hors Choisy-le-Roi (Val-de-Marne, Île-de-France)."
+  },
+  "4483887611": {
+   "status": "screened_out",
+   "title": "Responsable service entretien du Patrimoine (H/F)",
+   "company": "SIAAP",
+   "url": "https://www.linkedin.com/jobs/view/4483887611/",
+   "key": "responsable service entretien du patrimoine h f|siaap",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Le poste de responsable du service Travaux et Entretien du patrimoine du SIAAP porte sur la maintenance, le génie civil, le pilotage d'équipe et les marchés publics, sans lien direct avec la qualité ou l'analyse des eaux. Il s'agit d'un niveau cadre Bac+5 en Île-de-France, en CDI non précisé, avec management d'équipe demandé, donc expérience non compatible avec un profil junior."
+  },
+  "4465900155": {
+   "status": "screened_out",
+   "title": "CHEF DE PROJET CVC/PLB H/F - CDI - PARIS (75013)",
+   "company": "Bon Talent - Cabinet de conseil en Recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4465900155/",
+   "key": "chef de projet cvc plb h f cdi paris 75013|bon",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "L'offre concerne la conception et le pilotage de projets CVC et plomberie (génie climatique) pour le bâtiment, sans lien avec la qualité ou le traitement des eaux en tant que missions métier. Poste cadre Bac+5 en CDI à Paris, mais demandant 3 à 4 ans d'expérience et une supervision d'équipe."
+  },
+  "4482530140": {
+   "status": "screened_out",
+   "title": "Conducteur de travaux principal CET H/F",
+   "company": "Spie batignolles",
+   "url": "https://www.linkedin.com/jobs/view/4482530140/",
+   "key": "conducteur de travaux principal cet h f|spie",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Poste de conducteur de travaux bâtiment (CVC, électricité, GTB) coordonnant des corps d'état, sans lien avec la qualité ou le traitement de l'eau ; niveau Bac+5 mais demande 10 ans d'expérience et management d'équipe. Localisé à Antony (Île-de-France), contrat non précisé."
+  },
+  "4483888615": {
+   "status": "screened_out",
+   "title": "Chef d'équipe maintenance (H/F)",
+   "company": "Fondation de l'Armée du Salut",
+   "url": "https://www.linkedin.com/jobs/view/4483888615/",
+   "key": "chef d equipe maintenance h f|fondation",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Chef d'équipe maintenance bâtiment (électricité, plomberie, serrurerie, CVC) : missions de management d'équipe technique, sans lien avec l'eau ni la qualité des eaux. Niveau de maîtrise, expérience de 2 ans minimum en management et contrat non précisé."
+  },
+  "4456985271": {
+   "status": "screened_out",
+   "title": "Inspecteur Composite Qualité Pale H/F",
+   "company": "Airbus Helicopters",
+   "url": "https://www.linkedin.com/jobs/view/4456985271/",
+   "key": "inspecteur composite qualite pale h f|airbus",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Poste d'inspection qualité de pales composites pour hélicoptères, sans lien avec l'eau ; il demande un technicien Bac+2 avec 3 ans d'expérience idéalement, donc niveau inadapté. Contrat CDI à Dugny (hors Île-de-France ? Paris-Le Bourget est en 93, donc Île-de-France)."
+  },
+  "4482520686": {
+   "status": "screened_out",
+   "title": "CDD Ingénieur études &amp; expertise - risques industriels nucléaire H/F",
+   "company": "ASNR - Autorité de sûreté nucléaire et de radioprotection",
+   "url": "https://www.linkedin.com/jobs/view/4482520686/",
+   "key": "cdd ingenieur etudes amp expertise risques industriels nucleaire h f|asnr",
+   "at": "2026-10-28T15:43:26+00:00",
+   "reason": "Poste d'ingénieur d'études en risques industriels nucléaires (analyse de sûreté, modélisation, expertise de dossiers d'exploitants), sans lien avec l'eau ni la qualité des eaux. Niveau ingénieur Bac+5 en CDD de 12 mois à Fontenay-aux-Roses ; l'expérience n'est pas chiffrée."
   }
  }
 }
