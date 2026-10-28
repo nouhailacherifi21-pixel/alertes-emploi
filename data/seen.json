@@ -4915,6 +4915,75 @@
    "key": "ingenieur cvc h f|extia",
    "at": "2026-10-28T09:21:48+00:00",
    "reason": "Poste d'ingénieur CVC (chauffage, ventilation, climatisation) orienté études d'installations industrielles, désenfumage, traitement de l'air et calculs thermiques : aucune mission liée à l'eau, alors que la candidate recherche un poste sur la qualité ou le traitement des eaux. Niveau ingénieur, expérience d'au moins un an demandée, contrat non précisé, localisation Île-de-France."
+  },
+  "4467218408": {
+   "status": "title_excluded",
+   "title": "Technicien RMN et IR F/H",
+   "company": "Servier France",
+   "url": "https://www.linkedin.com/jobs/view/4467218408/",
+   "key": "technicien rmn et ir f h|servier",
+   "at": "2026-10-28T10:17:19+00:00"
+  },
+  "4482505004": {
+   "status": "title_excluded",
+   "title": "Technicien-ne laboratoire Optroniques F/H",
+   "company": "Safran",
+   "url": "https://www.linkedin.com/jobs/view/4482505004/",
+   "key": "technicien ne laboratoire optroniques f h|safran",
+   "at": "2026-10-28T10:17:19+00:00"
+  },
+  "4466119470": {
+   "status": "title_excluded",
+   "title": "Stage consultant scientifique financement de l'innovation secteurs CHIMIE - BIOLOGIE - AGRO F/H",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4466119470/",
+   "key": "stage consultant scientifique financement de l innovation secteurs chimie biologie agro f h|deloitte",
+   "at": "2026-10-28T10:17:19+00:00"
+  },
+  "4467256878": {
+   "status": "screened_out",
+   "title": "Laboratory Manager",
+   "company": "Autoliv",
+   "url": "https://www.linkedin.com/jobs/view/4467256878/",
+   "key": "laboratory manager|autoliv",
+   "at": "2026-10-28T10:17:19+00:00",
+   "reason": "Laboratory Manager chez Autoliv (Survilliers) dans l'industrie automobile : test, validation et métrologie de systèmes de sécurité (ceintures, airbags), sans lien avec l'eau. Poste de management de laboratoire demandant une expérience industrielle avérée en direction d'équipe, sans durée précisée mais avec management d'équipe."
+  },
+  "4480976221": {
+   "status": "screened_out",
+   "title": "INGENIEUR ESSAIS (H/F)",
+   "company": "ARIAL Industries",
+   "url": "https://www.linkedin.com/jobs/view/4480976221/",
+   "key": "ingenieur essais h f|arial",
+   "at": "2026-10-28T10:17:19+00:00",
+   "reason": "Le poste d'ingénieur essais porte sur la coordination de campagnes d'essais sur banc pour des systèmes de défense, avec instrumentation et traitement de données (Python, LabVIEW, Matlab), sans aucun lien avec la qualité ou le traitement de l'eau. Niveau Bac+5 et CDI en Île-de-France (Versailles), mais exige une première expérience significative en pilotage de campagnes d'essai dans la Défense."
+  },
+  "4484427815": {
+   "status": "screened_out",
+   "title": "Cryogenic & RF Platform Operations Manager H/F",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4484427815/",
+   "key": "cryogenic rf platform operations manager h f|alice",
+   "at": "2026-10-28T10:17:19+00:00",
+   "reason": "Le poste est un management opérationnel de plateforme cryogénique et RF (cryostats, chaînes de mesure micro-ondes, qubits), sans lien avec l'eau ni la chimie des eaux. Il demande 7 ans d'expérience et un management d'équipe, ce qui dépasse largement le profil junior de la candidate."
+  },
+  "4466537500": {
+   "status": "screened_out",
+   "title": "Neuro Scientist F/M",
+   "company": "Servier France",
+   "url": "https://www.linkedin.com/jobs/view/4466537500/",
+   "key": "neuro scientist f m|servier",
+   "at": "2026-10-28T10:17:19+00:00",
+   "reason": "Poste de neuroscientifique en pharmacologie cellulaire et criblage HCS dans un groupe pharmaceutique, sans lien avec l'eau : missions de biologie cellulaire, automatisation et imagerie. Le poste demande un PhD idéalement et une expérience confirmée sans durée, en CDD sans durée précisée à Saclay."
+  },
+  "4476316352": {
+   "status": "screened_out",
+   "title": "Data Scientist - DoE and Predictive Modeling",
+   "company": "IFF",
+   "url": "https://www.linkedin.com/jobs/view/4476316352/",
+   "key": "data scientist doe and predictive modeling|iff",
+   "at": "2026-10-28T10:17:19+00:00",
+   "reason": "Poste de Data Scientist orienté plans d'expériences et modèles prédictifs ML/IA appliqués aux saveurs (flavor design), sans lien avec l'eau ni la qualité des eaux. Niveau Master/PhD, exigeant au minimum 8 ans d'expérience, en CDI non précisé, à Neuilly-sur-Seine."
   }
  }
 }
