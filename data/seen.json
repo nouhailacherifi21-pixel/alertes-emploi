@@ -6663,6 +6663,75 @@
    "key": "post doctorat etude des effet de temperatures et de pressions pour les transitions de phases h f|cea",
    "at": "2026-10-29T14:15:23+00:00",
    "reason": "Post-doctorat en physique du solide sur simulation numérique (DFT, potentiels machine learning, transitions de phases du cuivre) : aucune mission liée à l'eau, et le poste n'est pas de niveau Bac+5 ingénieur mais de recherche postdoctorale. Contrat et lieu non précisés dans le texte au-delà de la localisation Essonne."
+  },
+  "4484976232": {
+   "status": "title_excluded",
+   "title": "OFFRE DE STAGE - M2 chimie, chimie analytique, chimie de l’atmosphère ou sciences de l’environnement",
+   "company": "INRAE Occitanie-Toulouse",
+   "url": "https://www.linkedin.com/jobs/view/4484976232/",
+   "key": "offre de stage m2 chimie chimie analytique chimie de l atmosphere ou sciences de l environnement|inrae",
+   "at": "2026-10-29T15:21:18+00:00"
+  },
+  "4466820968": {
+   "status": "duplicate",
+   "title": "Technico-commercial (H/F)",
+   "company": "UPTOO",
+   "url": "https://www.linkedin.com/jobs/view/4466820968/",
+   "key": "technico commercial h f|uptoo",
+   "at": "2026-10-29T15:21:18+00:00"
+  },
+  "4484972386": {
+   "status": "title_excluded",
+   "title": "Stagiaire Ingénieur Calculs : Méthodologie Sloshing - 5 mois F/H",
+   "company": "GTT",
+   "url": "https://www.linkedin.com/jobs/view/4484972386/",
+   "key": "stagiaire ingenieur calculs methodologie sloshing 5 mois f h|gtt",
+   "at": "2026-10-29T15:21:18+00:00"
+  },
+  "4466551389": {
+   "status": "screened_out",
+   "title": "Superviseur Contrôle Qualité H/F",
+   "company": "SEQENS",
+   "url": "https://www.linkedin.com/jobs/view/4466551389/",
+   "key": "superviseur controle qualite h f|seqens",
+   "at": "2026-10-29T15:21:18+00:00",
+   "reason": "Superviseur Contrôle Qualité dans un laboratoire pharmaceutique/chimie fine : missions de libération de produits, stabilités, HPLC/GC, système qualité BPF, sans lien avec l'eau. Niveau Bac+5 mais management d'équipe et 5 ans d'expérience demandés."
+  },
+  "4484964720": {
+   "status": "screened_out",
+   "title": "Ingénieur Chargé d’Études Générales Eau Potable et Assainissement H/F",
+   "company": "Egis en France",
+   "url": "https://www.linkedin.com/jobs/view/4484964720/",
+   "key": "ingenieur charge d etudes generales eau potable et assainissement h f|egis",
+   "at": "2026-10-29T15:21:18+00:00",
+   "reason": "Poste d'ingénieur chargé d'études eau potable et assainissement pour schémas directeurs, orienté diagnostics de réseaux, modélisation et rédaction de livrables en bureau d'études, avec une expérience demandée de 3 à 5 ans minimum. Le domaine est bien dans l'eau (eau potable, assainissement), mais la mission porte sur l'hydraulique et les réseaux plutôt que sur la qualité ou la chimie des eaux, et l'expérience demandée dépasse 3 ans."
+  },
+  "4465577226": {
+   "status": "screened_out",
+   "title": "Appui Ingénieure/Ingénieur F/H",
+   "company": "EDF",
+   "url": "https://www.linkedin.com/jobs/view/4465577226/",
+   "key": "appui ingenieur ingenieur f h|edf",
+   "at": "2026-10-29T15:21:18+00:00",
+   "reason": "Poste d'appui en matériaux nucléaires : retour d'expérience sur les endommagements matériels, bases de données et notes réglementaires, sans lien avec le traitement ou la qualité de l'eau. Niveau Bac+2/+3 demandé, donc inférieur au Bac+5, et aucune expérience ni contrat précisés dans l'offre."
+  },
+  "4466830868": {
+   "status": "screened_out",
+   "title": "Technico-commercial (H/F)",
+   "company": "UPTOO",
+   "url": "https://www.linkedin.com/jobs/view/4466830868/",
+   "key": "technico commercial h f|uptoo",
+   "at": "2026-10-29T15:21:18+00:00",
+   "reason": "Poste de technico-commercial (prospection, prescription et cycle de vente de robinetterie sanitaire) : les missions sont commerciales et ne portent pas sur l'analyse ou la qualité de l'eau. Niveau non Bac+5 précisé, expérience et contrat non indiqués."
+  },
+  "4442822871": {
+   "status": "screened_out",
+   "title": "Manager opérationnel  F/H",
+   "company": "Dalkia",
+   "url": "https://www.linkedin.com/jobs/view/4442822871/",
+   "key": "manager operationnel f h|dalkia",
+   "at": "2026-10-29T15:21:18+00:00",
+   "reason": "Poste de manager opérationnel en exploitation/maintenance multitechnique (CVC, chauffage) d'un parc de bureaux, piloter 8 techniciens, sans lien avec l'eau ni avec la chimie. Niveau managérial, expérience demandée supérieure à 10 ans, CDI à Montreuil (93)."
   }
  }
 }
