@@ -5986,6 +5986,41 @@
    "key": "ingenieur geotechnique|accessol",
    "at": "2026-10-28T19:23:42+00:00",
    "reason": "L'offre concerne l'ingénierie géotechnique (dimensionnement de fondations, sondages, missions G1/G2/G5) et le pilotage de chantier, sans lien avec l'eau ni la chimie des eaux. Le poste est un stage à temps plein à Savigny-le-Temple, de niveau ingénieur."
+  },
+  "4446212836": {
+   "status": "duplicate",
+   "title": "Ingénieur Banc de tests LabVIEW / TestStand H/F",
+   "company": "STYREL",
+   "url": "https://www.linkedin.com/jobs/view/4446212836/",
+   "key": "ingenieur banc de tests labview teststand h f|styrel",
+   "at": "2026-10-29T08:33:47+00:00"
+  },
+  "4484912908": {
+   "status": "screened_out",
+   "title": "Test and Qualification Engineer - Innovation Team (M/F)",
+   "company": "ThrustMe",
+   "url": "https://www.linkedin.com/jobs/view/4484912908/",
+   "key": "test and qualification engineer innovation team m f|thrustme",
+   "at": "2026-10-29T08:33:47+00:00",
+   "reason": "Poste d'ingénieur test et qualification de systèmes de propulsion spatiale (essais sous vide, vibrations, cycles thermiques) : les missions ne portent pas sur l'eau, même si le propulseur utilise de l'iode. Niveau Bac+5 avec au moins 3 ans d'expérience demandés, contrat non précisé, lieu Verrières-le-Buisson (Essonne, hors Île-de-France visée par les critères de localisation? Essonne est en 91, donc en Île-de-France)."
+  },
+  "4446225636": {
+   "status": "screened_out",
+   "title": "Ingénieur Banc de test LabVIEW / TestStand H/F",
+   "company": "STYREL",
+   "url": "https://www.linkedin.com/jobs/view/4446225636/",
+   "key": "ingenieur banc de test labview teststand h f|styrel",
+   "at": "2026-10-29T08:33:47+00:00",
+   "reason": "Poste d'ingénieur banc de test LabVIEW/TestStand pour l'aéronautique : développement logiciel d'instrumentation et rédaction de procédures de recette, sans lien avec l'eau ni la chimie. Niveau Bac+5 en informatique industrielle, mais expérience de 5 ans minimum demandée, en CDI-type non précisé et à Éragny (Val-d'Oise)."
+  },
+  "4446212831": {
+   "status": "screened_out",
+   "title": "Ingénieur Banc de tests LabVIEW / TestStand H/F",
+   "company": "STYREL",
+   "url": "https://www.linkedin.com/jobs/view/4446212831/",
+   "key": "ingenieur banc de tests labview teststand h f|styrel",
+   "at": "2026-10-29T08:33:47+00:00",
+   "reason": "Le poste porte sur le développement de logiciels LabVIEW/TestStand pour l'automatisation de bancs de test électroniques et informatiques industriels, sans lien avec l'eau ni la chimie. Il demande un Bac+5 en informatique industrielle ou électronique et au moins 2 ans d'expérience en développement de bancs de test."
   }
  }
 }
