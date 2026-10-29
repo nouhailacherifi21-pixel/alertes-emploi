@@ -6038,6 +6038,101 @@
    "key": "chef de projet maitrise d uvre batiment tce h f|exoceth",
    "at": "2026-10-29T09:32:02+00:00",
    "reason": "Offre de chef de projet maîtrise d'œuvre bâtiment TCE : pilotage de constructions, coordination technique et direction de travaux, sans aucune mission liée à l'eau. Niveau cadre/ingénieur, mais exige 5 ans minimum d'expérience et un CDI client en mission de 12 mois renouvelable."
+  },
+  "4476025152": {
+   "status": "title_excluded",
+   "title": "Stage - 6 mois - Conception & développement solutions pour dépôts ferroviaires F/H",
+   "company": "Alstom",
+   "url": "https://www.linkedin.com/jobs/view/4476025152/",
+   "key": "stage 6 mois conception developpement solutions pour depots ferroviaires f h|alstom",
+   "at": "2026-10-29T10:28:25+00:00"
+  },
+  "4480946877": {
+   "status": "title_excluded",
+   "title": "Ingénieur Senior R&D – Compteurs d’Eau Ultrasoniques H/F",
+   "company": "Sagemcom",
+   "url": "https://www.linkedin.com/jobs/view/4480946877/",
+   "key": "ingenieur senior r d compteurs d eau ultrasoniques h f|sagemcom",
+   "at": "2026-10-29T10:28:25+00:00"
+  },
+  "4484942204": {
+   "status": "title_excluded",
+   "title": "Stage 6 mois Bac+5 Ingénieur mécanique et matériaux H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484942204/",
+   "key": "stage 6 mois bac 5 ingenieur mecanique et materiaux h f|cea",
+   "at": "2026-10-29T10:28:25+00:00"
+  },
+  "4474467011": {
+   "status": "title_excluded",
+   "title": "Stage TFE : Matériaux - Optimisation du processus de concassage H/F (91)",
+   "company": "Colas France",
+   "url": "https://www.linkedin.com/jobs/view/4474467011/",
+   "key": "stage tfe materiaux optimisation du processus de concassage h f 91|colas",
+   "at": "2026-10-29T10:28:25+00:00"
+  },
+  "4471991972": {
+   "status": "screened_out",
+   "title": "Chef de Projet - Expert Analytique (H/F)",
+   "company": "AKTEHOM",
+   "url": "https://www.linkedin.com/jobs/view/4471991972/",
+   "key": "chef de projet expert analytique h f|aktehom",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "Consultant expert analytique dont les missions portent sur les méthodes analytiques de produits pharmaceutiques (validation, transfert, réglementation BPL/ICH/USP), sans lien avec l'eau. Demande au moins 5 ans d'expérience en industrie pharmaceutique, niveau cadre Bac+5 possible mais hors domaine."
+  },
+  "4484934363": {
+   "status": "screened_out",
+   "title": "Technical Manager",
+   "company": "SECTR Partners",
+   "url": "https://www.linkedin.com/jobs/view/4484934363/",
+   "key": "technical manager|sectr",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "Poste de Technical Manager pour les segments laitier et sucré (ingrédients et arômes agroalimentaires), centré sur l'innovation, les applications et le management d'équipe technique. Aucune mission liée à l'eau, niveau cadre mais exigence de 8 ans d'expérience avec management, CDI non précisé."
+  },
+  "4469741882": {
+   "status": "screened_out",
+   "title": "Ingénieur validation mécanique freinage automobile, essais terrain et analyse technique",
+   "company": "AWAKE Group x INNOVATEAM",
+   "url": "https://www.linkedin.com/jobs/view/4469741882/",
+   "key": "ingenieur validation mecanique freinage automobile essais terrain et analyse technique|awake",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "Offre d'ingénieur en validation mécanique de systèmes de freinage automobile : essais terrain et banc, NVH, rapports d'essais, pilotage de techniciens. Aucun lien avec l'eau ni la chimie des eaux ; niveau Bac+5 et expérience minimum 2 ans, contrat non indiqué, localisation en Seine-Saint-Denis."
+  },
+  "4484943195": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur.e - Chercheur.se en Modélisation et Développement logiciel en dynamique rapide H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484943195/",
+   "key": "cdi ingenieur chercheur se en modelisation et developpement logiciel en dynamique rapide h f|cea",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "Le poste porte sur le développement de codes de simulation numérique en dynamique rapide et interaction fluide-structure (EUROPLEXUS, MANTA), en C++/Python/HPC, sans lien avec l'eau ni la chimie des eaux. Niveau Bac+5 ingénieur en CDI à Saclay (91), expérience non précisée."
+  },
+  "4484937029": {
+   "status": "screened_out",
+   "title": "Ingénieur Etude PV",
+   "company": "IKOS GROUP",
+   "url": "https://www.linkedin.com/jobs/view/4484937029/",
+   "key": "ingenieur etude pv|ikos",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "L'offre concerne le calcul de productible éolien et photovoltaïque (estimations énergétiques P50/P90, données météo), sans lien avec l'eau. Elle demande au moins 3 ans d'expérience en bureau d'études, sans indication de contrat ni de lieu précis parmi plusieurs villes dont Paris."
+  },
+  "4484920983": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur⋅e-chercheur⋅e⋅ en Intelligence Artificielle et Analyse de données H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484920983/",
+   "key": "cdi ingenieur e chercheur e en intelligence artificielle et analyse de donnees h f|cea",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "L'offre porte sur l'intelligence artificielle, l'apprentissage statistique et la quantification d'incertitudes en simulation numérique pour les réacteurs de quatrième génération, sans lien avec l'eau ni la qualité des eaux. Le poste est de niveau ingénieur-chercheur Bac+5 à Bac+8, en CDI, à Saclay (Essonne), avec 1 à 2 ans d'expérience demandés."
+  },
+  "4484933683": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur Chercheur en Mécanique Sismique H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484933683/",
+   "key": "cdi ingenieur chercheur en mecanique sismique h f|cea",
+   "at": "2026-10-29T10:28:25+00:00",
+   "reason": "Le poste porte sur la mécanique sismique des structures en béton armé (essais-calculs, simulation numérique), sans lien avec l'eau, donc hors des domaines recherchés. Niveau doctorat (Bac+8) et 3 à 5 ans d'expérience demandés, CDI à Saclay (Essonne, Île-de-France)."
   }
  }
 }
