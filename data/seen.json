@@ -8158,6 +8158,64 @@
    "key": "geotechnicien confirme h f|bouygues",
    "at": "2026-10-30T17:25:19+00:00",
    "reason": "Le poste est un rôle d'ingénierie géotechnique (fondations, soutènements, dimensionnement de sols) pour des ouvrages de génie civil, sans lien avec l'eau hormis des calculs hydrauliques secondaires. Il demande Bac+5 avec 5 à 7 ans d'expérience confirmée, en CDI-like non précisé, à Guyancourt (Yvelines)."
+  },
+  "4484876291": {
+   "status": "title_excluded",
+   "title": "Technicien H/F - Experimental",
+   "company": "Hospitaliti",
+   "url": "https://www.linkedin.com/jobs/view/4484876291/",
+   "key": "technicien h f experimental|hospitaliti",
+   "at": "2026-10-30T18:07:07+00:00"
+  },
+  "4483486296": {
+   "status": "title_excluded",
+   "title": "Technicien de Maintenance Confirmé (F/H)",
+   "company": "Appart'City",
+   "url": "https://www.linkedin.com/jobs/view/4483486296/",
+   "key": "technicien de maintenance confirme f h|appart",
+   "at": "2026-10-30T18:07:07+00:00"
+  },
+  "4484895251": {
+   "status": "title_excluded",
+   "title": "Stage – Chargé-e d’études environnement – PARIS ou LILLE",
+   "company": "SYSTRA",
+   "url": "https://www.linkedin.com/jobs/view/4484895251/",
+   "key": "stage charge e d etudes environnement paris ou lille|systra",
+   "at": "2026-10-30T18:07:07+00:00"
+  },
+  "4485378719": {
+   "status": "title_excluded",
+   "title": "Stage - Ingénieur Etudes et Projets (F/H)",
+   "company": "Veolia",
+   "url": "https://www.linkedin.com/jobs/view/4485378719/",
+   "key": "stage ingenieur etudes et projets f h|veolia",
+   "at": "2026-10-30T18:07:07+00:00"
+  },
+  "4485390274": {
+   "status": "title_excluded",
+   "title": "Directeur de projets UVE et maintenance (H/F)",
+   "company": "Volta Executive Consulting",
+   "url": "https://www.linkedin.com/jobs/view/4485390274/",
+   "key": "directeur de projets uve et maintenance h f|volta",
+   "at": "2026-10-30T18:07:07+00:00"
+  },
+  "4459848412": {
+   "status": "screened_out",
+   "title": "Chef.fe de Projets TCE MOE Bâtiment (H/F)",
+   "company": "WSP en France",
+   "url": "https://www.linkedin.com/jobs/view/4459848412/",
+   "key": "chef de projets tce moe batiment h f|wsp",
+   "at": "2026-10-30T18:07:07+00:00",
+   "reason": "Poste de chef de projet en maîtrise d'œuvre et AMO tous corps d'état dans le bâtiment (tertiaire, hospitalier, data centers), sans mission sur l'eau ni sur la qualité des eaux. Il demande au moins 10 ans d'expérience et un profil confirmé, ce qui ne correspond ni au niveau junior de la candidate ni à son domaine."
+  },
+  "4484885198": {
+   "status": "screened_out",
+   "title": "Responsable Commercial Retrofit & Contrats de Maintenance — Lyophilisateurs Pharmaceutiques",
+   "company": "Telstar",
+   "url": "https://www.linkedin.com/jobs/view/4484885198/",
+   "key": "responsable commercial retrofit contrats de maintenance lyophilisateurs pharmaceutiques|telstar",
+   "at": "2026-10-30T18:07:07+00:00",
+   "reason": "L'offre porte sur la vente technique et commerciale de retrofit et contrats de maintenance de lyophilisateurs pharmaceutiques, sans lien avec l'eau ni avec la chimie des eaux. Elle demande Bac+5 mais exige au minimum 5 ans d'expérience en vente technique, et le poste est à Élancourt (Yvelines)."
   }
  }
 }
