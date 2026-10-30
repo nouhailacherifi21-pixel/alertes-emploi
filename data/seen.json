@@ -7867,6 +7867,60 @@
    "key": "consultant optimisation performance f h energies renouvelables photovoltaique|arnest",
    "at": "2026-10-30T15:43:07+00:00",
    "reason": "L'offre porte sur la data quality et le data engineering de données de centrales photovoltaïques (SQL, Python, Microsoft Fabric, Power BI), sans lien avec l'eau ni la chimie. Le poste est de niveau ingénieur, mais le profil demandé n'a pas de contrat précisé et exige une première année d'expérience dans les énergies renouvelables."
+  },
+  "4485372057": {
+   "status": "screened_out",
+   "title": "Chef de projet confirmé procédures environnementales et eau - CDI (F/H)",
+   "company": "Grand Paris Aménagement",
+   "url": "https://www.linkedin.com/jobs/view/4485372057/",
+   "key": "chef de projet confirme procedures environnementales et eau cdi f h|grand",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "Poste de chef de projet confirmé en procédures environnementales et réglementaires (loi sur l'eau, études d'impact) chez un aménageur, orienté droit de l'environnement et urbanisme plutôt que laboratoire ou traitement des eaux. Il exige 8 ans d'expérience minimum et un profil confirmé, en CDI, à Paris 19e."
+  },
+  "4484850576": {
+   "status": "screened_out",
+   "title": "CDI Métrologue Dosimétriste H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484850576/",
+   "key": "cdi metrologue dosimetriste h f|cea",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "Poste de métrologue dosimétriste en installation nucléaire (irradiateurs, dosimétrie, codes Monte Carlo), sans lien avec la qualité ou le traitement des eaux : hors domaine. Niveau Master 2 demandé avec 3 à 5 ans d'expérience, en CDI à Saclay (91)."
+  },
+  "4484869677": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur-chercheur en mécanique des Matériaux Métalliques H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4484869677/",
+   "key": "cdi ingenieur chercheur en mecanique des materiaux metalliques h f|cea",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "L'offre porte sur la mécanique des matériaux métalliques (essais mécaniques, fragilisation sous irradiation, modélisation) pour le nucléaire, sans lien avec l'eau. Le poste est de niveau Bac+5/Bac+8 d'ingénieur-chercheur en CDI à Saclay (Essonne), avec 1 à 2 ans d'expérience demandés."
+  },
+  "4485355941": {
+   "status": "screened_out",
+   "title": "Environmental Test Laboratory Manager",
+   "company": "Harmattan AI",
+   "url": "https://www.linkedin.com/jobs/view/4485355941/",
+   "key": "environmental test laboratory manager|harmattan",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "Poste de manager de laboratoire d'essais environnementaux (climatique, vibrations, ingress eau/poussière, UV) pour systèmes de défense, sans lien avec la qualité ou le traitement des eaux ; demande au moins 10 ans d'expérience et management d'équipe, niveau senior. Hors domaine eau, donc non pertinent malgré un niveau ingénieur et une localisation parisienne."
+  },
+  "4485374080": {
+   "status": "screened_out",
+   "title": "Chargé de projet formulation cosmétique H/F",
+   "company": "Laboratoires Novexpert",
+   "url": "https://www.linkedin.com/jobs/view/4485374080/",
+   "key": "charge de projet formulation cosmetique h f|laboratoires",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "Poste de formulateur cosmétique en R&D (formules de soins, stabilité, sourcing d'ingrédients) sans lien avec l'eau, malgré un niveau Bac+5 ; la candidate n'a pas le profil requis. Expérience demandée : supérieure à 1 an en formulation cosmétique naturelle, CDI, Gometz-la-Ville (Essonne, 91)."
+  },
+  "4442786436": {
+   "status": "screened_out",
+   "title": "Ingénieur génie des procédés / process industriels - F/H",
+   "company": "NEO2",
+   "url": "https://www.linkedin.com/jobs/view/4442786436/",
+   "key": "ingenieur genie des procedes process industriels f h|neo2",
+   "at": "2026-10-30T16:30:50+00:00",
+   "reason": "Poste d'ingénieur génie des procédés en ingénierie industrielle (PID/PFD, dimensionnement d'équipements, bilans matière et énergie, HAZOP) pour des projets de lignes de production en chimie, agroalimentaire et pharmaceutique, sans lien avec le traitement ou la qualité de l'eau. Niveau Bac+5 mais expérience de 3 ans minimum demandée, avec mission de responsable de projet."
   }
  }
 }
