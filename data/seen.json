@@ -7309,6 +7309,47 @@
    "key": "nanofabrication process technician h f|alice",
    "at": "2026-10-30T11:13:21+00:00",
    "reason": "Poste de technicien(ne) de fabrication en salle blanche pour circuits quantiques supraconducteurs : nanofabrication de wafers, sans lien avec l'eau. Niveau technicien et exigence de 3 à 5 ans d'expérience en semi-conducteurs, avec un CDI non précisé."
+  },
+  "4485327521": {
+   "status": "title_excluded",
+   "title": "Nanofabrication Dicing & Cleaning Intern M/F",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4485327521/",
+   "key": "nanofabrication dicing cleaning intern m f|alice",
+   "at": "2026-10-30T11:57:34+00:00"
+  },
+  "4485315853": {
+   "status": "title_excluded",
+   "title": "Nanofabrication Test & Automation Intern M/F",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4485315853/",
+   "key": "nanofabrication test automation intern m f|alice",
+   "at": "2026-10-30T11:57:34+00:00"
+  },
+  "4485313962": {
+   "status": "title_excluded",
+   "title": "Experimental Physics Intern M/F",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4485313962/",
+   "key": "experimental physics intern m f|alice",
+   "at": "2026-10-30T11:57:34+00:00"
+  },
+  "4485327522": {
+   "status": "title_excluded",
+   "title": "RF Sub Systems Design & Characterization Intern M/F",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4485327522/",
+   "key": "rf sub systems design characterization intern m f|alice",
+   "at": "2026-10-30T11:57:34+00:00"
+  },
+  "4485319761": {
+   "status": "screened_out",
+   "title": "Deposition & Etch Equipment and Production Engineer (H/F)",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4485319761/",
+   "key": "deposition etch equipment and production engineer h f|alice",
+   "at": "2026-10-30T11:57:34+00:00",
+   "reason": "Poste d'ingénieur de production sur les procédés de dépôt et de gravure de supraconducteurs (quantique), sans lien avec l'eau ; il exige 3+ ans d'expérience en salle blanche et une maîtrise hands-on de procédés sous vide ou plasma. Le poste est Bac+5 en CDI présumé non précisé, basé à Aubervilliers."
   }
  }
 }
