@@ -8602,6 +8602,59 @@
    "key": "charge d affaire travaux batiment f h|groupe",
    "at": "2026-10-31T13:29:48+00:00",
    "reason": "Chargé d'affaires travaux bâtiment sur l'aéroport CDG : conduite de travaux de conservation, gros œuvre et second œuvre, sans aucun lien avec l'eau ni la chimie. Le poste demande Bac+3/4 et plus de 10 ans d'expérience confirmée, donc hors niveau et hors expérience junior."
+  },
+  "4478021350": {
+   "status": "title_excluded",
+   "title": "Technicien d'exploitation F/H",
+   "company": "EDF",
+   "url": "https://www.linkedin.com/jobs/view/4478021350/",
+   "key": "technicien d exploitation f h|edf",
+   "at": "2026-10-31T14:12:07+00:00"
+  },
+  "4411744920": {
+   "status": "screened_out",
+   "title": "Ingénieur traitement de l'eau - H/F",
+   "company": "NEO2",
+   "url": "https://www.linkedin.com/jobs/view/4411744920/",
+   "key": "ingenieur traitement de l eau h f|neo2",
+   "at": "2026-10-31T14:12:07+00:00",
+   "reason": "Poste d'ingénieur traitement de l'eau en bureau d'études : dimensionnement de stations d'eau potable, conception de procédés, PID, bilans de masse et chiffrage. Le niveau est Bac+5 mais l'expérience demandée est de minimum 5 ans, en études de procédé, contrairement au profil junior de la candidate ; le contrat n'est pas indiqué et le lieu est Paris."
+  },
+  "4478017513": {
+   "status": "screened_out",
+   "title": "Manager Opérationnel KLESIA REZO/STRATO F/H",
+   "company": "EDF",
+   "url": "https://www.linkedin.com/jobs/view/4478017513/",
+   "key": "manager operationnel klesia rezo strato f h|edf",
+   "at": "2026-10-31T14:12:07+00:00",
+   "reason": "Le poste est un management opérationnel de maintenance technique (électricité, CVC, régulation) sur un site immobilier à Paris 17, piloter 4 techniciens, sans lien avec l'eau. Il demande un diplôme Bac/BTS dans le génie climatique et une expérience significative, donc un niveau technicien et non Bac+5."
+  },
+  "4438092942": {
+   "status": "screened_out",
+   "title": "Chargé.e QSE - Site ICPE",
+   "company": "CENTURION SEARCH | Cabinet de recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4438092942/",
+   "key": "charge qse site icpe|centurion",
+   "at": "2026-10-31T14:12:07+00:00",
+   "reason": "Poste de Chargé.e QSE sur site ICPE en feu continu : pilotage du système de management intégré ISO 9001/14001/45001/50001, conformité réglementaire HSE, audits, documentation et prévention des risques, sans mission sur la qualité ou le traitement de l'eau. Niveau Bac+3/5 exigeant 3 ans d'expérience minimum sur sites ICPE/SEVESO, en CDI à Bussy-Saint-Georges (77)."
+  },
+  "4476812183": {
+   "status": "screened_out",
+   "title": "Ingénieur-chercheur en modélisation climatique et descente d'échelle H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4476812183/",
+   "key": "ingenieur chercheur en modelisation climatique et descente d echelle h f|cea",
+   "at": "2026-10-31T14:12:07+00:00",
+   "reason": "Le poste porte sur la modélisation climatique et la descente d'échelle pour étudier les glaciers himalayens, sans lien avec le traitement, la qualité ou la chimie des eaux, même si les ressources en eau sont évoquées comme enjeu. Il exige un doctorat en modélisation du climat et une expertise en modélisation, ce qui relève d'un niveau Bac+8 de recherche ; l'expérience n'est pas précisée et le contrat n'est pas indiqué."
+  },
+  "4428945942": {
+   "status": "screened_out",
+   "title": "Ingénieur Structures en Génie Civil H/F",
+   "company": "CENTURION SEARCH | Cabinet de recrutement",
+   "url": "https://www.linkedin.com/jobs/view/4428945942/",
+   "key": "ingenieur structures en genie civil h f|centurion",
+   "at": "2026-10-31T14:12:07+00:00",
+   "reason": "Ingénieur structures en génie civil pour ouvrages d'art (ponts, viaducs, tunnels) : calculs de structures, méthodes d'exécution, sans lien avec l'eau ni la chimie. Poste Bac+5, exigeant au moins 5 ans d'expérience, contrat non précisé, basé à Nanterre (Hauts-de-Seine)."
   }
  }
 }
