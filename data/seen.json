@@ -8664,6 +8664,32 @@
    "key": "ingenieur qse h f|davidson",
    "at": "2026-10-31T14:49:01+00:00",
    "reason": "Poste d'ingénieur QSE détaché en mission, centré sur la conformité qualité, sécurité et environnement dans l'industrie nucléaire, pétrochimique ou industrielle, sans mission liée à la qualité ou au traitement des eaux. Niveau Bac+5 demandant une expérience réussie sur un poste similaire, sans durée précisée ; contrat et lieu non indiqués dans le texte hors localisation Île-de-France."
+  },
+  "4476842183": {
+   "status": "title_excluded",
+   "title": "DIRECTEUR TECHNIQUE H/F",
+   "company": "Icade",
+   "url": "https://www.linkedin.com/jobs/view/4476842183/",
+   "key": "directeur technique h f|icade",
+   "at": "2026-10-31T15:27:21+00:00"
+  },
+  "4468890985": {
+   "status": "screened_out",
+   "title": "Chef / Cheffe de Projet MOE – Grands Projets Bâtiments Industriels",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4468890985/",
+   "key": "chef chef de projet moe grands projets batiments industriels|artelia",
+   "at": "2026-10-31T15:27:21+00:00",
+   "reason": "Chef de projet MOE sur bâtiments industriels et grands projets (génie civil, structure, fluides, pilotage d'équipes, relation client), sans lien avec l'eau ni la qualité des eaux. Poste Bac+5 demandant au minimum 5 ans d'expérience confirmée, en CDI à Choisy-le-Roi (Val-de-Marne, hors Île-de-France ciblée? 94 est bien en Île-de-France)."
+  },
+  "4477818509": {
+   "status": "screened_out",
+   "title": "Projeteur AutoCAD - REVIT H/F",
+   "company": "Ortec Group",
+   "url": "https://www.linkedin.com/jobs/view/4477818509/",
+   "key": "projeteur autocad revit h f|ortec",
+   "at": "2026-10-31T15:27:21+00:00",
+   "reason": "Poste de projeteur AutoCAD/REVIT en génie civil pour des infrastructures de transport ferroviaire : missions de CAO, plans de conception et de phasage de chantier, sans lien avec l'eau. Niveau Bac+2 technicien, expérience de 6 ans minimum demandée."
   }
  }
 }
