@@ -8576,6 +8576,32 @@
    "key": "responsable du socle technique h f|institut",
    "at": "2026-10-31T12:37:03+00:00",
    "reason": "Poste de responsable du socle technique IT (infrastructures, réseaux, cloud, cybersécurité, management d'une vingtaine de personnes) sans aucun lien avec l'eau ni la chimie ; niveau cadre Bac+5 informatique avec 10 à 15 ans d'expérience et management d'équipe, très éloigné du profil de la candidate."
+  },
+  "4476815007": {
+   "status": "title_excluded",
+   "title": "STAGIAIRE H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4476815007/",
+   "key": "stagiaire h f|cea",
+   "at": "2026-10-31T13:29:48+00:00"
+  },
+  "4458963851": {
+   "status": "screened_out",
+   "title": "CDD - Ingénieur.e - étude migration des aérosols radioactifs à travers des matériaux cimentaires H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4458963851/",
+   "key": "cdd ingenieur etude migration des aerosols radioactifs a travers des materiaux cimentaires h f|cea",
+   "at": "2026-10-31T13:29:48+00:00",
+   "reason": "Étude de migration d'aérosols radioactifs à travers des matériaux cimentaires en conditions d'accident grave (radiochimie, béton, modélisation COMSOL/PHREEQC), sans lien avec la qualité ou le traitement de l'eau : le poste relève de la radiochimie et des matériaux nucléaires, pas de l'eau. Niveau ingénieur Bac+5 et Île-de-France, mais CDD dont la durée n'est pas précisée, expérience 1 à 2 ans."
+  },
+  "4476821471": {
+   "status": "screened_out",
+   "title": "chargé d'affaire travaux bâtiment F/H",
+   "company": "Groupe ADP",
+   "url": "https://www.linkedin.com/jobs/view/4476821471/",
+   "key": "charge d affaire travaux batiment f h|groupe",
+   "at": "2026-10-31T13:29:48+00:00",
+   "reason": "Chargé d'affaires travaux bâtiment sur l'aéroport CDG : conduite de travaux de conservation, gros œuvre et second œuvre, sans aucun lien avec l'eau ni la chimie. Le poste demande Bac+3/4 et plus de 10 ans d'expérience confirmée, donc hors niveau et hors expérience junior."
   }
  }
 }
