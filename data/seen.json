@@ -9106,6 +9106,23 @@
    "key": "charge d affaires tuyauterie h f|eiffage",
    "at": "2026-11-01T10:50:38+00:00",
    "reason": "Chargé d'affaires tuyauterie en maintenance pétrochimique : missions de gestion de contrats, chiffrage, planning, notes de calcul et relation client, sans lien avec le traitement ou la qualité de l'eau. Le poste relève de l'ingénierie industrielle, pas des domaines visés, et le niveau d'expérience et le contrat ne sont pas précisés."
+  },
+  "4429845860": {
+   "status": "title_excluded",
+   "title": "Technicien de maintenance multitechnique Saint-Cloud 92 F/H",
+   "company": "Eiffage Énergie Systèmes",
+   "url": "https://www.linkedin.com/jobs/view/4429845860/",
+   "key": "technicien de maintenance multitechnique saint cloud 92 f h|eiffage",
+   "at": "2026-11-01T12:00:41+00:00"
+  },
+  "4485952307": {
+   "status": "screened_out",
+   "title": "Ingénieur d’études (H/F) – Développement de tests diagnostiques ciblant des virus",
+   "company": "Centre Lasers Intenses et Applications",
+   "url": "https://www.linkedin.com/jobs/view/4485952307/",
+   "key": "ingenieur d etudes h f developpement de tests diagnostiques ciblant des virus|centre",
+   "at": "2026-11-01T12:00:41+00:00",
+   "reason": "Le poste concerne le développement de protéines artificielles par phage display et de tests diagnostiques LFA pour détecter des virus (flavivirus) : biologie moléculaire et biotechnologies, sans lien avec la qualité ou le traitement de l'eau. Niveau Bac+3/4 d'ingénieur d'études en CDD de 18 mois à Gif-sur-Yvette, avec une expérience non précisée."
   }
  }
 }
