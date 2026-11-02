@@ -9828,6 +9828,117 @@
    "key": "h f ingenieur de recherche biologie cellulaire et moleculaire|centre",
    "at": "2026-11-02T12:36:36+00:00",
    "reason": "Poste d'ingénieur de recherche en biologie cellulaire et moléculaire (O-GlcNAcylation, macrophages, culture cellulaire, biologie moléculaire) sans aucun lien avec la qualité ou le traitement de l'eau ; niveau Doctorat et expérience de 1 à 4 ans, contrat CDD de 15 mois à Paris."
+  },
+  "4476002412": {
+   "status": "title_excluded",
+   "title": "Technicien chargé d’essais H/F",
+   "company": "Gi Group",
+   "url": "https://www.linkedin.com/jobs/view/4476002412/",
+   "key": "technicien charge d essais h f|gi",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4486181113": {
+   "status": "title_excluded",
+   "title": "Directeur des affaires techniques",
+   "company": "Institut Curie",
+   "url": "https://www.linkedin.com/jobs/view/4486181113/",
+   "key": "directeur des affaires techniques|institut",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4387846845": {
+   "status": "title_excluded",
+   "title": "ALTERNANCE - Chargé de concessions (H/F)",
+   "company": "GRDF",
+   "url": "https://www.linkedin.com/jobs/view/4387846845/",
+   "key": "alternance charge de concessions h f|grdf",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4485731051": {
+   "status": "title_excluded",
+   "title": "Stage Bac+5 Exploration de nouveaux adsorbants pour le piégeage de CH₃I en contexte nucléaire H/F",
+   "company": "ASNR - Autorité de sûreté nucléaire et de radioprotection",
+   "url": "https://www.linkedin.com/jobs/view/4485731051/",
+   "key": "stage bac 5 exploration de nouveaux adsorbants pour le piegeage de ch3i en contexte nucleaire h f|asnr",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4485715911": {
+   "status": "title_excluded",
+   "title": "Stage au laboratoire EPI (Equipement de Protection Individuelle) BAC + 2 H/F",
+   "company": "ASNR - Autorité de sûreté nucléaire et de radioprotection",
+   "url": "https://www.linkedin.com/jobs/view/4485715911/",
+   "key": "stage au laboratoire epi equipement de protection individuelle bac 2 h f|asnr",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4477508360": {
+   "status": "title_excluded",
+   "title": "STAGE 6 mois Développement essai mécanique miniaturisé pour caractérisation rapide d'aciers avancés H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4477508360/",
+   "key": "stage 6 mois developpement essai mecanique miniaturise pour caracterisation rapide d aciers avances h f|cea",
+   "at": "2026-11-02T13:51:49+00:00"
+  },
+  "4486182099": {
+   "status": "screened_out",
+   "title": "Ingénieur Réseaux de Chaleur et de Froid / Chauffage urbain",
+   "company": "agap2",
+   "url": "https://www.linkedin.com/jobs/view/4486182099/",
+   "key": "ingenieur reseaux de chaleur et de froid chauffage urbain|agap2",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Le poste porte sur la conception et le dimensionnement de réseaux de chaleur, de froid et de chauffage urbain (énergie thermique), sans lien avec la qualité ou le traitement de l'eau. Niveau ingénieur Bac+5 en CDI en Île-de-France, sans durée d'expérience précisée."
+  },
+  "4478399243": {
+   "status": "screened_out",
+   "title": "Conducteur de Travaux Industriel – Environnement Contrôlé (H/F)",
+   "company": "B-Hive Engineering",
+   "url": "https://www.linkedin.com/jobs/view/4478399243/",
+   "key": "conducteur de travaux industriel environnement controle h f|b",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Poste de conducteur de travaux en environnement salle blanche (pilotage de chantier, coordination de sous-traitants, HSE, mise en service) sans lien avec la qualité ou le traitement de l'eau ; niveau Bac+3 à Bac+5 mais exigence de 6 ans d'expérience minimum et profil de management de chantier. Contrat non indiqué, lieu Rambouillet (Yvelines, Île-de-France)."
+  },
+  "4486168634": {
+   "status": "screened_out",
+   "title": "Construction Project Manager H/F",
+   "company": "AmRest",
+   "url": "https://www.linkedin.com/jobs/view/4486168634/",
+   "key": "construction project manager h f|amrest",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Le poste est un Construction Project Manager pilotant des travaux de restaurants (CAPEX, plannings, normes ERP), sans aucun lien avec la qualité ou le traitement de l'eau ni avec la chimie. Niveau ingénieur, mais exigence de 5 ans d'expérience minimum, hors périmètre de la candidate."
+  },
+  "4484360560": {
+   "status": "screened_out",
+   "title": "Responsable administratif et financier des moyens généraux",
+   "company": "Ville de Meudon",
+   "url": "https://www.linkedin.com/jobs/view/4484360560/",
+   "key": "responsable administratif et financier des moyens generaux|ville",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Le poste est un poste administratif et financier de gestion des moyens généraux d'une collectivité (marchés publics, budget, encadrement de l'accueil, locations d'autobus, parkings), sans aucun lien avec l'eau ni la chimie. Il demande un diplôme de niveau BTS à Master 2 en administration publique, pas un profil Bac+5 scientifique."
+  },
+  "4485714666": {
+   "status": "screened_out",
+   "title": "Ingénieur Traitement du Signal et Validation des Performances (H/F)",
+   "company": "ALTEN",
+   "url": "https://www.linkedin.com/jobs/view/4485714666/",
+   "key": "ingenieur traitement du signal et validation des performances h f|alten",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Le poste porte sur le traitement du signal analogique, MATLAB, filtrage et validation de performances de chaînes optroniques pour l'aéronautique et la défense, sans lien avec l'eau. Le niveau est ingénieur Bac+5 mais la section Expérience demande une première expérience sans durée précisée, et le contrat n'est pas indiqué."
+  },
+  "4485720799": {
+   "status": "screened_out",
+   "title": "Pilotage Industrialisation Procédés Spéciaux - DVI - F/H",
+   "company": "Safran Engineering Services",
+   "url": "https://www.linkedin.com/jobs/view/4485720799/",
+   "key": "pilotage industrialisation procedes speciaux dvi f h|safran",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Le poste porte sur l'industrialisation et la qualification de procédés spéciaux (traitement de surface, traitement thermique) dans l'aéronautique, sans lien avec l'eau ni la chimie des eaux. Il demande un diplôme d'ingénieur ou Bac+5 en mécanique/matériaux, avec une première expérience en production, sans durée précisée."
+  },
+  "4484363406": {
+   "status": "screened_out",
+   "title": "Ingénieur Méthodes (H/F)",
+   "company": "ALTEN",
+   "url": "https://www.linkedin.com/jobs/view/4484363406/",
+   "key": "ingenieur methodes h f|alten",
+   "at": "2026-11-02T13:51:49+00:00",
+   "reason": "Poste d'ingénieur méthodes en procédés de forgeage (simulation numérique, gammes de fabrication, outillages) pour l'aéronautique et la métallurgie, sans lien avec l'eau ni la chimie des eaux. Niveau ingénieur Bac+5 avec au moins 2 ans d'expérience demandée, CDI non précisé mais Boulogne-Billancourt (92)."
   }
  }
 }
