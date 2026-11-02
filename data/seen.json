@@ -9696,6 +9696,138 @@
    "key": "modelisation des materiaux beton en crash f h|orano",
    "at": "2026-11-02T11:33:39+00:00",
    "reason": "Stage de fin d'études en modélisation numérique de béton pour simulations de crash (LS-Dyna) chez Orano, sans lien avec l'eau. Le poste est un stage (gratification), niveau master et non un poste Bac+5 cadre."
+  },
+  "4478396620": {
+   "status": "title_excluded",
+   "title": "STAGE DE FIN D'ETUDES - Chargé Environnement H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4478396620/",
+   "key": "stage de fin d etudes charge environnement h f|nge",
+   "at": "2026-11-02T12:36:36+00:00"
+  },
+  "4485704160": {
+   "status": "title_excluded",
+   "title": "Quantum Photonics Research Intern (H1/2027)",
+   "company": "Quandela",
+   "url": "https://www.linkedin.com/jobs/view/4485704160/",
+   "key": "quantum photonics research intern h1 2027|quandela",
+   "at": "2026-11-02T12:36:36+00:00"
+  },
+  "4486150935": {
+   "status": "title_excluded",
+   "title": "STAGE – Ingénieur R&D Implémentation de la couche physique OMS sur RF SoC F/H",
+   "company": "STMicroelectronics France",
+   "url": "https://www.linkedin.com/jobs/view/4486150935/",
+   "key": "stage ingenieur r d implementation de la couche physique oms sur rf soc f h|stmicroelectronics",
+   "at": "2026-11-02T12:36:36+00:00"
+  },
+  "4486163348": {
+   "status": "screened_out",
+   "title": "Chef de projet hydrogéologue - H/F",
+   "company": "SUEZ",
+   "url": "https://www.linkedin.com/jobs/view/4486163348/",
+   "key": "chef de projet hydrogeologue h f|suez",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Le poste de chef de projet hydrogéologue porte sur la ressource en eaux souterraines (forages, modélisation de nappe, dossiers loi sur l'eau), donc relevant pour le domaine ressources en eau, malgré un profil plus hydrogéologie que qualité ou traitement. Niveau Bac+5 cadre mais exige 10 ans d'expérience minimum, donc experience_ok false ; contrat CDI à Nanterre (Île-de-France)."
+  },
+  "4485345480": {
+   "status": "screened_out",
+   "title": "Coordinateur(trice) Qualité",
+   "company": "Labo Cos",
+   "url": "https://www.linkedin.com/jobs/view/4485345480/",
+   "key": "coordinateur trice qualite|labo",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste de coordinateur qualité dans un laboratoire cosmétique et usine de production, avec des missions majoritairement qualité produit (contrôles organoleptiques, microbiologiques, gestion documentaire, audits), la seule composante eau étant les contrôles environnementaux. Niveau Bac+3 demandé et statut agent de maîtrise, expérience non chiffrée, contrat CDD évolutif vers CDI à Brie-Comte-Robert (77)."
+  },
+  "4450361713": {
+   "status": "screened_out",
+   "title": "Juriste droit nucléaire et de l'environnement H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4450361713/",
+   "key": "juriste droit nucleaire et de l environnement h f|cea",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste de juriste en droit nucléaire et de l'environnement : assistance juridique, veille, contentieux et formation, sans aucune mission liée à l'eau ni au traitement ou à l'analyse des eaux. Le niveau Bac+5 convient, mais l'expérience demandée de 4 à 6 ans dépasse le profil junior de la candidate."
+  },
+  "4486147801": {
+   "status": "screened_out",
+   "title": "Responsable de centre de service (H/F)",
+   "company": "SUEZ",
+   "url": "https://www.linkedin.com/jobs/view/4486147801/",
+   "key": "responsable de centre de service h f|suez",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste de responsable de centre de service de collecte de déchets (management d'équipe, exploitation, RH, budget), sans lien avec la qualité ou le traitement de l'eau. Il exige 5 ans minimum d'expérience en management d'équipe, ce qui est hors profil junior."
+  },
+  "4486154650": {
+   "status": "screened_out",
+   "title": "Chercheur postdoctoral sur la modélisation des courants océaniques (H/F)",
+   "company": "Centre Lasers Intenses et Applications",
+   "url": "https://www.linkedin.com/jobs/view/4486154650/",
+   "key": "chercheur postdoctoral sur la modelisation des courants oceaniques h f|centre",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste de chercheur postdoctoral en modélisation numérique des courants océaniques (NEMO, supercalculateur, turbulence et circulation océanique), sans lien avec la qualité ou le traitement de l'eau au sens du profil. Niveau doctorat (Bac+8), CDD de 24 mois à Paris, expérience passée en modélisation de l'océan demandée sans durée précisée."
+  },
+  "4486167096": {
+   "status": "screened_out",
+   "title": "Chercheur postdoctoral en nanoparticules par traitement laser (H/F)",
+   "company": "Centre Lasers Intenses et Applications",
+   "url": "https://www.linkedin.com/jobs/view/4486167096/",
+   "key": "chercheur postdoctoral en nanoparticules par traitement laser h f|centre",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Postdoctorat en fabrication de nanoparticules diélectriques par traitement laser et caractérisation optique, sans lien avec la qualité ou le traitement de l'eau ; niveau doctorat (recherche), CDD de 21 mois à Paris."
+  },
+  "4441104646": {
+   "status": "screened_out",
+   "title": "Ingénieur Environnement – Spécialité Produits chimiques et Matériaux (H/F)",
+   "company": "Vulcain Engineering Group",
+   "url": "https://www.linkedin.com/jobs/view/4441104646/",
+   "key": "ingenieur environnement specialite produits chimiques et materiaux h f|vulcain",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Le poste porte sur la gestion du risque amiante en CNPE (nucléaire) : pilotage de plans d'actions, PMO, reporting et coordination multi-sites, sans lien avec la qualité ou le traitement des eaux. Niveau cadre Bac+5 mais 5 ans d'expérience minimum demandés, et type de contrat non précisé."
+  },
+  "4486169050": {
+   "status": "screened_out",
+   "title": "Calcul du dichroïsme magneto-chiral des rayons X (H/F)",
+   "company": "Centre Lasers Intenses et Applications",
+   "url": "https://www.linkedin.com/jobs/view/4486169050/",
+   "key": "calcul du dichroisme magneto chiral des rayons x h f|centre",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Post-doctorat en calcul de dichroïsme magnéto-chiral des rayons X (physique du solide, magnétisme, synchrotron) sans aucun lien avec l'eau ; niveau doctorat, pas Bac+5 ingénieur/cadre, avec expérience non précisée et CDD de 15 mois à Paris."
+  },
+  "4478393757": {
+   "status": "screened_out",
+   "title": "Responsable Géotechnique H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4478393757/",
+   "key": "responsable geotechnique h f|nge",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste de Responsable Géotechnique en BTP (fondations, soutènements, terrassements, ouvrages provisoires) pour ingénieur géotechnicien Bac+5, sans lien avec l'eau ni la qualité des eaux. Il exige au moins 5 ans d'expérience, contrairement au profil junior de la candidate."
+  },
+  "4475693778": {
+   "status": "screened_out",
+   "title": "Ingénieur chargé d’études capacitaires F/H",
+   "company": "Civils de la Défense",
+   "url": "https://www.linkedin.com/jobs/view/4475693778/",
+   "key": "ingenieur charge d etudes capacitaires f h|civils",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste d'ingénieur chargé d'études capacitaires à la DGA portant sur l'analyse technico-opérationnelle de systèmes d'armes, sans lien avec l'eau ni avec la chimie. Niveau Bac+5, aucune expérience chiffrée demandée, contrat non précisé, basé à Arcueil (Val-de-Marne, 94)."
+  },
+  "4486168279": {
+   "status": "screened_out",
+   "title": "Ingénieur d'études nouveaux concepts de véhicules aérospatiaux (H/F)",
+   "company": "ONERA - The French Aerospace Lab",
+   "url": "https://www.linkedin.com/jobs/view/4486168279/",
+   "key": "ingenieur d etudes nouveaux concepts de vehicules aerospatiaux h f|onera",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Le poste porte sur la conception et la modélisation de performances de véhicules aérospatiaux à propulsion aérobie (aéro-propulsion, MDAO), sans lien avec l'eau ni la chimie des eaux. Le niveau est ingénieur/docteur, mais l'expérience aéronautique requise est souhaitée et non chiffrée, avec un profil cadre en aéro-propulsion."
+  },
+  "4486148860": {
+   "status": "screened_out",
+   "title": "H/F Ingénieur de Recherche Biologie Cellulaire et Moléculaire",
+   "company": "Centre Lasers Intenses et Applications",
+   "url": "https://www.linkedin.com/jobs/view/4486148860/",
+   "key": "h f ingenieur de recherche biologie cellulaire et moleculaire|centre",
+   "at": "2026-11-02T12:36:36+00:00",
+   "reason": "Poste d'ingénieur de recherche en biologie cellulaire et moléculaire (O-GlcNAcylation, macrophages, culture cellulaire, biologie moléculaire) sans aucun lien avec la qualité ou le traitement de l'eau ; niveau Doctorat et expérience de 1 à 4 ans, contrat CDD de 15 mois à Paris."
   }
  }
 }
