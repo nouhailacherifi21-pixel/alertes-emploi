@@ -11855,6 +11855,23 @@
    "key": "integration des actions topologiques au calcul des capacites d accueil du reseau electrique|edf",
    "at": "2026-11-03T17:43:12+00:00",
    "reason": "Stage de fin d'études ou de césure en R&D électrique (réseau électrique, actions topologiques, capacités d'accueil, Python) : aucune mission liée à l'eau ni à la qualité des eaux. Le niveau est étudiant (stage de 5 à 6 mois), non cadre, et le contrat est un stage."
+  },
+  "4486066616": {
+   "status": "duplicate",
+   "title": "Ingénieur Procédés & Optimisation Énergétique (H/F)",
+   "company": "Talents Industrie",
+   "url": "https://www.linkedin.com/jobs/view/4486066616/",
+   "key": "ingenieur procedes optimisation energetique h f|talents",
+   "at": "2026-11-03T18:28:56+00:00"
+  },
+  "4485004449": {
+   "status": "screened_out",
+   "title": "Ingénieur Calcul Tuyauterie / équipements sous pression H/F",
+   "company": "HOUSE OF ABY",
+   "url": "https://www.linkedin.com/jobs/view/4485004449/",
+   "key": "ingenieur calcul tuyauterie equipements sous pression h f|house",
+   "at": "2026-11-03T18:28:56+00:00",
+   "reason": "Le poste est un calcul de contraintes et flexibilité de tuyauterie (pipe stress) pour des installations industrielles, sans lien avec la qualité ou le traitement de l'eau. Le niveau est ingénieur Bac+2 à Bac+5 avec une première expérience demandée, sans durée précise, et le contrat n'est pas indiqué."
   }
  }
 }
