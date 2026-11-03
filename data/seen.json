@@ -10890,6 +10890,66 @@
    "key": "chef de l unite maintenance tous corps d etat h f|service",
    "at": "2026-11-03T09:01:51+00:00",
    "reason": "Poste de chef d'unité maintenance tous corps d'état dans un service d'incendie, orienté bâtiment, électricité et encadrement d'équipe technique, sans lien avec l'eau. Niveau ingénieur ou technicien Bac+2 à Bac+5, avec encadrement d'équipe et expérience significative demandée."
+  },
+  "4478576560": {
+   "status": "title_excluded",
+   "title": "Stagiaire en Energie et Utilities F/H",
+   "company": "PwC France",
+   "url": "https://www.linkedin.com/jobs/view/4478576560/",
+   "key": "stagiaire en energie et utilities f h|pwc",
+   "at": "2026-11-03T10:03:56+00:00"
+  },
+  "4486843175": {
+   "status": "title_excluded",
+   "title": "Directeur d’Activités Construction SPS  H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4486843175/",
+   "key": "directeur d activites construction sps h f|socotec",
+   "at": "2026-11-03T10:03:56+00:00"
+  },
+  "4478392895": {
+   "status": "title_excluded",
+   "title": "STAGE - Technicien early sécurité non clinique (H/F)",
+   "company": "Servier France",
+   "url": "https://www.linkedin.com/jobs/view/4478392895/",
+   "key": "stage technicien early securite non clinique h f|servier",
+   "at": "2026-11-03T10:03:56+00:00"
+  },
+  "4484651591": {
+   "status": "screened_out",
+   "title": "Auditeur préleveur (H/F) en restauration collective",
+   "company": "Qualtech Groupe",
+   "url": "https://www.linkedin.com/jobs/view/4484651591/",
+   "key": "auditeur preleveur h f en restauration collective|qualtech",
+   "at": "2026-11-03T10:03:56+00:00",
+   "reason": "Poste d'auditeur préleveur en restauration collective : prélèvements alimentaires, d'eau et de surface et audits chez des clients, au niveau technicien/opérationnel (BAC+2 demandé). Ce n'est pas un poste d'ingénieur sur la qualité des eaux, et il est orienté agro-alimentaire et terrain."
+  },
+  "4486831740": {
+   "status": "screened_out",
+   "title": "CHEF DE CHANTIER CVC / Plomberie H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4486831740/",
+   "key": "chef de chantier cvc plomberie h f|nge",
+   "at": "2026-11-03T10:03:56+00:00",
+   "reason": "Chef de chantier CVC/plomberie en BTP : missions d'encadrement d'équipes, lecture de plans et installation de réseaux, sans rapport avec la qualité ou le traitement des eaux en laboratoire. Niveau technicien-terrain (CAP/BEP à Bac+2, 10 ans d'expérience exigés), contrat non précisé."
+  },
+  "4486835531": {
+   "status": "screened_out",
+   "title": "Chargé d'Affaires CVC / Plomberie H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4486835531/",
+   "key": "charge d affaires cvc plomberie h f|nge",
+   "at": "2026-11-03T10:03:56+00:00",
+   "reason": "Poste de chargé d'affaires CVC/plomberie en génie climatique et bâtiment, sans rapport avec la qualité ou le traitement de l'eau : il s'agit de chiffrage, négociation et suivi de chantiers. Il demande Bac+5 ou Bac+2/3 et au moins 10 ans d'expérience, sans CDD/CDI précisé."
+  },
+  "4467605978": {
+   "status": "screened_out",
+   "title": "Microanalysis Instrumentation Engineer",
+   "company": "AMETEK",
+   "url": "https://www.linkedin.com/jobs/view/4467605978/",
+   "key": "microanalysis instrumentation engineer|ametek",
+   "at": "2026-11-03T10:03:56+00:00",
+   "reason": "Poste d'ingénieur instrumentation en microanalyse (CAMECA) : réglage, test et installation d'instruments scientifiques, SAV et formation clients, sans lien avec l'eau. Niveau ingénieur Bac+5 mais domaine hors eau (instrumentation physique, vide, électronique) et expérience en début de carrière non précisée."
   }
  }
 }
