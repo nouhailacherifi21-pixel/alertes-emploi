@@ -10847,6 +10847,49 @@
    "key": "inspecteur de salubrite|ville",
    "at": "2026-11-03T08:07:12+00:00",
    "reason": "Le poste d'inspecteur de salubrité porte sur l'hygiène de l'habitat, l'hygiène alimentaire et la sécurité incendie des ERP, sans lien avec la qualité ou le traitement des eaux. Il s'agit d'un poste de technicien territorial (bac+2 minimum), pas d'un poste Bac+5 d'ingénieur ou de chargé d'études."
+  },
+  "4486840112": {
+   "status": "duplicate",
+   "title": "Chef / Cheffe de Projets Dépollution du bâti (amiante et plomb) – Déconstruction / Démantèlement",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4486840112/",
+   "key": "chef chef de projets depollution du bati amiante et plomb deconstruction demantelement|artelia",
+   "at": "2026-11-03T09:01:51+00:00"
+  },
+  "4486841111": {
+   "status": "title_excluded",
+   "title": "Consultant stagiaire Energy & Utilities H/F",
+   "company": "BearingPoint",
+   "url": "https://www.linkedin.com/jobs/view/4486841111/",
+   "key": "consultant stagiaire energy utilities h f|bearingpoint",
+   "at": "2026-11-03T09:01:51+00:00"
+  },
+  "4477379397": {
+   "status": "screened_out",
+   "title": "Chargé de travaux espaces verts des collèges",
+   "company": "Département des Hauts-de-Seine",
+   "url": "https://www.linkedin.com/jobs/view/4477379397/",
+   "key": "charge de travaux espaces verts des colleges|departement",
+   "at": "2026-11-03T09:01:51+00:00",
+   "reason": "Le poste de chargé de travaux espaces verts porte sur l'aménagement, l'entretien et la coordination de chantiers d'espaces verts pour des collèges, sans lien avec la qualité ou le traitement de l'eau. Le niveau et l'expérience ne sont pas précisés, le contrat non indiqué et le lieu est Colombes (Hauts-de-Seine)."
+  },
+  "4486830525": {
+   "status": "screened_out",
+   "title": "Plombier",
+   "company": "MCE Rénovation",
+   "url": "https://www.linkedin.com/jobs/view/4486830525/",
+   "key": "plombier|mce",
+   "at": "2026-11-03T09:01:51+00:00",
+   "reason": "Poste de plombier(ère) en installation, réparation et dépannage de réseaux sanitaires et de chauffage, sur chantiers et chez les clients : métier technique du bâtiment, sans lien avec la qualité ou l'analyse des eaux. Niveau technicien/artisan (diplôme plomberie), non Bac+5."
+  },
+  "4467508190": {
+   "status": "screened_out",
+   "title": "Chef de l'unité maintenance Tous Corps d'Etat H/F",
+   "company": "Service Départemental d'Incendie et de Secours du Val-d'Oise - SDIS 95",
+   "url": "https://www.linkedin.com/jobs/view/4467508190/",
+   "key": "chef de l unite maintenance tous corps d etat h f|service",
+   "at": "2026-11-03T09:01:51+00:00",
+   "reason": "Poste de chef d'unité maintenance tous corps d'état dans un service d'incendie, orienté bâtiment, électricité et encadrement d'équipe technique, sans lien avec l'eau. Niveau ingénieur ou technicien Bac+2 à Bac+5, avec encadrement d'équipe et expérience significative demandée."
   }
  }
 }
