@@ -11988,6 +11988,67 @@
    "key": "medical grade alloy processing engineer|chimie",
    "at": "2026-11-04T08:18:54+00:00",
    "reason": "L'offre porte sur la métallurgie des alliages médicaux (NiTi, CoCr) : préparation d'échantillons métalliques, caractérisation, traitements thermomécaniques, sans lien avec l'eau. Le poste est de niveau ingénieur en formation, avec un contrat d'un an renouvelable à Paris puis Barcelone, et aucune expérience exigée."
+  },
+  "4484699262": {
+   "status": "title_excluded",
+   "title": "Chargé qualité et amélioration continue - stage H/F/NB",
+   "company": "Thalie Santé",
+   "url": "https://www.linkedin.com/jobs/view/4484699262/",
+   "key": "charge qualite et amelioration continue stage h f nb|thalie",
+   "at": "2026-11-04T09:26:04+00:00"
+  },
+  "4487240259": {
+   "status": "duplicate",
+   "title": "INGÉNIEUR ESSAIS STRUCTURE (H/F)",
+   "company": "FLYING WHALES",
+   "url": "https://www.linkedin.com/jobs/view/4487240259/",
+   "key": "ingenieur essais structure h f|flying",
+   "at": "2026-11-04T09:26:04+00:00"
+  },
+  "4459529914": {
+   "status": "screened_out",
+   "title": "Laborantin Microbiologique H/F",
+   "company": "ALS",
+   "url": "https://www.linkedin.com/jobs/view/4459529914/",
+   "key": "laborantin microbiologique h f|als",
+   "at": "2026-11-04T09:26:04+00:00",
+   "reason": "Poste de laborantin microbiologique (技术 niveau CAP à Bac STL) en laboratoire alimentaire, sans lien avec l'eau : missions de nettoyage, gestion de consommables et analyses microbiologiques. Niveau technicien, hors domaine eau, expérience de 6 mois à 1 an demandée, CDI à Paris."
+  },
+  "4485066780": {
+   "status": "screened_out",
+   "title": "Responsable Qualité Hygiène Sécurité Environnement (H/F)",
+   "company": "ROT - PROTECTION INCENDIE",
+   "url": "https://www.linkedin.com/jobs/view/4485066780/",
+   "key": "responsable qualite hygiene securite environnement h f|rot",
+   "at": "2026-11-04T09:26:04+00:00",
+   "reason": "Poste de Responsable QHSE en site industriel de fabrication de matériel incendie (Gretz-Armainvilliers) : pilotage des systèmes qualité ISO 9001, sécurité, environnement et ICPE, avec management de 3 personnes. Aucune mission liée à l'eau, niveau Bac+5 mais expérience confirmée de 5 ans minimum et management d'équipe."
+  },
+  "4485077162": {
+   "status": "screened_out",
+   "title": "RESPONSABLE TECHNIQUE INCENDIE – SERVICE HYDRAULIQUE (H/F)",
+   "company": "ROT - PROTECTION INCENDIE",
+   "url": "https://www.linkedin.com/jobs/view/4485077162/",
+   "key": "responsable technique incendie service hydraulique h f|rot",
+   "at": "2026-11-04T09:26:04+00:00",
+   "reason": "Poste de responsable technique en protection incendie hydraulique (RIA, PIA, poteaux incendie), avec management d'équipe et suivi de chantiers : aucune mission ne porte sur la qualité de l'eau, les analyses ou le traitement des eaux, le lien avec l'eau étant purement lié à l'hydraulique incendie. Le poste est cadre, en CDI, à Gretz-Armainvilliers (77), mais demande 3 à 5 ans d'expérience minimum et du management d'équipe."
+  },
+  "4461094044": {
+   "status": "screened_out",
+   "title": "Technico-Commercial Itinérant AW H/F",
+   "company": "Xylem",
+   "url": "https://www.linkedin.com/jobs/view/4461094044/",
+   "key": "technico commercial itinerant aw h f|xylem",
+   "at": "2026-11-04T09:26:04+00:00",
+   "reason": "Poste de technico-commercial itinérant (vente B2B de solutions techniques eau/pompage) : missions principalement commerciales, prospection et négociation, sans travail d'analyse ni de traitement de l'eau. Niveau non Bac+5 explicite, exige 5 ans minimum d'expérience en vente, en CDI basé à Nanterre."
+  },
+  "4486354375": {
+   "status": "screened_out",
+   "title": "Quantum Optics Scientist - Spin-Based Quantum Systems",
+   "company": "Quandela",
+   "url": "https://www.linkedin.com/jobs/view/4486354375/",
+   "key": "quantum optics scientist spin based quantum systems|quandela",
+   "at": "2026-11-04T09:26:04+00:00",
+   "reason": "Offre de chercheur expérimental en optique quantique et physique des spins (PhD exigé, 4+ ans de postdoc) chez Quandela, sans lien avec la qualité ou le traitement de l'eau. Le poste est à Palaiseau, en CDI non précisé."
   }
  }
 }
