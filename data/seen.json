@@ -13449,6 +13449,82 @@
    "key": "ingenieur essais endurance climatique et mecanique moteurs electriques h f|segula",
    "at": "2026-11-05T11:36:22+00:00",
    "reason": "L'offre concerne des essais d'endurance mécanique et climatique sur moteurs électriques (automobile), sans lien avec l'eau ni avec la qualité, le traitement ou la chimie des eaux. Niveau Bac+5 et CDI à vérifier, mais le domaine est totalement hors profil."
+  },
+  "4479701562": {
+   "status": "title_excluded",
+   "title": "Technicien(ne) Optimisation Analytique H/F",
+   "company": "Septodont",
+   "url": "https://www.linkedin.com/jobs/view/4479701562/",
+   "key": "technicien optimisation analytique h f|septodont",
+   "at": "2026-11-05T12:40:04+00:00"
+  },
+  "4486728643": {
+   "status": "title_excluded",
+   "title": "STAGE 6 MOIS - À PARTIR DE JANVIER 2027 - INGÉNIEUR DE FORMULATION - SOIN & PHOTOPROTECTION- BAC+2/+3",
+   "company": "STATION F",
+   "url": "https://www.linkedin.com/jobs/view/4486728643/",
+   "key": "stage 6 mois a partir de janvier 2027 ingenieur de formulation soin photoprotection bac 2 3|station",
+   "at": "2026-11-05T12:40:04+00:00"
+  },
+  "4485813820": {
+   "status": "duplicate",
+   "title": "Responsable d'Exploitation (F/H)",
+   "company": "Veolia",
+   "url": "https://www.linkedin.com/jobs/view/4485813820/",
+   "key": "responsable d exploitation f h|veolia",
+   "at": "2026-11-05T12:40:04+00:00"
+  },
+  "4366860952": {
+   "status": "title_excluded",
+   "title": "Consultant.e Senior - Energie",
+   "company": "Colombus Consulting",
+   "url": "https://www.linkedin.com/jobs/view/4366860952/",
+   "key": "consultant senior energie|colombus",
+   "at": "2026-11-05T12:40:04+00:00"
+  },
+  "4478498420": {
+   "status": "title_excluded",
+   "title": "Stage M2 6 mois : Caractérisation des effets d'irradiation dans un acier pour la IVè génération H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4478498420/",
+   "key": "stage m2 6 mois caracterisation des effets d irradiation dans un acier pour la ive generation h f|cea",
+   "at": "2026-11-05T12:40:04+00:00"
+  },
+  "4485825268": {
+   "status": "screened_out",
+   "title": "agent d'exploitation d'usine d'assainissement",
+   "company": "SIAAP",
+   "url": "https://www.linkedin.com/jobs/view/4485825268/",
+   "key": "agent d exploitation d usine d assainissement|siaap",
+   "at": "2026-11-05T12:40:04+00:00",
+   "reason": "Poste d'agent d'exploitation d'usine d'assainissement au SIAAP : conduite d'installations, maintenance de niveau 1 et 2, rondes, prélèvements et analyses rapides, avec un CAP/BEP exigé. Niveau agent, bien en deçà du Bac+5 visé, et le contrat n'est pas indiqué."
+  },
+  "4487755376": {
+   "status": "screened_out",
+   "title": "2 offres : Projeteur Revit / Ingénieur Etudes CFO-CFA - Tertiaire et Industrie H/F",
+   "company": "Auxys",
+   "url": "https://www.linkedin.com/jobs/view/4487755376/",
+   "key": "2 offres projeteur revit ingenieur etudes cfo cfa tertiaire et industrie h f|auxys",
+   "at": "2026-11-05T12:40:04+00:00",
+   "reason": "Offre de bureau d'études bâtiment (modélisation Revit, études électriques CFO-CFA, coordination avec les lots techniques) sans aucun lien avec la qualité ou le traitement des eaux, donc hors domaines pertinents. Niveau mixte (projeteur BTS/DUT, ingénieur Bac+3 à Bac+5) et expérience de 3 ans minimum, en CDI non précisé en Île-de-France."
+  },
+  "4479540881": {
+   "status": "screened_out",
+   "title": "Ingénieur Etudes H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4479540881/",
+   "key": "ingenieur etudes h f|nge",
+   "at": "2026-11-05T12:40:04+00:00",
+   "reason": "Poste d'ingénieur bureau d'études ferroviaire (infrastructures de caténaires, calculs de structures mécaniques, plans techniques) sans lien avec l'eau ; niveau ingénieur, expérience demandée 2-3 ans, lieu Issy-les-Moulineaux (Île-de-France). Contrat non indiqué."
+  },
+  "4469447848": {
+   "status": "screened_out",
+   "title": "Stochastic nEutron Noise Techniques for onlINE surveiLLance - SENTINELLE H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4469447848/",
+   "key": "stochastic neutron noise techniques for online surveillance sentinelle h f|cea",
+   "at": "2026-11-05T12:40:04+00:00",
+   "reason": "Post-doc de deux ans en neutronique : développement d'un solveur numérique GPU pour les équations du bruit neutronique, lié à la surveillance de réacteurs nucléaires. Aucune mission sur l'eau, il s'agit de physique des réacteurs et de HPC, et le niveau demandé est Bac+8 (PhD)."
   }
  }
 }
