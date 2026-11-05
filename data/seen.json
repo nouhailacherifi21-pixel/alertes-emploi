@@ -14270,6 +14270,50 @@
    "key": "ingenieur developpement moyens d essais mecanique f h|safran",
    "at": "2026-11-05T19:47:02+00:00",
    "reason": "Poste d'ingénieur en développement de moyens d'essais mécaniques (architecture mécanique, dimensionnement, intégration de bancs d'essais) chez Safran à Colombes, sans lien avec l'eau ni la chimie. Il demande un Bac+5 en génie mécanique et plus de 5 ans d'expérience."
+  },
+  "4485870056": {
+   "status": "duplicate",
+   "title": "Thermal Leader (m/f)",
+   "company": "FLYING WHALES",
+   "url": "https://www.linkedin.com/jobs/view/4485870056/",
+   "key": "thermal leader m f|flying",
+   "at": "2026-11-05T21:26:21+00:00"
+  },
+  "4485872031": {
+   "status": "screened_out",
+   "title": "Ingénieur Matériaux & Procédés – Composite Aéronautique",
+   "company": "FLYING WHALES",
+   "url": "https://www.linkedin.com/jobs/view/4485872031/",
+   "key": "ingenieur materiaux procedes composite aeronautique|flying",
+   "at": "2026-11-05T21:26:21+00:00",
+   "reason": "L'offre porte sur les matériaux composites aéronautiques (qualification, essais, spécifications pour le LCA60T), sans lien avec l'eau ni la chimie des eaux. Le poste est de niveau ingénieur, mais la lieu indiqué est contradictoire (Puteaux dans l'en-tête, Suresnes dans le texte, toutes deux en Île-de-France) et l'expérience aéronautique forte est demandée sans durée précise."
+  },
+  "4485868085": {
+   "status": "screened_out",
+   "title": "Remote Quantum Process Integration Engineer",
+   "company": "AVP",
+   "url": "https://www.linkedin.com/jobs/view/4485868085/",
+   "key": "remote quantum process integration engineer|avp",
+   "at": "2026-11-05T21:26:21+00:00",
+   "reason": "Poste d'intégration 3D de processeurs quantiques (airbridges, flip-chip, TSV, nanofabrication supraconductrice) sans aucun lien avec l'eau ni la chimie des eaux, malgré le titre d'ingénieur. Il demande un PhD ou Master en physique/matériaux et 3 ans ou plus d'expérience en intégration 3D, hors du profil de la candidate."
+  },
+  "4485859581": {
+   "status": "screened_out",
+   "title": "Ingénieur Moyens d'Essais - Harnais Satellites",
+   "company": "SERMA Group",
+   "url": "https://www.linkedin.com/jobs/view/4485859581/",
+   "key": "ingenieur moyens d essais harnais satellites|serma",
+   "at": "2026-11-05T21:26:21+00:00",
+   "reason": "L'offre concerne la conception et le dimensionnement de harnais électriques pour satellites, sans aucun lien avec l'eau ni la chimie des eaux, donc hors domaine. Le poste est de niveau ingénieur, mais l'expérience sur systèmes spatiaux est exigée sans durée précisée et n'a pas de rapport avec le profil."
+  },
+  "4488001767": {
+   "status": "screened_out",
+   "title": "Trainee Engineer - Rigid Riser",
+   "company": "Subsea7",
+   "url": "https://www.linkedin.com/jobs/view/4488001767/",
+   "key": "trainee engineer rigid riser|subsea7",
+   "at": "2026-11-05T21:26:21+00:00",
+   "reason": "Le poste concerne la conception et l'analyse dynamique de colonnes montantes offshore (mécanique des milieux continus, hydrodynamique numérique), sans lien avec la qualité ou le traitement de l'eau au sens de la candidate. Niveau Master 2 / ingénieur, expérience non précisée, contrat non indiqué, lieu Paris."
   }
  }
 }
