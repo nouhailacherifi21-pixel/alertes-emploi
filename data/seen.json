@@ -15552,6 +15552,72 @@
    "key": "ingenieur equipements rf fusees de proximite f h|mbda",
    "at": "2026-11-06T17:19:46+00:00",
    "reason": "Le poste porte sur les équipements RF et fusées de proximité de missiles anti-aériens, sans lien avec l'eau ni la chimie. Niveau ingénieur, expérience d'au moins 3 ans demandée, contrat non précisé, localisation au Plessis-Robinson (Hauts-de-Seine, Île-de-France)."
+  },
+  "4488401451": {
+   "status": "title_excluded",
+   "title": "Consultant technicien qualification H/F",
+   "company": "COPHACLEAN",
+   "url": "https://www.linkedin.com/jobs/view/4488401451/",
+   "key": "consultant technicien qualification h f|cophaclean",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4414486671": {
+   "status": "title_excluded",
+   "title": "Technicien Laboratoire H/F",
+   "company": "Hexcel Corporation",
+   "url": "https://www.linkedin.com/jobs/view/4414486671/",
+   "key": "technicien laboratoire h f|hexcel",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4487310729": {
+   "status": "title_excluded",
+   "title": "Senior LCA Methodology Engineer – Ingredients & Bioresources",
+   "company": "L'Oréal",
+   "url": "https://www.linkedin.com/jobs/view/4487310729/",
+   "key": "senior lca methodology engineer ingredients bioresources|l",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4472037122": {
+   "status": "title_excluded",
+   "title": "Stage Electronique : Caractérisation de centrale inertielle par algorithme de navigation F/H",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4472037122/",
+   "key": "stage electronique caracterisation de centrale inertielle par algorithme de navigation f h|mbda",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4480328635": {
+   "status": "title_excluded",
+   "title": "STAGE INGENIEUR(E) METHODE FABRICATION MATERIAUX F/H_07 FABTE_stg",
+   "company": "Saipem",
+   "url": "https://www.linkedin.com/jobs/view/4480328635/",
+   "key": "stage ingenieur methode fabrication materiaux f h 07 fabte stg|saipem",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4443936876": {
+   "status": "title_excluded",
+   "title": "Technicien Contrôle Qualité Produit Entrant (H/F) – Secteur Aéronautique",
+   "company": "Groupe SII",
+   "url": "https://www.linkedin.com/jobs/view/4443936876/",
+   "key": "technicien controle qualite produit entrant h f secteur aeronautique|groupe",
+   "at": "2026-11-06T18:13:36+00:00"
+  },
+  "4488190940": {
+   "status": "screened_out",
+   "title": "Application Scientist Cosmétique (H/F)",
+   "company": "Roquette",
+   "url": "https://www.linkedin.com/jobs/view/4488190940/",
+   "key": "application scientist cosmetique h f|roquette",
+   "at": "2026-11-06T18:13:36+00:00",
+   "reason": "Poste d'Application Scientist en formulation et évaluation de performances cosmétiques, sans lien avec l'eau (matières premières cosmétiques, formulations). Niveau Bac+5 mais hors domaine eau, CDD de 6 mois à Saint-Denis, expérience en formulation cosmétique demandée sans durée précisée."
+  },
+  "4486255657": {
+   "status": "screened_out",
+   "title": "Chargé de mission création de synergies FairCarboN",
+   "company": "École normale supérieure",
+   "url": "https://www.linkedin.com/jobs/view/4486255657/",
+   "key": "charge de mission creation de synergies faircarbon|ecole",
+   "at": "2026-11-06T18:13:36+00:00",
+   "reason": "Le poste porte sur la coordination de synergies entre le PEPR FairCarboN et une initiative sur le carbone des sols (cycle biogéochimique du C, modélisation des stocks de carbone), sans lien avec l'eau. Niveau ingénieur d'études (Bac+5), CDD de 8 mois, à Paris, sans expérience chiffrée."
   }
  }
 }
