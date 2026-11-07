@@ -16336,6 +16336,75 @@
    "key": "ingenieur validation des procedes de fabrication industrie pharmaceutique f h|meent",
    "at": "2026-11-07T13:35:24+00:00",
    "reason": "Poste d'ingénieur validation de procédés de fabrication pharmaceutique (GMP, validation de lots, déviations, CAPA), sans lien avec l'eau ni la chimie des eaux, donc hors domaine. Niveau Bac+5 et CDI à Boulogne-Billancourt, mais l'expérience exigée n'est pas chiffrée dans l'offre et le poste ne relève pas des domaines visés."
+  },
+  "4462850106": {
+   "status": "title_excluded",
+   "title": "Technicien Mesures Hyperfréquences - F/H",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4462850106/",
+   "key": "technicien mesures hyperfrequences f h|thales",
+   "at": "2026-11-07T14:25:28+00:00"
+  },
+  "4479382862": {
+   "status": "title_excluded",
+   "title": "Stage - Assistant Chargé de Qualité Produit Fini Maroquinerie (H/F)",
+   "company": "Hermès",
+   "url": "https://www.linkedin.com/jobs/view/4479382862/",
+   "key": "stage assistant charge de qualite produit fini maroquinerie h f|hermes",
+   "at": "2026-11-07T14:25:28+00:00"
+  },
+  "4479388006": {
+   "status": "title_excluded",
+   "title": "Stage - Pilotage modulaire des équipements d'inspection par RX-Saclay-(H/F)",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4479388006/",
+   "key": "stage pilotage modulaire des equipements d inspection par rx saclay h f|cea",
+   "at": "2026-11-07T14:25:28+00:00"
+  },
+  "4443916061": {
+   "status": "screened_out",
+   "title": "Diéteticien.ne - CDD 50% 24.08 au 04.09 - Viry Chatillon (91) H/F H/F",
+   "company": "emeis",
+   "url": "https://www.linkedin.com/jobs/view/4443916061/",
+   "key": "dieteticien ne cdd 50 24 08 au 04 09 viry chatillon 91 h f h f|emeis",
+   "at": "2026-11-07T14:25:28+00:00",
+   "reason": "Poste de diététicien(ne) en clinique, centré sur le conseil nutritionnel et l'éducation thérapeutique des patients, sans rapport avec l'eau. Niveau BTS/DUT, en contrat CDD à 50% de quelques semaines."
+  },
+  "4462840185": {
+   "status": "screened_out",
+   "title": "Responsable Intégration Validation Vérification Antennes F/H",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4462840185/",
+   "key": "responsable integration validation verification antennes f h|thales",
+   "at": "2026-11-07T14:25:28+00:00",
+   "reason": "Le poste porte sur l'intégration, validation et vérification d'antennes actives hyperfréquences (mesures en champ proche/lointain, chambres anéchoïques), sans lien avec l'eau ni la chimie. Niveau ingénieur mais plus de 15 ans d'expérience confirmée demandés."
+  },
+  "4374382927": {
+   "status": "screened_out",
+   "title": "Chercheur·euse en physique à haute intensité H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4374382927/",
+   "key": "chercheur euse en physique a haute intensite h f|cea",
+   "at": "2026-11-07T14:25:28+00:00",
+   "reason": "Poste de chercheur en physique des interactions laser-matière à haute intensité (plasmas, QED en champ fort), sans lien avec l'eau ni la chimie des eaux, malgré un niveau doctorat compatible avec un Bac+5 de recherche. Le contrat n'est pas précisé et le lieu est Saclay (Essonne, Île-de-France)."
+  },
+  "4462842183": {
+   "status": "screened_out",
+   "title": "Ingénieur Essais Système  (F/H)",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4462842183/",
+   "key": "ingenieur essais systeme f h|thales",
+   "at": "2026-11-07T14:25:28+00:00",
+   "reason": "Poste d'ingénieur essais système (IVVQ) sur la Conduite de Tir du SAMP/T NG pour le GIE Eurosam, relevant de la défense et non de l'eau : aucune mission liée à la qualité, au traitement ou aux milieux aquatiques. Niveau ingénieur et expérience confirmée demandée sans durée précisée, poste à Le Plessis-Robinson (Île-de-France), contrat non indiqué."
+  },
+  "4462846117": {
+   "status": "screened_out",
+   "title": "Thèse - Vulnérabilité Radio Fréquence",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4462846117/",
+   "key": "these vulnerabilite radio frequence|thales",
+   "at": "2026-11-07T14:25:28+00:00",
+   "reason": "Thèse CIFRE en vulnérabilité radiofréquence et compatibilité électromagnétique (CEM) chez Thales à Gennevilliers, sans aucun lien avec l'eau ni la chimie. Le poste relève de l'électronique, de la CEM et de la simulation, avec un niveau doctorat et un contrat CIFRE de durée non précisée."
   }
  }
 }
