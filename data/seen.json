@@ -16044,6 +16044,93 @@
    "reason": "Chef de projets en hydraulique urbaine et génie civil (bassins, réservoirs, stations d'épuration) pilotant maîtrise d'œuvre et aspects techniques, administratifs et financiers ; missions de gestion de projet de génie civil plutôt que de qualité ou analyse des eaux. Le niveau cadre est compatible, l'expérience demandée n'est pas précisée, le contrat non indiqué et le lieu est en Île-de-France.",
    "experience_required": "",
    "contract": ""
+  },
+  "4486639034": {
+   "status": "duplicate",
+   "title": "Ingenieur Essais Structure (H/F)",
+   "company": "FLYING WHALES",
+   "url": "https://www.linkedin.com/jobs/view/4486639034/",
+   "key": "ingenieur essais structure h f|flying",
+   "at": "2026-11-07T08:43:41+00:00"
+  },
+  "4486627519": {
+   "status": "duplicate",
+   "title": "Ingénieur Responsable Métrologie",
+   "company": "Step Up",
+   "url": "https://www.linkedin.com/jobs/view/4486627519/",
+   "key": "ingenieur responsable metrologie|step",
+   "at": "2026-11-07T08:43:41+00:00"
+  },
+  "4486614851": {
+   "status": "title_excluded",
+   "title": "Senior PIC Design Engineer – Quantum Photonics & Simulation",
+   "company": "Quandela",
+   "url": "https://www.linkedin.com/jobs/view/4486614851/",
+   "key": "senior pic design engineer quantum photonics simulation|quandela",
+   "at": "2026-11-07T08:43:41+00:00"
+  },
+  "4486621694": {
+   "status": "screened_out",
+   "title": "Failure Analysis Engineer - Quantum Chip Reliability",
+   "company": "Alice & Bob",
+   "url": "https://www.linkedin.com/jobs/view/4486621694/",
+   "key": "failure analysis engineer quantum chip reliability|alice",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "L'offre concerne l'analyse de défaillances de puces quantiques (tests électriques, SEM, AFM) en nanofabrication, sans lien avec l'eau ni la chimie des eaux. Le niveau ingénieur est adapté, mais l'expérience « experienced » est non chiffrée et le contrat et la localisation (Aubervilliers, Île-de-France) ne sont pas précisés comme contrainte."
+  },
+  "4486640041": {
+   "status": "screened_out",
+   "title": "Ingénieur Essais Structure — Télétravail & Croissance Rapide",
+   "company": "FLYING WHALES",
+   "url": "https://www.linkedin.com/jobs/view/4486640041/",
+   "key": "ingenieur essais structure teletravail croissance rapide|flying",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "L'offre concerne des essais de structures aéronautiques (bancs et dirigeables) sans aucun lien avec l'eau ni la chimie, malgré un niveau ingénieur. Elle demande 5 à 10 ans d'expérience, ce qui dépasse largement le profil junior de la candidate."
+  },
+  "4486630395": {
+   "status": "screened_out",
+   "title": "Lead Équipements Inertiels — Nav & R&D International",
+   "company": "L'Usine Nouvelle",
+   "url": "https://www.linkedin.com/jobs/view/4486630395/",
+   "key": "lead equipements inertiels nav r d international|l",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "Poste de Lead Équipements Inertiels en navigation (gyromètres, accéléromètres) chez MBDA, sans aucun lien avec l'eau ni la chimie : missions de pilotage d'études sur capteurs inertiels et suivi fournisseur. Niveau cadre, exigeant 6 ans d'expérience, pas de contrat indiqué."
+  },
+  "4486627380": {
+   "status": "screened_out",
+   "title": "LCA Product Specialist: Modular Science & Methodology",
+   "company": "FAIRLY MADE",
+   "url": "https://www.linkedin.com/jobs/view/4486627380/",
+   "key": "lca product specialist modular science methodology|fairly",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "L'offre porte sur l'analyse de cycle de vie (ACV/LCA) de produits : définition d'un calculateur, roadmap d'un moteur de calcul, méthodologie et documentation pour audits, sans lien avec la qualité ou le traitement de l'eau. Aucune mention de niveau, d'expérience ni de contrat n'est précisée dans le texte."
+  },
+  "4486631281": {
+   "status": "screened_out",
+   "title": "Ingénieur Électronique de Puissance - Conception & Tests",
+   "company": "Watt & Well",
+   "url": "https://www.linkedin.com/jobs/view/4486631281/",
+   "key": "ingenieur electronique de puissance conception tests|watt",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "L'offre porte sur la conception d'électronique de puissance (convertisseurs DC/DC, AC/DC, DC/AC, filtres CEM) sans aucun lien avec l'eau, la chimie des eaux ou les procédés de traitement. Le niveau ingénieur R&D est Bac+5 et l'expérience n'est pas précisée, mais le domaine est hors sujet."
+  },
+  "4486642038": {
+   "status": "screened_out",
+   "title": "Applied Scientist & Optimisation Engineer (EMEA)",
+   "company": "Mistral AI",
+   "url": "https://www.linkedin.com/jobs/view/4486642038/",
+   "key": "applied scientist optimisation engineer emea|mistral",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "L'offre concerne le post-entraînement de grands modèles de langage et la recherche opérationnelle pour Mistral AI, sans aucun lien avec l'eau, la chimie ou les procédés de traitement. Le niveau est ingénieur-chercheur (Bac+5 implicite) mais le domaine est hors sujet et l'expérience requise n'est pas précisée."
+  },
+  "4486635148": {
+   "status": "screened_out",
+   "title": "Quantum Optics Scientist: Bridge to Integrated QPU Modules",
+   "company": "Quandela",
+   "url": "https://www.linkedin.com/jobs/view/4486635148/",
+   "key": "quantum optics scientist bridge to integrated qpu modules|quandela",
+   "at": "2026-11-07T08:43:41+00:00",
+   "reason": "Poste R&D en optique quantique expérimentale (modules optiques pour processeurs quantiques photoniques), sans lien avec l'eau ni la chimie des eaux, avec exigence de PhD et d'expérience en systèmes quantiques photoniques. Hors domaine, à Massy (hors Île-de-France ? Massy est en Essonne, 91, donc IDF), contrat non précisé."
   }
  }
 }
