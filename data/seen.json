@@ -16173,6 +16173,81 @@
    "key": "tuyauteur industriel f h|eiffage",
    "at": "2026-11-07T10:16:48+00:00",
    "reason": "Poste de tuyauteur industriel et soudeur (BEP/Bac Pro chaudronnerie) en thermie industrielle, travaux de tuyautage et soudure acier/inox sur réseaux eau chaude, vapeur et eau glacée, sans lien avec l'analyse ou la qualité de l'eau. Niveau technicien, expérience confirmée requise, contrat non précisé, lieu Vélizy (78)."
+  },
+  "4460745114": {
+   "status": "title_excluded",
+   "title": "Directeur de travaux – Démantèlement industriel - Génie Civil - CDI F/H",
+   "company": "Eiffage Génie Civil",
+   "url": "https://www.linkedin.com/jobs/view/4460745114/",
+   "key": "directeur de travaux demantelement industriel genie civil cdi f h|eiffage",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4462306072": {
+   "status": "duplicate",
+   "title": "Responsable du département environnement informatique H/F",
+   "company": "Caisse nationale de l’Assurance Maladie",
+   "url": "https://www.linkedin.com/jobs/view/4462306072/",
+   "key": "responsable du departement environnement informatique h f|caisse",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4477381917": {
+   "status": "title_excluded",
+   "title": "Ingénieur Sûreté Nucléaire - Génie Civil - EPR2 – Stage TFE (F/H)",
+   "company": "Eiffage Génie Civil",
+   "url": "https://www.linkedin.com/jobs/view/4477381917/",
+   "key": "ingenieur surete nucleaire genie civil epr2 stage tfe f h|eiffage",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4477384753": {
+   "status": "title_excluded",
+   "title": "Ingénieur Conformité Technique - Génie Civil - EPR2 – Stage TFE (F/H)",
+   "company": "Eiffage Génie Civil",
+   "url": "https://www.linkedin.com/jobs/view/4477384753/",
+   "key": "ingenieur conformite technique genie civil epr2 stage tfe f h|eiffage",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4480509530": {
+   "status": "title_excluded",
+   "title": "Technicien Fiabilité / Vérification & Validation H/F",
+   "company": "Air Liquide Medical Systems",
+   "url": "https://www.linkedin.com/jobs/view/4480509530/",
+   "key": "technicien fiabilite verification validation h f|air",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4471460204": {
+   "status": "title_excluded",
+   "title": "Stage - Développement d'un code d'analyse d'efforts hydrauliques en Python F/H",
+   "company": "Framatome",
+   "url": "https://www.linkedin.com/jobs/view/4471460204/",
+   "key": "stage developpement d un code d analyse d efforts hydrauliques en python f h|framatome",
+   "at": "2026-11-07T11:10:23+00:00"
+  },
+  "4479653884": {
+   "status": "screened_out",
+   "title": "Acheteur(euse) Facility management Capex et Stratégie Energétique (M/F)",
+   "company": "Club Med",
+   "url": "https://www.linkedin.com/jobs/view/4479653884/",
+   "key": "acheteur facility management capex et strategie energetique m f|club",
+   "at": "2026-11-07T11:10:23+00:00",
+   "reason": "Poste d'acheteur Facility management, capex et énergies au Club Med : achats de services (nettoyage, maintenance, espaces verts, etc.), négociation et pilotage fournisseurs, sans aucun lien avec la qualité ou le traitement de l'eau. Niveau cadre avec expérience confirmée requise, CDI, basé à Paris."
+  },
+  "4435122522": {
+   "status": "screened_out",
+   "title": "Pilote outillage projet F/H",
+   "company": "SEGULA Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4435122522/",
+   "key": "pilote outillage projet f h|segula",
+   "at": "2026-11-07T11:10:23+00:00",
+   "reason": "L'offre concerne le pilotage d'outillage plastique (injection, moules, DfM, mise au point) et la négociation avec des moulistes, sans aucun lien avec l'eau ni la chimie des eaux. Elle demande un expert avec au moins 10 ans d'expérience et un profil de management de projet."
+  },
+  "4471644404": {
+   "status": "screened_out",
+   "title": "Commissioning Manager M/W",
+   "company": "Air Liquide",
+   "url": "https://www.linkedin.com/jobs/view/4471644404/",
+   "key": "commissioning manager m w|air",
+   "at": "2026-11-07T11:10:23+00:00",
+   "reason": "Commissioning Manager chez Air Liquide E&C : pilotage de la mise en service et du démarrage d'installations industrielles (planification, coordination HSE, documentation, essais à froid et à chaud), sans lien avec la qualité ou le traitement de l'eau. Poste de management de niveau cadre expérimenté exigeant au moins 8 ans d'expérience et 5 ans comme commissioning manager, avec déplacements internationaux de 6 à 18 mois."
   }
  }
 }
