@@ -16989,6 +16989,58 @@
    "url": "https://www.linkedin.com/jobs/view/4472273664/",
    "key": "ingenieur d etudes stagiaire|engie",
    "at": "2026-11-08T17:16:56+00:00"
+  },
+  "4443431129": {
+   "status": "duplicate",
+   "title": "Ingénieur des ventes - Normandie - Ile de France Ouest",
+   "company": "GRUNDFOS",
+   "url": "https://www.linkedin.com/jobs/view/4443431129/",
+   "key": "ingenieur des ventes normandie ile de france ouest|grundfos",
+   "at": "2026-11-08T17:59:44+00:00"
+  },
+  "4472271676": {
+   "status": "title_excluded",
+   "title": "Stagiaire Chargé(e) de projets",
+   "company": "ENGIE Solutions France",
+   "url": "https://www.linkedin.com/jobs/view/4472271676/",
+   "key": "stagiaire charge de projets|engie",
+   "at": "2026-11-08T17:59:44+00:00"
+  },
+  "4441948913": {
+   "status": "screened_out",
+   "title": "Ingénieur Commercial – H/F",
+   "company": "SUEZ",
+   "url": "https://www.linkedin.com/jobs/view/4441948913/",
+   "key": "ingenieur commercial h f|suez",
+   "at": "2026-11-08T17:59:44+00:00",
+   "reason": "Poste d'ingénieur commercial B2B sur le traitement et le stockage de déchets dangereux industriels, sans lien avec la qualité ou le traitement des eaux ; missions de prospection, négociation et fidélisation. Niveau Bac+5 et CDI à Villeparisis (77), mais l'expérience commerciale 'confirmée' sans durée est exigée."
+  },
+  "4486688956": {
+   "status": "screened_out",
+   "title": "Agent polyvalent d'entretien des espaces verts (H/F)",
+   "company": "Grape Hospitality",
+   "url": "https://www.linkedin.com/jobs/view/4486688956/",
+   "key": "agent polyvalent d entretien des espaces verts h f|grape",
+   "at": "2026-11-08T17:59:44+00:00",
+   "reason": "Poste d'agent polyvalent d'entretien des espaces verts (tonte, taille, élagage, entretien de sentiers) sans aucun lien avec la qualité des eaux ni la chimie ; niveau opérationnel de terrain, bien en dessous du Bac+5 visé. Contrat CDD à Le Coudray-Montceaux (91), sans durée précisée."
+  },
+  "4487101460": {
+   "status": "screened_out",
+   "title": "INGENIEUR SUPPORT PROCEDES EPITAXIE",
+   "company": "LYNRED",
+   "url": "https://www.linkedin.com/jobs/view/4487101460/",
+   "key": "ingenieur support procedes epitaxie|lynred",
+   "at": "2026-11-08T17:59:44+00:00",
+   "reason": "Le poste est un ingénieur support procédés d'épitaxie MBE sur matériaux III-V pour capteurs infrarouges, en semi-conducteurs et microélectronique, sans lien avec l'eau ni la chimie des eaux. Niveau ingénieur, expérience en épitaxie non chiffrée (« expérience réussie »), contrat non indiqué, basé à Palaiseau (Essonne, hors Île-de-France visée ici? Palaiseau est en Essonne, département 91, donc en Île-de-France)."
+  },
+  "4461401665": {
+   "status": "screened_out",
+   "title": "Ingénieur Inspection et support sites - Echangeurs thermiques",
+   "company": "Arabelle Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4461401665/",
+   "key": "ingenieur inspection et support sites echangeurs thermiques|arabelle",
+   "at": "2026-11-08T17:59:44+00:00",
+   "reason": "Le poste d'ingénieur inspection d'échangeurs thermiques nucléaires porte sur la mécanique, le soudage, les appareils sous pression et les codes de construction, sans lien avec l'eau. Il demande 5+ ans d'expérience et ne précise pas le type de contrat."
   }
  }
 }
