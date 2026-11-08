@@ -17041,6 +17041,31 @@
    "key": "ingenieur inspection et support sites echangeurs thermiques|arabelle",
    "at": "2026-11-08T17:59:44+00:00",
    "reason": "Le poste d'ingénieur inspection d'échangeurs thermiques nucléaires porte sur la mécanique, le soudage, les appareils sous pression et les codes de construction, sans lien avec l'eau. Il demande 5+ ans d'expérience et ne précise pas le type de contrat."
+  },
+  "4472277509": {
+   "status": "title_excluded",
+   "title": "Stagiaire - Ingénieur Conception chiffrage",
+   "company": "ENGIE Solutions France",
+   "url": "https://www.linkedin.com/jobs/view/4472277509/",
+   "key": "stagiaire ingenieur conception chiffrage|engie",
+   "at": "2026-11-08T18:41:18+00:00"
+  },
+  "4461245026": {
+   "status": "title_excluded",
+   "title": "Stage- Chargé de Projet Environnement LVMH (F/H) - janvier 2027",
+   "company": "LVMH",
+   "url": "https://www.linkedin.com/jobs/view/4461245026/",
+   "key": "stage charge de projet environnement lvmh f h janvier 2027|lvmh",
+   "at": "2026-11-08T18:41:18+00:00"
+  },
+  "4472455116": {
+   "status": "screened_out",
+   "title": "Chef de projet énergie et investissement en CDD F/H",
+   "company": "VINCI Concessions",
+   "url": "https://www.linkedin.com/jobs/view/4472455116/",
+   "key": "chef de projet energie et investissement en cdd f h|vinci",
+   "at": "2026-11-08T18:41:18+00:00",
+   "reason": "Le poste de chef de projet énergie et investissement porte sur la décarbonation, la modélisation financière et l'évaluation de projets énergétiques (renouvelables, mobilité, efficacité énergétique), sans lien avec l'eau ni avec la chimie des eaux. Niveau Bac+5 et CDD de janvier à septembre 2027 (9 mois), mais expérience demandée supérieure à 3 ans et localisation à Nanterre (Hauts-de-Seine, Île-de-France)."
   }
  }
 }
