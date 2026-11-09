@@ -17358,6 +17358,83 @@
    "key": "ingenieur qualite ingenieur qualite|agap2",
    "at": "2026-11-09T08:38:58+00:00",
    "reason": "Poste d'ingénieur qualité fournisseurs dans le nucléaire (audits fournisseurs, CND, codes RCC-M et ESPN, équipements mécaniques et sous pression), sans lien avec l'eau ni la chimie des eaux. Niveau Bac+3 à Bac+5, CDI, Île-de-France, expérience non chiffrée."
+  },
+  "4487142500": {
+   "status": "duplicate",
+   "title": "Ingénieur CVC H/F",
+   "company": "Extia Ingénierie",
+   "url": "https://www.linkedin.com/jobs/view/4487142500/",
+   "key": "ingenieur cvc h f|extia",
+   "at": "2026-11-09T09:42:08+00:00"
+  },
+  "4479957248": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieure / Ingénieur ESSAIS - Amélioration process essais E2E",
+   "company": "ArianeGroup",
+   "url": "https://www.linkedin.com/jobs/view/4479957248/",
+   "key": "stage ingenieur ingenieur essais amelioration process essais e2e|arianegroup",
+   "at": "2026-11-09T09:42:08+00:00"
+  },
+  "4487689333": {
+   "status": "title_excluded",
+   "title": "Technicien(ne) Qualité et Production H/F",
+   "company": "RHSelect",
+   "url": "https://www.linkedin.com/jobs/view/4487689333/",
+   "key": "technicien qualite et production h f|rhselect",
+   "at": "2026-11-09T09:42:08+00:00"
+  },
+  "4479946808": {
+   "status": "title_excluded",
+   "title": "STAGE - Ingénieure / Ingénieur en Optique et Simulation de Rayonnement",
+   "company": "ArianeGroup",
+   "url": "https://www.linkedin.com/jobs/view/4479946808/",
+   "key": "stage ingenieur ingenieur en optique et simulation de rayonnement|arianegroup",
+   "at": "2026-11-09T09:42:08+00:00"
+  },
+  "4479337951": {
+   "status": "screened_out",
+   "title": "Strategy & Transformation Analyst",
+   "company": "CULLIGAN FRANCE",
+   "url": "https://www.linkedin.com/jobs/view/4479337951/",
+   "key": "strategy transformation analyst|culligan",
+   "at": "2026-11-09T09:42:08+00:00",
+   "reason": "Le poste est un rôle de Strategy & Transformation Analyst au siège de Culligan (Versailles) : planification stratégique, suivi de projets de transformation, analyses Excel/Power BI et présentations au Comité de Direction. Aucune mission ne porte sur la qualité des eaux, l'analyse de l'eau, la chimie ou le traitement de l'eau, malgré le nom de l'entreprise. Niveau cadre Bac+5 (école de commerce ou d'ingénieur), expérience de plus de 2 ans demandée, CDI."
+  },
+  "4487679664": {
+   "status": "screened_out",
+   "title": "Dessinateur projeteur/Dessinatrice projeteuse",
+   "company": "BEAUDREY",
+   "url": "https://www.linkedin.com/jobs/view/4487679664/",
+   "key": "dessinateur projeteur dessinatrice projeteuse|beaudrey",
+   "at": "2026-11-09T09:42:08+00:00",
+   "reason": "Poste de dessinateur projeteur réalisant des plans techniques de conception mécanique pour équipements de traitement mécanique des eaux, sans mission d'analyse ni de chimie des eaux. Niveau technicien Bac+2/3 et 5 ans d'expérience exigés, hors profil Bac+5 recherché."
+  },
+  "4488830696": {
+   "status": "screened_out",
+   "title": "[CDD] CHARGÉ(E) D'ETUDES CEE & SUBVENTIONS (F/H)",
+   "company": "Groupe Coriance",
+   "url": "https://www.linkedin.com/jobs/view/4488830696/",
+   "key": "cdd charge d etudes cee subventions f h|groupe",
+   "at": "2026-11-09T09:42:08+00:00",
+   "reason": "Le poste de chargé(e) d'études CEE & subventions porte sur le montage de dossiers de subventions et de certificats d'économies d'énergie dans le secteur de la transition énergétique et des réseaux de chaleur, sans lien avec l'eau. Le niveau est Bac+5 avec une expérience similaire demandée dans le marché de l'énergie, en CDD de 12 mois à Noisy-le-Grand (93)."
+  },
+  "4487777351": {
+   "status": "screened_out",
+   "title": "Responsable Certification Volontaire (H/F)",
+   "company": "Tecnea - Cemafroid",
+   "url": "https://www.linkedin.com/jobs/view/4487777351/",
+   "key": "responsable certification volontaire h f|tecnea",
+   "at": "2026-11-09T09:42:08+00:00",
+   "reason": "Le poste de responsable certification volontaire porte sur la certification de matériels de la chaîne du froid (Certibruit, Certicold Pharma, HACCP), sans lien avec l'eau : missions de certification, audits et référentiels. Niveau Bac+5 en CDI, à Fresnes (94), mais aucune expérience chiffrée n'est demandée."
+  },
+  "4487691447": {
+   "status": "screened_out",
+   "title": "Assistant ingénieur études  H/F",
+   "company": "Groupe Solstyce",
+   "url": "https://www.linkedin.com/jobs/view/4487691447/",
+   "key": "assistant ingenieur etudes h f|groupe",
+   "at": "2026-11-09T09:42:08+00:00",
+   "reason": "Offre d'ingénieur études photovoltaïque en stage de 6 mois : conception de centrales solaires, simulation PVsyst, schémas électriques et notes de calcul AC/DC, sans aucun lien avec l'eau. Le poste est un stage (contrat non éligible) et ne correspond pas au domaine de l'eau visé par la candidate."
   }
  }
 }
