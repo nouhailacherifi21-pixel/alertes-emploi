@@ -19528,6 +19528,49 @@
    "key": "ingenieur confirme en developpement mecanique|thales",
    "at": "2026-11-10T15:48:28+00:00",
    "reason": "Poste d'ingénieur en développement mécanique et thermique de radars (structuration de dossiers, revues de développement, simulation, CAO CREO/CATIA), sans lien avec l'eau ni la chimie. Niveau ingénieur Bac+5 mais expérience de 5 à 10 ans demandée, hors profil de la candidate."
+  },
+  "4489611085": {
+   "status": "title_excluded",
+   "title": "Stage Technicien de Laboratoire Parfum",
+   "company": "IFF",
+   "url": "https://www.linkedin.com/jobs/view/4489611085/",
+   "key": "stage technicien de laboratoire parfum|iff",
+   "at": "2026-11-10T16:45:03+00:00"
+  },
+  "4472753538": {
+   "status": "title_excluded",
+   "title": "Stagiaire HSE - Maîtrise du risque chimique - 3 à 6 mois F/H",
+   "company": "GTT",
+   "url": "https://www.linkedin.com/jobs/view/4472753538/",
+   "key": "stagiaire hse maitrise du risque chimique 3 a 6 mois f h|gtt",
+   "at": "2026-11-10T16:45:03+00:00"
+  },
+  "4489490708": {
+   "status": "screened_out",
+   "title": "Ingenieur ACV, Durabilite et Circularite IRM",
+   "company": "GE HealthCare",
+   "url": "https://www.linkedin.com/jobs/view/4489490708/",
+   "key": "ingenieur acv durabilite et circularite irm|ge",
+   "at": "2026-11-10T16:45:03+00:00",
+   "reason": "Poste d'ingénieur ACV (analyse du cycle de vie) sur les équipements médicaux IRM, sans lien avec l'eau : missions de modélisation environnementale, données d'inventaire et circularité produit. Niveau Bac+5 exigé, au moins 3 ans d'expérience, contrat non indiqué, poste à Buc (Yvelines)."
+  },
+  "4487801436": {
+   "status": "screened_out",
+   "title": "Responsable Amélioration Continue et Projets Qualité F/H",
+   "company": "Guerbet",
+   "url": "https://www.linkedin.com/jobs/view/4487801436/",
+   "key": "responsable amelioration continue et projets qualite f h|guerbet",
+   "at": "2026-11-10T16:45:03+00:00",
+   "reason": "Poste de responsable amélioration continue et projets qualité dans une usine pharmaceutique/imagerie médicale (Guerbet), sans lien avec l'eau : missions Lean, pilotage de projets et management d'équipe. Profil demandé pharmacien avec 5 ans minimum et management, CDI à Aulnay-sous-Bois (93)."
+  },
+  "4488396298": {
+   "status": "screened_out",
+   "title": "Chargé de missions de contrats de performance énergétique (CPE) F/H",
+   "company": "Département de Seine-et-Marne",
+   "url": "https://www.linkedin.com/jobs/view/4488396298/",
+   "key": "charge de missions de contrats de performance energetique cpe f h|departement",
+   "at": "2026-11-10T16:45:03+00:00",
+   "reason": "Le poste de chargé de missions CPE porte sur la performance énergétique des bâtiments (CVC, génie thermique, réseaux de chaleur), sans lien avec la qualité ou le traitement de l'eau. Niveau ingénieur demandant une expérience confirmée sans durée, ce qui est écarté par le critère senior/confirmé."
   }
  }
 }
