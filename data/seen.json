@@ -20262,6 +20262,71 @@
    "key": "gestionnaire du personnel|utb",
    "at": "2026-11-11T15:31:59+00:00",
    "reason": "Le poste est un gestionnaire du personnel (administration du personnel et paie) dans le bâtiment, sans aucun lien avec l'eau, la chimie ou les laboratoires. Il s'agit d'un niveau assistant/gestionnaire RH, demande 4 ans d'expérience et un CDD de 3 mois à Romainville."
+  },
+  "4418174298": {
+   "status": "title_excluded",
+   "title": "Technicien Métrologie",
+   "company": "Stanley Black & Decker, Inc.",
+   "url": "https://www.linkedin.com/jobs/view/4418174298/",
+   "key": "technicien metrologie|stanley",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4480743542": {
+   "status": "title_excluded",
+   "title": "Technicien Environnement ICPE et Risques Industriels H/F",
+   "company": "SOCOTEC",
+   "url": "https://www.linkedin.com/jobs/view/4480743542/",
+   "key": "technicien environnement icpe et risques industriels h f|socotec",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4481744117": {
+   "status": "title_excluded",
+   "title": "LVMH Gaïa - Stage Nouvelles Matières et Textile pour la Mode et Maroquinerie (F/H)",
+   "company": "LVMH",
+   "url": "https://www.linkedin.com/jobs/view/4481744117/",
+   "key": "lvmh gaia stage nouvelles matieres et textile pour la mode et maroquinerie f h|lvmh",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4462239541": {
+   "status": "title_excluded",
+   "title": "Stage    -      Stage de Fin d’études / Ingénieur innovation en Systèmes Intelligents - Paris, France  (H/F)",
+   "company": "Astek",
+   "url": "https://www.linkedin.com/jobs/view/4462239541/",
+   "key": "stage stage de fin d etudes ingenieur innovation en systemes intelligents paris france h f|astek",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4473784988": {
+   "status": "title_excluded",
+   "title": "Stage Electrique : Etude d'intégrations électriques des installations de tir navales F/H",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4473784988/",
+   "key": "stage electrique etude d integrations electriques des installations de tir navales f h|mbda",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4473762845": {
+   "status": "title_excluded",
+   "title": "STAGE -  Ingénieur.e Traitement du Signal Goniométrie H/F",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4473762845/",
+   "key": "stage ingenieur traitement du signal goniometrie h f|thales",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4481761213": {
+   "status": "title_excluded",
+   "title": "STAGE - Navigation Automatique aidée par la vision - F/H",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4481761213/",
+   "key": "stage navigation automatique aidee par la vision f h|thales",
+   "at": "2026-11-11T16:28:58+00:00"
+  },
+  "4455778214": {
+   "status": "screened_out",
+   "title": "Ingénieur Innovation Optique F/H",
+   "company": "Valeo",
+   "url": "https://www.linkedin.com/jobs/view/4455778214/",
+   "key": "ingenieur innovation optique f h|valeo",
+   "at": "2026-11-11T16:28:58+00:00",
+   "reason": "Poste d'ingénieur optique en R&D automobile (systèmes d'éclairage, simulation optique Zemax/Lightools) sans aucun lien avec l'eau ni la chimie. Niveau Bac+5, minimum 3 ans d'expérience en design optique, CDI non précisé dans l'offre, basé à Bobigny (93)."
   }
  }
 }
