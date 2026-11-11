@@ -20327,6 +20327,91 @@
    "key": "ingenieur innovation optique f h|valeo",
    "at": "2026-11-11T16:28:58+00:00",
    "reason": "Poste d'ingénieur optique en R&D automobile (systèmes d'éclairage, simulation optique Zemax/Lightools) sans aucun lien avec l'eau ni la chimie. Niveau Bac+5, minimum 3 ans d'expérience en design optique, CDI non précisé dans l'offre, basé à Bobigny (93)."
+  },
+  "4473023445": {
+   "status": "duplicate",
+   "title": "Water Treatment Design Engineer - Global High Tech",
+   "company": "Ecolab",
+   "url": "https://www.linkedin.com/jobs/view/4473023445/",
+   "key": "water treatment design engineer global high tech|ecolab",
+   "at": "2026-11-11T17:29:44+00:00"
+  },
+  "4481727882": {
+   "status": "title_excluded",
+   "title": "LVMH Gaïa - Stage Formulation de polymères biosourcés haute performance",
+   "company": "LVMH",
+   "url": "https://www.linkedin.com/jobs/view/4481727882/",
+   "key": "lvmh gaia stage formulation de polymeres biosources haute performance|lvmh",
+   "at": "2026-11-11T17:29:44+00:00"
+  },
+  "4464342864": {
+   "status": "duplicate",
+   "title": "Site Supervisor",
+   "company": "Ecolab",
+   "url": "https://www.linkedin.com/jobs/view/4464342864/",
+   "key": "site supervisor|ecolab",
+   "at": "2026-11-11T17:29:44+00:00"
+  },
+  "4473294224": {
+   "status": "title_excluded",
+   "title": "Directeur / Directrice de projets",
+   "company": "Artelia",
+   "url": "https://www.linkedin.com/jobs/view/4473294224/",
+   "key": "directeur directrice de projets|artelia",
+   "at": "2026-11-11T17:29:44+00:00"
+  },
+  "4472143976": {
+   "status": "title_excluded",
+   "title": "Stage Aéronautique : Calcul de trajectoire via des méthodes d'optimisation mathématique F/H",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4472143976/",
+   "key": "stage aeronautique calcul de trajectoire via des methodes d optimisation mathematique f h|mbda",
+   "at": "2026-11-11T17:29:44+00:00"
+  },
+  "4481736259": {
+   "status": "screened_out",
+   "title": "Opérateur TDE (H/F)",
+   "company": "TotalEnergies",
+   "url": "https://www.linkedin.com/jobs/view/4481736259/",
+   "key": "operateur tde h f|totalenergies",
+   "at": "2026-11-11T17:29:44+00:00",
+   "reason": "Poste d'opérateur extérieur utilités (TDE, stockages) sur une plateforme pétrochimique de raffinage/biocarburant : missions de conduite, manœuvres, tournées et prises d'échantillons, sans recherche d'analyse de l'eau ni de traitement des eaux conçu comme objet d'étude. Niveau opérateur (non Bac+5), expérience et contrat non précisés."
+  },
+  "4464341885": {
+   "status": "screened_out",
+   "title": "Site Supervisor",
+   "company": "Ecolab",
+   "url": "https://www.linkedin.com/jobs/view/4464341885/",
+   "key": "site supervisor|ecolab",
+   "at": "2026-11-11T17:29:44+00:00",
+   "reason": "Poste de site supervisor : supervision de l'installation sur chantier de systèmes de traitement d'eau ultra-pure, avec profil technique de tuyauteur/technicien et déplacements internationaux jusqu'à 90%. Ce n'est pas un poste Bac+5 d'ingénieur qualité ou d'études, et il porte sur la construction et la pose de tuyauteries plutôt que sur l'analyse ou la qualité de l'eau."
+  },
+  "4473905489": {
+   "status": "screened_out",
+   "title": "Responsable de Secteur",
+   "company": "Ecolab",
+   "url": "https://www.linkedin.com/jobs/view/4473905489/",
+   "key": "responsable de secteur|ecolab",
+   "at": "2026-11-11T17:29:44+00:00",
+   "reason": "Poste de Territory Manager commercial B2B dans la vente de produits de nettoyage et désinfection pour restaurants et hôtels, avec installation et maintenance mécanique d'équipements de lavage ; aucune mission liée à l'eau au sens qualité, traitement ou analyse, et niveau non cadre (Bac+3 minimum, vente). Expérience d'1 an en vente externe demandée, CDI-like non précisé, Paris."
+  },
+  "4385489121": {
+   "status": "screened_out",
+   "title": "Chargé d'Etudes et Projet Confirmé / Principal F/H",
+   "company": "Eiffage Construction",
+   "url": "https://www.linkedin.com/jobs/view/4385489121/",
+   "key": "charge d etudes et projet confirme principal f h|eiffage",
+   "at": "2026-11-11T17:29:44+00:00",
+   "reason": "Poste de chargé d'études et projets confirmé dans le bâtiment (logements neufs et réhabilitation) : conception, chiffrage, coordination de bureaux d'études et rédaction de mémoires techniques, sans aucun lien avec l'eau ni la chimie. Niveau cadre compatible, expérience « confirmé » sans durée donc refusée, contrat CDI à Saint-Ouen (Île-de-France)."
+  },
+  "4473283013": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) études capteurs inertiels & navigation F/H",
+   "company": "MBDA",
+   "url": "https://www.linkedin.com/jobs/view/4473283013/",
+   "key": "ingenieur etudes capteurs inertiels navigation f h|mbda",
+   "at": "2026-11-11T17:29:44+00:00",
+   "reason": "Poste d'ingénieur études capteurs inertiels et navigation pour systèmes d'armes chez MBDA : missions de performance, spécification, essais et analyse de non-conformités sur des équipements inertiels, sans lien avec l'eau. Niveau ingénieur, expérience non chiffrée, CDI non précisé dans l'offre, lieu Le Plessis-Robinson (92)."
   }
  }
 }
