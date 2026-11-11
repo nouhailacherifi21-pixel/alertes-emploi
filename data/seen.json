@@ -20237,6 +20237,31 @@
    "key": "ingenieur charge de l exploitation des donnees experimentales h f|cea",
    "at": "2026-11-11T13:43:30+00:00",
    "reason": "Poste d'ingénieur au CEA DAM consacré au traitement du signal et à l'exploitation de données de mesures nucléaires (rayonnements X, gamma, neutrons), sans lien avec l'eau ni la qualité des eaux. Niveau ingénieur Bac+5, contrat non précisé, en Essonne (91), expérience « une première expérience serait un plus » sans durée."
+  },
+  "4488692957": {
+   "status": "duplicate",
+   "title": "Ingénieur qualité (H/F)",
+   "company": "ALTEN",
+   "url": "https://www.linkedin.com/jobs/view/4488692957/",
+   "key": "ingenieur qualite h f|alten",
+   "at": "2026-11-11T15:31:59+00:00"
+  },
+  "4481745840": {
+   "status": "title_excluded",
+   "title": "STAGE - Etude, Modélisation et Simulation de Performances de Drones - F/H",
+   "company": "Thales",
+   "url": "https://www.linkedin.com/jobs/view/4481745840/",
+   "key": "stage etude modelisation et simulation de performances de drones f h|thales",
+   "at": "2026-11-11T15:31:59+00:00"
+  },
+  "4489967300": {
+   "status": "screened_out",
+   "title": "Gestionnaire du Personnel",
+   "company": "UTB - Union Technique du Bâtiment",
+   "url": "https://www.linkedin.com/jobs/view/4489967300/",
+   "key": "gestionnaire du personnel|utb",
+   "at": "2026-11-11T15:31:59+00:00",
+   "reason": "Le poste est un gestionnaire du personnel (administration du personnel et paie) dans le bâtiment, sans aucun lien avec l'eau, la chimie ou les laboratoires. Il s'agit d'un niveau assistant/gestionnaire RH, demande 4 ans d'expérience et un CDD de 3 mois à Romainville."
   }
  }
 }
