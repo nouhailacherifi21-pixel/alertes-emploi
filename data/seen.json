@@ -20029,6 +20029,48 @@
    "key": "quality engineer|morgan",
    "at": "2026-11-11T09:24:51+00:00",
    "reason": "Quality & Product Assurance Engineer dans l'électronique spatiale et défense : missions d'assurance qualité hardware, AIT, AMDEC, audits fournisseurs, sans lien avec l'eau. Poste de niveau ingénieur demandant 3-5+ ans d'expérience, en CDI à Paris, avec habilitation défense exigée."
+  },
+  "4480657739": {
+   "status": "title_excluded",
+   "title": "Stage 3 mois - Technicien Controle Qualité (h/f)",
+   "company": "BASF",
+   "url": "https://www.linkedin.com/jobs/view/4480657739/",
+   "key": "stage 3 mois technicien controle qualite h f|basf",
+   "at": "2026-11-11T10:27:24+00:00"
+  },
+  "4478929329": {
+   "status": "title_excluded",
+   "title": "Technicien(ne) de Maintenance Multitechnique – CDD",
+   "company": "Equinix",
+   "url": "https://www.linkedin.com/jobs/view/4478929329/",
+   "key": "technicien de maintenance multitechnique cdd|equinix",
+   "at": "2026-11-11T10:27:24+00:00"
+  },
+  "4471522404": {
+   "status": "title_excluded",
+   "title": "Stage - Régulations de la chaudière d'un REP – Réalisation d'un jumeau MATLAB/SIMULINK F/H",
+   "company": "Framatome",
+   "url": "https://www.linkedin.com/jobs/view/4471522404/",
+   "key": "stage regulations de la chaudiere d un rep realisation d un jumeau matlab simulink f h|framatome",
+   "at": "2026-11-11T10:27:24+00:00"
+  },
+  "4488688034": {
+   "status": "screened_out",
+   "title": "Ingénieur(e) Intégration & Validation Cryogénique",
+   "company": "Quandela",
+   "url": "https://www.linkedin.com/jobs/view/4488688034/",
+   "key": "ingenieur integration validation cryogenique|quandela",
+   "at": "2026-11-11T10:27:24+00:00",
+   "reason": "Poste d'intégration et validation d'équipements dans des cryostats pour processeurs quantiques photoniques, sans lien avec l'eau ni la qualité des eaux ; niveau ingénieur Bac+5 mais domaine hors cible. Aucune expérience chiffrée demandée, CDI non précisé, lieu Massy (Essonne, Île-de-France)."
+  },
+  "4464675775": {
+   "status": "screened_out",
+   "title": "Préventeur HSE H/F",
+   "company": "SEGULA Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4464675775/",
+   "key": "preventeur hse h f|segula",
+   "at": "2026-11-11T10:27:24+00:00",
+   "reason": "Poste de préventeur HSE centré sur l'analyse des risques chimiques, le DUER, les fiches de sécurité et la réglementation sécurité/environnement (déchets, rejets d'eau, sols, frigorigènes, bruit, vibrations) ; le lien avec l'eau est marginal (rejets d'eau parmi d'autres thèmes), pas un poste de qualité ou traitement des eaux. Niveau ingénieur Bac+5 mais exige au moins 4 ans d'expérience sur poste similaire, soit au-delà de 3 ans ; localisation à Guyancourt (78) mais contrat non précisé."
   }
  }
 }
