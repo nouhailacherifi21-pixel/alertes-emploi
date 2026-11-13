@@ -22207,6 +22207,32 @@
    "url": "https://www.linkedin.com/jobs/view/4489553232/",
    "key": "stage de fin d etudes ingenieur btp genie civil h f hauts de seine|btp",
    "at": "2026-11-13T08:20:35+00:00"
+  },
+  "4490582892": {
+   "status": "title_excluded",
+   "title": "Alternance Gestionnaire ADV, Facturation & Recouvrement (H/F)",
+   "company": "AVEKAPETI - Service traiteur",
+   "url": "https://www.linkedin.com/jobs/view/4490582892/",
+   "key": "alternance gestionnaire adv facturation recouvrement h f|avekapeti",
+   "at": "2026-11-13T09:27:43+00:00"
+  },
+  "4490584778": {
+   "status": "screened_out",
+   "title": "Responsable Business Development  (H/F)",
+   "company": "Gen-hy",
+   "url": "https://www.linkedin.com/jobs/view/4490584778/",
+   "key": "responsable business development h f|gen",
+   "at": "2026-11-13T09:27:43+00:00",
+   "reason": "Poste de responsable business development hydrogène (électrolyse) : missions commerciales, négociation et structuration d'offres pilotes, sans lien avec la qualité ou le traitement de l'eau. Niveau ingénieur mais expérience demandée de 5 à 8 ans, au-delà de 3 ans."
+  },
+  "4490583874": {
+   "status": "screened_out",
+   "title": "Hardware Engineer – Bring-up, Test & Demos",
+   "company": "NcodiN",
+   "url": "https://www.linkedin.com/jobs/view/4490583874/",
+   "key": "hardware engineer bring up test demos|ncodin",
+   "at": "2026-11-13T09:27:43+00:00",
+   "reason": "Poste d'ingénieur hardware en électronique haute vitesse et optique (bring-up, tests de liens SerDes, BER, démonstrations clients) pour interconnexion photonique IA, sans lien avec l'eau ni la chimie des eaux. Il demande au moins 5 ans d'expérience, un profil hors champ de la candidate."
   }
  }
 }
