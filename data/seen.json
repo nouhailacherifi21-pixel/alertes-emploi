@@ -22191,6 +22191,22 @@
    "key": "assistant technique h f|technosol",
    "at": "2026-11-13T07:00:01+00:00",
    "reason": "Assistant technique en bureau d'études géotechniques (dépouillement d'essais géotechniques, dessin de plans de sondages), sans lien avec la qualité de l'eau ; niveau Technicien supérieur ou Licence, pas Bac+5."
+  },
+  "4488900922": {
+   "status": "duplicate",
+   "title": "Référent(e) métier national économie circulaire",
+   "company": "GINGER DELEO",
+   "url": "https://www.linkedin.com/jobs/view/4488900922/",
+   "key": "referent metier national economie circulaire|ginger",
+   "at": "2026-11-13T08:20:35+00:00"
+  },
+  "4489553232": {
+   "status": "title_excluded",
+   "title": "Stage de Fin d'Études Ingénieur BTP / Génie Civil (H/F) - Hauts-de-Seine",
+   "company": "BTP Consultants",
+   "url": "https://www.linkedin.com/jobs/view/4489553232/",
+   "key": "stage de fin d etudes ingenieur btp genie civil h f hauts de seine|btp",
+   "at": "2026-11-13T08:20:35+00:00"
   }
  }
 }
