@@ -23450,6 +23450,91 @@
    "key": "ingenieur en genie electrique bureau d etudes energies renouvelables reseau gaz h f|vulcain",
    "at": "2026-11-14T13:35:46+00:00",
    "reason": "L'offre concerne la conception d'installations électriques BT/HTA (NFC 15-100, Caneco, schémas unifilaires) pour des réseaux gaz et méthanisation, sans mission sur la qualité ou le traitement de l'eau ; le poste est de niveau ingénieur Bac+5 en Île-de-France, avec 2 ans minimum en bureau d'études."
+  },
+  "4481696258": {
+   "status": "title_excluded",
+   "title": "Technicien(ne) en Radiotoxicologie, en anthroporadiométrie, Biologie Médicale et Toxicologie. H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4481696258/",
+   "key": "technicien en radiotoxicologie en anthroporadiometrie biologie medicale et toxicologie h f|cea",
+   "at": "2026-11-14T14:25:57+00:00"
+  },
+  "4481698209": {
+   "status": "title_excluded",
+   "title": "Technicien Purification DSP (F/H/X) - Région Bordelaise",
+   "company": "AbbVie",
+   "url": "https://www.linkedin.com/jobs/view/4481698209/",
+   "key": "technicien purification dsp f h x region bordelaise|abbvie",
+   "at": "2026-11-14T14:25:57+00:00"
+  },
+  "4476203473": {
+   "status": "title_excluded",
+   "title": "Associate Director (Civil)",
+   "company": "Black & White Engineering",
+   "url": "https://www.linkedin.com/jobs/view/4476203473/",
+   "key": "associate director civil|black",
+   "at": "2026-11-14T14:25:57+00:00"
+  },
+  "4474769284": {
+   "status": "duplicate",
+   "title": "Ingénieur Études de Prix Génie Civil H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4474769284/",
+   "key": "ingenieur etudes de prix genie civil h f|nge",
+   "at": "2026-11-14T14:25:57+00:00"
+  },
+  "4481687864": {
+   "status": "title_excluded",
+   "title": "Stage - Développement de Quantum Dots de Nitrure de Bore Hexagonal-Saclay- H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4481687864/",
+   "key": "stage developpement de quantum dots de nitrure de bore hexagonal saclay h f|cea",
+   "at": "2026-11-14T14:25:57+00:00"
+  },
+  "4474707929": {
+   "status": "screened_out",
+   "title": "Opérateur Robot H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4474707929/",
+   "key": "operateur robot h f|nge",
+   "at": "2026-11-14T14:25:57+00:00",
+   "reason": "Le poste est un emploi d'opérateur robot de réhabilitation de canalisations (fraisage, ITV, chemisage) sur camion-laboratoire, relevant du génie civil et des travaux publics, sans analyse ni qualité de l'eau. Niveau opérateur terrain, non Bac+5, et mobilité sur toute la France."
+  },
+  "4474753888": {
+   "status": "screened_out",
+   "title": "Chef d'équipe H/F",
+   "company": "NGE - BTP",
+   "url": "https://www.linkedin.com/jobs/view/4474753888/",
+   "key": "chef d equipe h f|nge",
+   "at": "2026-11-14T14:25:57+00:00",
+   "reason": "Offre de chef d'équipe travaux BTP (pose de canalisations, réseaux secs et humides, essais de réception eau potable/assainissement) : il s'agit d'un poste de terrain et de management d'équipe, non d'un poste d'ingénierie en qualité ou traitement des eaux. Niveau technicien/encadrement de chantier, sans diplôme Bac+5 exigé ni expérience chiffrée."
+  },
+  "4446067910": {
+   "status": "screened_out",
+   "title": "Métrologie et spectrométrie des rayonnements X pour l'imagerie médicale H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4446067910/",
+   "key": "metrologie et spectrometrie des rayonnements x pour l imagerie medicale h f|cea",
+   "at": "2026-11-14T14:25:57+00:00",
+   "reason": "Post-doctorat en métrologie et spectrométrie des rayonnements X pour l'imagerie médicale au CEA Saclay : missions de métrologie radiologique et dosimétrie, sans lien avec l'eau. Le poste exige un doctorat (niveau supérieur à Bac+5) et ne précise ni durée d'expérience ni type de contrat."
+  },
+  "4399697637": {
+   "status": "screened_out",
+   "title": "CDI Ingénieur.e - Chercheur.se en Modélisation Diphasique et Méthodes Numériques H/F",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4399697637/",
+   "key": "cdi ingenieur chercheur se en modelisation diphasique et methodes numeriques h f|cea",
+   "at": "2026-11-14T14:25:57+00:00",
+   "reason": "Le poste porte sur la modélisation diphasique et les méthodes numériques pour les codes de calcul des réacteurs à sodium (quatrième génération), sans lien avec la qualité ou le traitement de l'eau. Il demande un doctorat (Bac+8) et 1 à 2 ans d'expérience, en CDI, à Saclay (91)."
+  },
+  "4325702119": {
+   "status": "screened_out",
+   "title": "Ingénieur-Chercheur en méthodes formelles pour le quantique - CDD - Paris-Saclay F/H",
+   "company": "CEA",
+   "url": "https://www.linkedin.com/jobs/view/4325702119/",
+   "key": "ingenieur chercheur en methodes formelles pour le quantique cdd paris saclay f h|cea",
+   "at": "2026-11-14T14:25:57+00:00",
+   "reason": "L'offre porte sur les méthodes formelles et la vérification de programmes quantiques (Qbricks, OCaml, sémantique des opérateurs de densité), sans aucun lien avec l'eau ni la qualité des eaux, donc hors domaines recherchés. Le poste est de niveau cadre Bac+5 en CDD de 18 mois renouvelable (jusqu'à 36 mois) à Saclay (91), avec une exigence de doctorat ou plus de trois ans d'expérience, mais le texte mentionne aussi un poste de contrôleur financier, incohérent avec le reste de l'annonce."
   }
  }
 }
