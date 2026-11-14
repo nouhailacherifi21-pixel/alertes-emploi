@@ -23569,6 +23569,55 @@
    "key": "ingenieur methodes et tests f h|thales",
    "at": "2026-11-14T15:52:58+00:00",
    "reason": "Poste d'Ingénieur Méthodes et Tests en électronique, hyperfréquence et testabilité de cartes pour la production défense, sans lien avec l'eau. Niveau ingénieur, mais pilotage d'équipe demandé, donc expérience jugée senior et non conforme au profil junior."
+  },
+  "4491083712": {
+   "status": "title_excluded",
+   "title": "Stage R&D - Etude de la Cryo-Solidification du CO2 H/F",
+   "company": "Air Liquide",
+   "url": "https://www.linkedin.com/jobs/view/4491083712/",
+   "key": "stage r d etude de la cryo solidification du co2 h f|air",
+   "at": "2026-11-14T17:18:22+00:00"
+  },
+  "4491090419": {
+   "status": "title_excluded",
+   "title": "Stage R&D - Distillation cryogénique H/F",
+   "company": "Air Liquide",
+   "url": "https://www.linkedin.com/jobs/view/4491090419/",
+   "key": "stage r d distillation cryogenique h f|air",
+   "at": "2026-11-14T17:18:22+00:00"
+  },
+  "4474704915": {
+   "status": "duplicate",
+   "title": "Ingénieur.e d’étude en démolition & désamiantage H/F",
+   "company": "WSP en France",
+   "url": "https://www.linkedin.com/jobs/view/4474704915/",
+   "key": "ingenieur d etude en demolition desamiantage h f|wsp",
+   "at": "2026-11-14T17:18:22+00:00"
+  },
+  "4491078804": {
+   "status": "duplicate",
+   "title": "Drone System Validation Engineer -FR",
+   "company": "Harmattan AI",
+   "url": "https://www.linkedin.com/jobs/view/4491078804/",
+   "key": "drone system validation engineer fr|harmattan",
+   "at": "2026-11-14T17:18:22+00:00"
+  },
+  "4470898060": {
+   "status": "title_excluded",
+   "title": "Stage : Définition stratégie de corrélation entre moyens de validation ADAS numériques/physiques (xIL)",
+   "company": "Stellantis",
+   "url": "https://www.linkedin.com/jobs/view/4470898060/",
+   "key": "stage definition strategie de correlation entre moyens de validation adas numeriques physiques xil|stellantis",
+   "at": "2026-11-14T17:18:22+00:00"
+  },
+  "4475017089": {
+   "status": "screened_out",
+   "title": "Plombier (F/H)",
+   "company": "ENGIE Solutions France",
+   "url": "https://www.linkedin.com/jobs/view/4475017089/",
+   "key": "plombier f h|engie",
+   "at": "2026-11-14T17:18:22+00:00",
+   "reason": "Il s'agit d'un poste de technicien de maintenance en plomberie sanitaire (dépannage, dégorgement, GMAO), sans lien avec la qualité ou le traitement des eaux ni avec un niveau Bac+5. Le poste exige 5 ans minimum d'expérience, un CDD de 2 mois, et est situé à Paris 13."
   }
  }
 }
