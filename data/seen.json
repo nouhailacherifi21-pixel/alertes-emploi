@@ -23729,6 +23729,41 @@
    "key": "biologiste tns laboratoire de proximite|laboratoire",
    "at": "2026-11-15T15:14:41+00:00",
    "reason": "Il s'agit d'un poste de biologiste médical en laboratoire de proximité, réservé à des médecins ou pharmaciens spécialisés en biologie médicale, avec encadrement d'équipes et relations avec le secteur de santé. Ce n'est ni de la qualité des eaux ni de la chimie des eaux, et le niveau demandé est un doctorat médical, sans durée d'expérience indiquée."
+  },
+  "4489700372": {
+   "status": "title_excluded",
+   "title": "Directeur.trice de Projets - Engineering & Transition Énergétique",
+   "company": "MANERGY",
+   "url": "https://www.linkedin.com/jobs/view/4489700372/",
+   "key": "directeur trice de projets engineering transition energetique|manergy",
+   "at": "2026-11-15T18:02:24+00:00"
+  },
+  "4489700371": {
+   "status": "screened_out",
+   "title": "Chargé.e d’Affaires Réseaux de Chaleur et Energies Renouvelables",
+   "company": "MANERGY",
+   "url": "https://www.linkedin.com/jobs/view/4489700371/",
+   "key": "charge d affaires reseaux de chaleur et energies renouvelables|manergy",
+   "at": "2026-11-15T18:02:24+00:00",
+   "reason": "Poste de chargé d'affaires réseaux de chaleur et énergies renouvelables (géothermie, pompes à chaleur, études de conception, chiffrage, suivi de travaux) : missions énergétiques sans lien avec l'eau. Niveau ingénieur Bac+3 à Bac+5 mais expérience de 5 ans minimum ou profil confirmé, en CDI basé à Créteil."
+  },
+  "4491261393": {
+   "status": "screened_out",
+   "title": "Chef d’équipe",
+   "company": "francilienne clean",
+   "url": "https://www.linkedin.com/jobs/view/4491261393/",
+   "key": "chef d equipe|francilienne",
+   "at": "2026-11-15T18:02:24+00:00",
+   "reason": "Le poste de chef d'équipe encadre une équipe opérationnelle de nettoyage/services sur site à Paris : missions d'organisation, planning, sécurité et management, sans lien avec l'eau ni avec la chimie des eaux. Le niveau d'encadrement opérationnel n'est pas un poste Bac+5 d'ingénieure et l'expérience demandée n'est pas précisée."
+  },
+  "4489389916": {
+   "status": "screened_out",
+   "title": "Ingénieur.e Coordinateur.trice Travaux",
+   "company": "MANERGY",
+   "url": "https://www.linkedin.com/jobs/view/4489389916/",
+   "key": "ingenieur coordinateur trice travaux|manergy",
+   "at": "2026-11-15T18:02:24+00:00",
+   "reason": "L'offre est un poste de coordination travaux sur chantiers de montage (hydraulique, électricité, process, gros œuvre) pour des réseaux de chaleur et installations énergétiques, sans lien avec la qualité ou le traitement de l'eau. Niveau Bac+3 à Bac+5 avec 5 ans minimum d'expérience exigée, en CDI à Créteil (94)."
   }
  }
 }
