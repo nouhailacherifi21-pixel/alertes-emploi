@@ -24183,6 +24183,47 @@
    "key": "ingenieur process f h|hexcel",
    "at": "2026-11-17T15:38:51+00:00",
    "reason": "Poste d'ingénieur process dans la fabrication de composites (fibres de carbone, résines, nids d'abeille), centré sur l'industrialisation, l'optimisation de procédés de production et la gestion de projets industriels, sans lien avec l'eau. Expérience demandée de 2 à 5 ans, contrat non indiqué, lieu Vert-le-Petit (Essonne, hors 91? Vert-le-Petit est dans l'Essonne, code 91, donc Île-de-France)."
+  },
+  "4491718443": {
+   "status": "title_excluded",
+   "title": "Technicien Electromécanicien H/F",
+   "company": "SEQENS",
+   "url": "https://www.linkedin.com/jobs/view/4491718443/",
+   "key": "technicien electromecanicien h f|seqens",
+   "at": "2026-11-17T23:10:32+00:00"
+  },
+  "4491759061": {
+   "status": "title_excluded",
+   "title": "Assistant(e) RSE Stagiaire Stade de France",
+   "company": "GL events",
+   "url": "https://www.linkedin.com/jobs/view/4491759061/",
+   "key": "assistant rse stagiaire stade de france|gl",
+   "at": "2026-11-17T23:10:32+00:00"
+  },
+  "4491437442": {
+   "status": "duplicate",
+   "title": "Field Applications Scientist",
+   "company": "Takara Bio Europe",
+   "url": "https://www.linkedin.com/jobs/view/4491437442/",
+   "key": "field applications scientist|takara",
+   "at": "2026-11-17T23:10:32+00:00"
+  },
+  "4491759572": {
+   "status": "duplicate",
+   "title": "Ingénieur IVVQ",
+   "company": "TerX",
+   "url": "https://www.linkedin.com/jobs/view/4491759572/",
+   "key": "ingenieur ivvq|terx",
+   "at": "2026-11-17T23:10:32+00:00"
+  },
+  "4491441168": {
+   "status": "screened_out",
+   "title": "Ingénieur·e Test Plasma - F/H – Février 2026",
+   "company": "Spark Cleantech",
+   "url": "https://www.linkedin.com/jobs/view/4491441168/",
+   "key": "ingenieur test plasma f h fevrier 2026|spark",
+   "at": "2026-11-17T23:10:32+00:00",
+   "reason": "Stage de 6 mois de test plasma pour la décarbonation de l'hydrogène par plasmalyse du méthane : aucune mission liée à l'eau, il relève de la physique des plasmas et de l'expérimentation mécanique. Niveau M2/ingénieur 2A, donc pas Bac+5 confirmé, et contrat de stage."
   }
  }
 }
