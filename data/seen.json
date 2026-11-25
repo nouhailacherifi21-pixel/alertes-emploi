@@ -25230,6 +25230,50 @@
    "key": "ingenieur calcul et simulation h f|cea",
    "at": "2026-11-24T17:06:33+00:00",
    "reason": "Le poste porte sur le calcul et la simulation numérique d'aimants supraconducteurs HTS (magnétisme, mécanique, bancs de fabrication et d'essais cryogéniques), sans lien avec l'eau ni la qualité des eaux. Niveau Bac+5 ingénieur, mais aucune expérience chiffrée ni type de contrat précisés."
+  },
+  "4494454603": {
+   "status": "title_excluded",
+   "title": "Stage Ingénieur Chargé d'Études Génie Civil F/H",
+   "company": "VINCI Energies",
+   "url": "https://www.linkedin.com/jobs/view/4494454603/",
+   "key": "stage ingenieur charge d etudes genie civil f h|vinci",
+   "at": "2026-11-25T01:25:55+00:00"
+  },
+  "4458322019": {
+   "status": "screened_out",
+   "title": "Study of the CHM behaviour of sand-rich bentonite-sand mixtures (PsD 26-02) H/F",
+   "company": "ASNR - Autorité de sûreté nucléaire et de radioprotection",
+   "url": "https://www.linkedin.com/jobs/view/4458322019/",
+   "key": "study of the chm behaviour of sand rich bentonite sand mixtures psd 26 02 h f|asnr",
+   "at": "2026-11-25T01:25:55+00:00",
+   "reason": "Post-doctorat en géomécanique des argiles (mélanges bentonite-sable, comportement hydro-chimio-mécanique, micro-CT, DRX, MEB) à Fontenay-aux-Roses ; le sujet ne porte pas sur l'eau de traitement ou la qualité des eaux, mais sur le comportement de barrières argileuses pour stockage nucléaire, et exige un doctorat en génie géotechnique. Contrat de post-doctorat, donc non CDI/CDD long, et niveau doctorat en géotechnique."
+  },
+  "4494449761": {
+   "status": "screened_out",
+   "title": "Canalisateur / Canalisatrice F/H",
+   "company": "Sogea Environnement",
+   "url": "https://www.linkedin.com/jobs/view/4494449761/",
+   "key": "canalisateur canalisatrice f h|sogea",
+   "at": "2026-11-25T01:25:55+00:00",
+   "reason": "Poste de canalisateur(trice) de terrain : pose de réseaux d'eau potable et d'assainissement, travaux VRD, lecture de plans, avec un CAP/BEP exigé. Niveau technicien ouvrier, sans fonction d'ingénierie ni de qualité des eaux, et le contrat ainsi que l'expérience ne sont pas précisés."
+  },
+  "4494464297": {
+   "status": "screened_out",
+   "title": "CDD Chargé.e de mission environnement F/H",
+   "company": "VINCI Autoroutes",
+   "url": "https://www.linkedin.com/jobs/view/4494464297/",
+   "key": "cdd charge de mission environnement f h|vinci",
+   "at": "2026-11-25T01:25:55+00:00",
+   "reason": "Chargé de mission environnement en CDD portant sur le bilan carbone, la modélisation des émissions de GES du trafic autoroutier, les ACV et la décarbonation énergétique ; aucune mission liée à l'eau. Niveau Bac+5 mais le poste relève du climat/énergie et non de la qualité ou du traitement des eaux."
+  },
+  "4493068230": {
+   "status": "screened_out",
+   "title": "Airbus Protect - Ingénieur(e) Etude CEM Aérospatial (All Gender)",
+   "company": "Airbus",
+   "url": "https://www.linkedin.com/jobs/view/4493068230/",
+   "key": "airbus protect ingenieur etude cem aerospatial all gender|airbus",
+   "at": "2026-11-25T01:25:55+00:00",
+   "reason": "Poste d'ingénieur études CEM (compatibilité électromagnétique) aérospatiale/défense, sans lien avec l'eau : missions d'analyse de spectre, essais, filtrage, blindage et conformité normative. Niveau Bac+5 mais demande 2 à 3 ans d'expérience minimum, CDI, basé à Élancourt (Yvelines)."
   }
  }
 }
